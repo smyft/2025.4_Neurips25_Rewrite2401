@@ -1,0 +1,300 @@
+Agent 0: openai/gpt-4o-mini	Agent 1: google/gemini-2.0-flash-001	Agent 2: google/gemini-flash-1.5	Agent 3: deepseek/deepseek-chat-v3-0324	Agent 4: meta-llama/llama-4-scout	Agent 5: meta-llama/llama-3.3-70b-instruct	Agent 6: qwen/qwen-turbo	
+Round: 0, Consistency Metric: -0.298108767477083
+Round: 1, Consistency Metric: -0.2301002863086065
+Round: 2, Consistency Metric: -0.18254358949327268
+Round: 3, Consistency Metric: -0.14918838504119528
+Round: 4, Consistency Metric: -0.1272703180165721
+Agent 0: openai/gpt-4o-mini	Agent 1: openai/gpt-4o-mini	
+Round: 0, Consistency Metric: 0.0
+Round: 1, Consistency Metric: 0.0
+Round: 2, Consistency Metric: 0.0
+Round: 3, Consistency Metric: 0.0
+Round: 4, Consistency Metric: 0.0
+Agent 0: openai/gpt-4o-mini	Agent 1: google/gemini-2.0-flash-001	
+Round: 0, Consistency Metric: -0.07929972125889836
+Round: 1, Consistency Metric: -0.05120518807043863
+Round: 2, Consistency Metric: -0.04159561724277916
+Round: 3, Consistency Metric: -0.04333480853223008
+Round: 4, Consistency Metric: -0.03937653105772956
+Agent 0: openai/gpt-4o-mini	Agent 1: google/gemini-flash-1.5	
+Round: 0, Consistency Metric: -0.0803552228303741
+Round: 1, Consistency Metric: -0.053252661432521026
+Round: 2, Consistency Metric: -0.04497209506044984
+Round: 3, Consistency Metric: -0.04351894274377972
+Round: 4, Consistency Metric: -0.035625210905266096
+Agent 0: openai/gpt-4o-mini	Agent 1: deepseek/deepseek-chat-v3-0324	
+Round: 0, Consistency Metric: -0.01960784643430149
+Round: 1, Consistency Metric: -0.032936543901881034
+Round: 2, Consistency Metric: -0.03513714239596717
+Round: 3, Consistency Metric: -0.022986755824685092
+Round: 4, Consistency Metric: -0.017907145384993266
+Agent 0: openai/gpt-4o-mini	Agent 1: meta-llama/llama-4-scout	
+Round: 0, Consistency Metric: -0.05715249223267395
+Round: 1, Consistency Metric: -0.024865262182861666
+Round: 2, Consistency Metric: -0.026669393975186872
+Round: 3, Consistency Metric: -0.023024936420227547
+Round: 4, Consistency Metric: -0.02113282248008293
+Agent 0: openai/gpt-4o-mini	Agent 1: meta-llama/llama-3.3-70b-instruct	
+Round: 0, Consistency Metric: -0.01162280819449604
+Round: 1, Consistency Metric: -0.017704598947224384
+Round: 2, Consistency Metric: -0.029454975141510898
+Round: 3, Consistency Metric: -0.022657840736200176
+Round: 4, Consistency Metric: -0.020800346878191593
+Agent 0: openai/gpt-4o-mini	Agent 1: qwen/qwen-turbo	
+Round: 0, Consistency Metric: -0.057989625832561606
+Round: 1, Consistency Metric: -0.03227883357720718
+Round: 2, Consistency Metric: -0.04771737643211744
+Round: 3, Consistency Metric: -0.03478140106034119
+Round: 4, Consistency Metric: -0.029015767863521436
+Agent 0: google/gemini-2.0-flash-001	Agent 1: openai/gpt-4o-mini	
+Round: 0, Consistency Metric: -0.07929972125889842
+Round: 1, Consistency Metric: -0.051205188070438605
+Round: 2, Consistency Metric: -0.041595617242779145
+Round: 3, Consistency Metric: -0.04333480853223009
+Round: 4, Consistency Metric: -0.03937653105772957
+Agent 0: google/gemini-2.0-flash-001	Agent 1: google/gemini-2.0-flash-001	
+Round: 0, Consistency Metric: 0.0
+Round: 1, Consistency Metric: 0.0
+Round: 2, Consistency Metric: 0.0
+Round: 3, Consistency Metric: 0.0
+Round: 4, Consistency Metric: 0.0
+Agent 0: google/gemini-2.0-flash-001	Agent 1: google/gemini-flash-1.5	
+Round: 0, Consistency Metric: -0.048448198150497584
+Round: 1, Consistency Metric: -0.031611109746933104
+Round: 2, Consistency Metric: -0.032129981173755644
+Round: 3, Consistency Metric: -0.03711150586017106
+Round: 4, Consistency Metric: -0.020432078746393103
+Agent 0: google/gemini-2.0-flash-001	Agent 1: deepseek/deepseek-chat-v3-0324	
+Round: 0, Consistency Metric: -0.06365845214572227
+Round: 1, Consistency Metric: -0.04212919126095941
+Round: 2, Consistency Metric: -0.047245414485928214
+Round: 3, Consistency Metric: -0.036865181923073746
+Round: 4, Consistency Metric: -0.04237810549051381
+Agent 0: google/gemini-2.0-flash-001	Agent 1: meta-llama/llama-4-scout	
+Round: 0, Consistency Metric: -0.05518775148592372
+Round: 1, Consistency Metric: -0.06889931033066203
+Round: 2, Consistency Metric: -0.048155945901926255
+Round: 3, Consistency Metric: -0.04226973680086556
+Round: 4, Consistency Metric: -0.03421350136429246
+Agent 0: google/gemini-2.0-flash-001	Agent 1: meta-llama/llama-3.3-70b-instruct	
+Round: 0, Consistency Metric: -0.11152258872724392
+Round: 1, Consistency Metric: -0.04449463867675286
+Round: 2, Consistency Metric: -0.04779560692904435
+Round: 3, Consistency Metric: -0.04022744651773384
+Round: 4, Consistency Metric: -0.045489915468329194
+Agent 0: google/gemini-2.0-flash-001	Agent 1: qwen/qwen-turbo	
+Round: 0, Consistency Metric: -0.047661564380122264
+Round: 1, Consistency Metric: -0.0422669010417979
+Round: 2, Consistency Metric: -0.03620923022204489
+Round: 3, Consistency Metric: -0.03669254744608974
+Round: 4, Consistency Metric: -0.03409654687694838
+Agent 0: google/gemini-flash-1.5	Agent 1: openai/gpt-4o-mini	
+Round: 0, Consistency Metric: -0.08035522283037412
+Round: 1, Consistency Metric: -0.053252661432521047
+Round: 2, Consistency Metric: -0.04497209506044986
+Round: 3, Consistency Metric: -0.04351894274377972
+Round: 4, Consistency Metric: -0.035625210905266116
+Agent 0: google/gemini-flash-1.5	Agent 1: google/gemini-2.0-flash-001	
+Round: 0, Consistency Metric: -0.04844819815049756
+Round: 1, Consistency Metric: -0.03161110974693309
+Round: 2, Consistency Metric: -0.03212998117375564
+Round: 3, Consistency Metric: -0.03711150586017106
+Round: 4, Consistency Metric: -0.02043207874639311
+Agent 0: google/gemini-flash-1.5	Agent 1: google/gemini-flash-1.5	
+Round: 0, Consistency Metric: 0.0
+Round: 1, Consistency Metric: 0.0
+Round: 2, Consistency Metric: 0.0
+Round: 3, Consistency Metric: 0.0
+Round: 4, Consistency Metric: 0.0
+Agent 0: google/gemini-flash-1.5	Agent 1: deepseek/deepseek-chat-v3-0324	
+Round: 0, Consistency Metric: -0.08511586121306054
+Round: 1, Consistency Metric: -0.056405795078637154
+Round: 2, Consistency Metric: -0.0472395262995339
+Round: 3, Consistency Metric: -0.039223337552967245
+Round: 4, Consistency Metric: -0.04226839104877856
+Agent 0: google/gemini-flash-1.5	Agent 1: meta-llama/llama-4-scout	
+Round: 0, Consistency Metric: -0.026257404122200068
+Round: 1, Consistency Metric: -0.05842047508755779
+Round: 2, Consistency Metric: -0.042199764756078804
+Round: 3, Consistency Metric: -0.049962182284226
+Round: 4, Consistency Metric: -0.03733548958174534
+Agent 0: google/gemini-flash-1.5	Agent 1: meta-llama/llama-3.3-70b-instruct	
+Round: 0, Consistency Metric: -0.07657377717799822
+Round: 1, Consistency Metric: -0.03413764939532734
+Round: 2, Consistency Metric: -0.04794781273167853
+Round: 3, Consistency Metric: -0.04825471794148829
+Round: 4, Consistency Metric: -0.04571091745548163
+Agent 0: google/gemini-flash-1.5	Agent 1: qwen/qwen-turbo	
+Round: 0, Consistency Metric: -0.08497899164007104
+Round: 1, Consistency Metric: -0.022387718936461957
+Round: 2, Consistency Metric: -0.04419644295623485
+Round: 3, Consistency Metric: -0.04643506399276431
+Round: 4, Consistency Metric: -0.036961936170126046
+Agent 0: deepseek/deepseek-chat-v3-0324	Agent 1: openai/gpt-4o-mini	
+Round: 0, Consistency Metric: -0.01960784643430149
+Round: 1, Consistency Metric: -0.03293654390188102
+Round: 2, Consistency Metric: -0.035137142395967186
+Round: 3, Consistency Metric: -0.02298675582468509
+Round: 4, Consistency Metric: -0.01790714538499327
+Agent 0: deepseek/deepseek-chat-v3-0324	Agent 1: google/gemini-2.0-flash-001	
+Round: 0, Consistency Metric: -0.06365845214572227
+Round: 1, Consistency Metric: -0.04212919126095944
+Round: 2, Consistency Metric: -0.047245414485928235
+Round: 3, Consistency Metric: -0.036865181923073746
+Round: 4, Consistency Metric: -0.0423781054905138
+Agent 0: deepseek/deepseek-chat-v3-0324	Agent 1: google/gemini-flash-1.5	
+Round: 0, Consistency Metric: -0.08511586121306054
+Round: 1, Consistency Metric: -0.056405795078637126
+Round: 2, Consistency Metric: -0.047239526299533915
+Round: 3, Consistency Metric: -0.039223337552967225
+Round: 4, Consistency Metric: -0.04226839104877855
+Agent 0: deepseek/deepseek-chat-v3-0324	Agent 1: deepseek/deepseek-chat-v3-0324	
+Round: 0, Consistency Metric: 0.0
+Round: 1, Consistency Metric: 0.0
+Round: 2, Consistency Metric: 0.0
+Round: 3, Consistency Metric: 0.0
+Round: 4, Consistency Metric: 0.0
+Agent 0: deepseek/deepseek-chat-v3-0324	Agent 1: meta-llama/llama-4-scout	
+Round: 0, Consistency Metric: -0.02990607010853779
+Round: 1, Consistency Metric: -0.03877881417138347
+Round: 2, Consistency Metric: -0.015476339348624298
+Round: 3, Consistency Metric: -0.012427348221740846
+Round: 4, Consistency Metric: -0.0133974991029275
+Agent 0: deepseek/deepseek-chat-v3-0324	Agent 1: meta-llama/llama-3.3-70b-instruct	
+Round: 0, Consistency Metric: -0.05374032852067286
+Round: 1, Consistency Metric: -0.02963364170019194
+Round: 2, Consistency Metric: -0.017664568194753382
+Round: 3, Consistency Metric: -0.013760147346729538
+Round: 4, Consistency Metric: -0.011596979871891875
+Agent 0: deepseek/deepseek-chat-v3-0324	Agent 1: qwen/qwen-turbo	
+Round: 0, Consistency Metric: -0.058737339140427565
+Round: 1, Consistency Metric: -0.01591406890175827
+Round: 2, Consistency Metric: -0.028354499965817938
+Round: 3, Consistency Metric: -0.015888952272573944
+Round: 4, Consistency Metric: -0.01377453651632227
+Agent 0: meta-llama/llama-4-scout	Agent 1: openai/gpt-4o-mini	
+Round: 0, Consistency Metric: -0.05715249223267393
+Round: 1, Consistency Metric: -0.02486526218286166
+Round: 2, Consistency Metric: -0.02666939397518686
+Round: 3, Consistency Metric: -0.02302493642022755
+Round: 4, Consistency Metric: -0.021132822480082938
+Agent 0: meta-llama/llama-4-scout	Agent 1: google/gemini-2.0-flash-001	
+Round: 0, Consistency Metric: -0.05518775148592371
+Round: 1, Consistency Metric: -0.06889931033066203
+Round: 2, Consistency Metric: -0.04815594590192625
+Round: 3, Consistency Metric: -0.04226973680086554
+Round: 4, Consistency Metric: -0.03421350136429247
+Agent 0: meta-llama/llama-4-scout	Agent 1: google/gemini-flash-1.5	
+Round: 0, Consistency Metric: -0.026257404122200092
+Round: 1, Consistency Metric: -0.058420475087557766
+Round: 2, Consistency Metric: -0.042199764756078804
+Round: 3, Consistency Metric: -0.049962182284226
+Round: 4, Consistency Metric: -0.037335489581745346
+Agent 0: meta-llama/llama-4-scout	Agent 1: deepseek/deepseek-chat-v3-0324	
+Round: 0, Consistency Metric: -0.029906070108537776
+Round: 1, Consistency Metric: -0.03877881417138347
+Round: 2, Consistency Metric: -0.015476339348624277
+Round: 3, Consistency Metric: -0.012427348221740853
+Round: 4, Consistency Metric: -0.0133974991029275
+Agent 0: meta-llama/llama-4-scout	Agent 1: meta-llama/llama-4-scout	
+Round: 0, Consistency Metric: 0.0
+Round: 1, Consistency Metric: 0.0
+Round: 2, Consistency Metric: 0.0
+Round: 3, Consistency Metric: 0.0
+Round: 4, Consistency Metric: 0.0
+Agent 0: meta-llama/llama-4-scout	Agent 1: meta-llama/llama-3.3-70b-instruct	
+Round: 0, Consistency Metric: -0.06814574299615127
+Round: 1, Consistency Metric: -0.034969166791126875
+Round: 2, Consistency Metric: -0.011374083194309194
+Round: 3, Consistency Metric: -0.010848051248957885
+Round: 4, Consistency Metric: -0.013022814768660287
+Agent 0: meta-llama/llama-4-scout	Agent 1: qwen/qwen-turbo	
+Round: 0, Consistency Metric: -0.04523001251451045
+Round: 1, Consistency Metric: -0.0390494421785157
+Round: 2, Consistency Metric: -0.027839621863523047
+Round: 3, Consistency Metric: -0.017035995696945055
+Round: 4, Consistency Metric: -0.012444146571771633
+Agent 0: meta-llama/llama-3.3-70b-instruct	Agent 1: openai/gpt-4o-mini	
+Round: 0, Consistency Metric: -0.011622808194496036
+Round: 1, Consistency Metric: -0.01770459894722436
+Round: 2, Consistency Metric: -0.029454975141510912
+Round: 3, Consistency Metric: -0.022657840736200155
+Round: 4, Consistency Metric: -0.020800346878191583
+Agent 0: meta-llama/llama-3.3-70b-instruct	Agent 1: google/gemini-2.0-flash-001	
+Round: 0, Consistency Metric: -0.11152258872724392
+Round: 1, Consistency Metric: -0.04449463867675285
+Round: 2, Consistency Metric: -0.04779560692904434
+Round: 3, Consistency Metric: -0.040227446517733835
+Round: 4, Consistency Metric: -0.04548991546832919
+Agent 0: meta-llama/llama-3.3-70b-instruct	Agent 1: google/gemini-flash-1.5	
+Round: 0, Consistency Metric: -0.07657377717799825
+Round: 1, Consistency Metric: -0.034137649395327284
+Round: 2, Consistency Metric: -0.04794781273167855
+Round: 3, Consistency Metric: -0.04825471794148828
+Round: 4, Consistency Metric: -0.045710917455481614
+Agent 0: meta-llama/llama-3.3-70b-instruct	Agent 1: deepseek/deepseek-chat-v3-0324	
+Round: 0, Consistency Metric: -0.05374032852067286
+Round: 1, Consistency Metric: -0.029633641700191945
+Round: 2, Consistency Metric: -0.017664568194753375
+Round: 3, Consistency Metric: -0.013760147346729541
+Round: 4, Consistency Metric: -0.01159697987189187
+Agent 0: meta-llama/llama-3.3-70b-instruct	Agent 1: meta-llama/llama-4-scout	
+Round: 0, Consistency Metric: -0.06814574299615124
+Round: 1, Consistency Metric: -0.03496916679112688
+Round: 2, Consistency Metric: -0.011374083194309213
+Round: 3, Consistency Metric: -0.010848051248957878
+Round: 4, Consistency Metric: -0.013022814768660265
+Agent 0: meta-llama/llama-3.3-70b-instruct	Agent 1: meta-llama/llama-3.3-70b-instruct	
+Round: 0, Consistency Metric: 0.0
+Round: 1, Consistency Metric: 0.0
+Round: 2, Consistency Metric: 0.0
+Round: 3, Consistency Metric: 0.0
+Round: 4, Consistency Metric: 0.0
+Agent 0: meta-llama/llama-3.3-70b-instruct	Agent 1: qwen/qwen-turbo	
+Round: 0, Consistency Metric: -0.08696728910081523
+Round: 1, Consistency Metric: -0.039217164140888064
+Round: 2, Consistency Metric: -0.03561987366373674
+Round: 3, Consistency Metric: -0.01280254630169841
+Round: 4, Consistency Metric: -0.01492404775931416
+Agent 0: qwen/qwen-turbo	Agent 1: openai/gpt-4o-mini	
+Round: 0, Consistency Metric: -0.05798962583256158
+Round: 1, Consistency Metric: -0.032278833577207205
+Round: 2, Consistency Metric: -0.047717376432117445
+Round: 3, Consistency Metric: -0.03478140106034121
+Round: 4, Consistency Metric: -0.02901576786352145
+Agent 0: qwen/qwen-turbo	Agent 1: google/gemini-2.0-flash-001	
+Round: 0, Consistency Metric: -0.04766156438012227
+Round: 1, Consistency Metric: -0.04226690104179792
+Round: 2, Consistency Metric: -0.0362092302220449
+Round: 3, Consistency Metric: -0.036692547446089734
+Round: 4, Consistency Metric: -0.03409654687694839
+Agent 0: qwen/qwen-turbo	Agent 1: google/gemini-flash-1.5	
+Round: 0, Consistency Metric: -0.08497899164007103
+Round: 1, Consistency Metric: -0.022387718936461944
+Round: 2, Consistency Metric: -0.04419644295623487
+Round: 3, Consistency Metric: -0.04643506399276431
+Round: 4, Consistency Metric: -0.03696193617012605
+Agent 0: qwen/qwen-turbo	Agent 1: deepseek/deepseek-chat-v3-0324	
+Round: 0, Consistency Metric: -0.058737339140427565
+Round: 1, Consistency Metric: -0.015914068901758293
+Round: 2, Consistency Metric: -0.028354499965817945
+Round: 3, Consistency Metric: -0.015888952272573965
+Round: 4, Consistency Metric: -0.01377453651632228
+Agent 0: qwen/qwen-turbo	Agent 1: meta-llama/llama-4-scout	
+Round: 0, Consistency Metric: -0.04523001251451046
+Round: 1, Consistency Metric: -0.039049442178515685
+Round: 2, Consistency Metric: -0.027839621863523054
+Round: 3, Consistency Metric: -0.01703599569694506
+Round: 4, Consistency Metric: -0.012444146571771633
+Agent 0: qwen/qwen-turbo	Agent 1: meta-llama/llama-3.3-70b-instruct	
+Round: 0, Consistency Metric: -0.08696728910081523
+Round: 1, Consistency Metric: -0.03921716414088805
+Round: 2, Consistency Metric: -0.03561987366373674
+Round: 3, Consistency Metric: -0.012802546301698421
+Round: 4, Consistency Metric: -0.014924045646058577
+Agent 0: qwen/qwen-turbo	Agent 1: qwen/qwen-turbo	
+Round: 0, Consistency Metric: 0.0
+Round: 1, Consistency Metric: 0.0
+Round: 2, Consistency Metric: 0.0
+Round: 3, Consistency Metric: 0.0
+Round: 4, Consistency Metric: 0.0

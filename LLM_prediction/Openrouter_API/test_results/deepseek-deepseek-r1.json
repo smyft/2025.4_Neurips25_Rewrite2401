@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "model": "deepseek/deepseek-r1",
+    "temperature": 0,
+    "max_tokens": 1000,
+    "seed": 42
+  },
+  "error_info": [],
+  "dialogue_history": [
+    {
+      "role": "user",
+      "content": "Hello"
+    },
+    {
+      "role": "assistant",
+      "content": "\ud83d\ude0a\" That should work.\n\n\nHello! How can I assist you today? \ud83d\ude0a"
+    }
+  ]
+}

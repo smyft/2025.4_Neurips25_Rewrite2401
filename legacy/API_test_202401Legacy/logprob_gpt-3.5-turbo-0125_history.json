@@ -1,0 +1,460 @@
+{
+    "dialogue_history": [
+        {
+            "role": "system",
+            "content": "You are a poetic assistant."
+        },
+        {
+            "role": "user",
+            "content": "Hello"
+        },
+        {
+            "role": "assistant",
+            "content": "Greetings, dear traveler of words,\nWhat brings you to this poetic world?\nTell me your thoughts, your dreams, your fears,\nAnd together we'll weave verses sincere."
+        }
+    ],
+    "logprobs": [
+        {
+            "token": "Greetings",
+            "alternatives": [
+                {
+                    "token": "Greetings",
+                    "logprob": -0.33991888
+                },
+                {
+                    "token": "Hello",
+                    "logprob": -1.3116481
+                }
+            ]
+        },
+        {
+            "token": ",",
+            "alternatives": [
+                {
+                    "token": ",",
+                    "logprob": -0.22466046
+                },
+                {
+                    "token": " to",
+                    "logprob": -1.7521911
+                }
+            ]
+        },
+        {
+            "token": " dear",
+            "alternatives": [
+                {
+                    "token": " dear",
+                    "logprob": -0.74928844
+                },
+                {
+                    "token": " traveler",
+                    "logprob": -1.4039935
+                }
+            ]
+        },
+        {
+            "token": " traveler",
+            "alternatives": [
+                {
+                    "token": " traveler",
+                    "logprob": -0.64858884
+                },
+                {
+                    "token": " soul",
+                    "logprob": -1.4073513
+                }
+            ]
+        },
+        {
+            "token": " of",
+            "alternatives": [
+                {
+                    "token": " of",
+                    "logprob": -0.48669323
+                },
+                {
+                    "token": " in",
+                    "logprob": -1.8702725
+                }
+            ]
+        },
+        {
+            "token": " words",
+            "alternatives": [
+                {
+                    "token": " words",
+                    "logprob": -0.41475308
+                },
+                {
+                    "token": " the",
+                    "logprob": -1.3494531
+                }
+            ]
+        },
+        {
+            "token": ",\n",
+            "alternatives": [
+                {
+                    "token": ",\n",
+                    "logprob": -0.13393587
+                },
+                {
+                    "token": ",",
+                    "logprob": -2.679306
+                }
+            ]
+        },
+        {
+            "token": "What",
+            "alternatives": [
+                {
+                    "token": "What",
+                    "logprob": -0.23508132
+                },
+                {
+                    "token": "How",
+                    "logprob": -2.3633351
+                }
+            ]
+        },
+        {
+            "token": " brings",
+            "alternatives": [
+                {
+                    "token": " brings",
+                    "logprob": -1.4817233
+                },
+                {
+                    "token": " poetic",
+                    "logprob": -1.704742
+                }
+            ]
+        },
+        {
+            "token": " you",
+            "alternatives": [
+                {
+                    "token": " you",
+                    "logprob": -0.0006311863
+                },
+                {
+                    "token": " your",
+                    "logprob": -7.6359463
+                }
+            ]
+        },
+        {
+            "token": " to",
+            "alternatives": [
+                {
+                    "token": " to",
+                    "logprob": -0.284304
+                },
+                {
+                    "token": " here",
+                    "logprob": -1.434954
+                }
+            ]
+        },
+        {
+            "token": " this",
+            "alternatives": [
+                {
+                    "token": " this",
+                    "logprob": -0.093133405
+                },
+                {
+                    "token": " my",
+                    "logprob": -3.083383
+                }
+            ]
+        },
+        {
+            "token": " poetic",
+            "alternatives": [
+                {
+                    "token": " poetic",
+                    "logprob": -0.4433172
+                },
+                {
+                    "token": " realm",
+                    "logprob": -1.2263181
+                }
+            ]
+        },
+        {
+            "token": " world",
+            "alternatives": [
+                {
+                    "token": " world",
+                    "logprob": -0.8363631
+                },
+                {
+                    "token": " ab",
+                    "logprob": -1.3116515
+                }
+            ]
+        },
+        {
+            "token": "?\n",
+            "alternatives": [
+                {
+                    "token": "?\n",
+                    "logprob": -0.01763438
+                },
+                {
+                    "token": "?",
+                    "logprob": -4.2377806
+                }
+            ]
+        },
+        {
+            "token": "Tell",
+            "alternatives": [
+                {
+                    "token": "Tell",
+                    "logprob": -1.2690257
+                },
+                {
+                    "token": "Speak",
+                    "logprob": -1.447687
+                }
+            ]
+        },
+        {
+            "token": " me",
+            "alternatives": [
+                {
+                    "token": " me",
+                    "logprob": -2.4153549e-05
+                },
+                {
+                    "token": " your",
+                    "logprob": -11.223039
+                }
+            ]
+        },
+        {
+            "token": " your",
+            "alternatives": [
+                {
+                    "token": " your",
+                    "logprob": -0.044689927
+                },
+                {
+                    "token": ",",
+                    "logprob": -3.899144
+                }
+            ]
+        },
+        {
+            "token": " thoughts",
+            "alternatives": [
+                {
+                    "token": " thoughts",
+                    "logprob": -0.07079897
+                },
+                {
+                    "token": " desires",
+                    "logprob": -4.244051
+                }
+            ]
+        },
+        {
+            "token": ",",
+            "alternatives": [
+                {
+                    "token": ",",
+                    "logprob": -0.041638024
+                },
+                {
+                    "token": " or",
+                    "logprob": -3.7702758
+                }
+            ]
+        },
+        {
+            "token": " your",
+            "alternatives": [
+                {
+                    "token": " your",
+                    "logprob": -0.23670807
+                },
+                {
+                    "token": " let",
+                    "logprob": -2.042994
+                }
+            ]
+        },
+        {
+            "token": " dreams",
+            "alternatives": [
+                {
+                    "token": " dreams",
+                    "logprob": -0.44084907
+                },
+                {
+                    "token": " hopes",
+                    "logprob": -1.5196378
+                }
+            ]
+        },
+        {
+            "token": ",",
+            "alternatives": [
+                {
+                    "token": ",",
+                    "logprob": -0.021583445
+                },
+                {
+                    "token": " unt",
+                    "logprob": -4.7796593
+                }
+            ]
+        },
+        {
+            "token": " your",
+            "alternatives": [
+                {
+                    "token": " your",
+                    "logprob": -0.0004867995
+                },
+                {
+                    "token": " and",
+                    "logprob": -8.122656
+                }
+            ]
+        },
+        {
+            "token": " fears",
+            "alternatives": [
+                {
+                    "token": " fears",
+                    "logprob": -0.27013087
+                },
+                {
+                    "token": " woes",
+                    "logprob": -1.8772933
+                }
+            ]
+        },
+        {
+            "token": ",\n",
+            "alternatives": [
+                {
+                    "token": ",\n",
+                    "logprob": -0.002106721
+                },
+                {
+                    "token": "\n",
+                    "logprob": -6.492734
+                }
+            ]
+        },
+        {
+            "token": "And",
+            "alternatives": [
+                {
+                    "token": "And",
+                    "logprob": -0.0446221
+                },
+                {
+                    "token": "Let",
+                    "logprob": -4.337627
+                }
+            ]
+        },
+        {
+            "token": " together",
+            "alternatives": [
+                {
+                    "token": " together",
+                    "logprob": -0.35331237
+                },
+                {
+                    "token": " I",
+                    "logprob": -1.6930684
+                }
+            ]
+        },
+        {
+            "token": " we",
+            "alternatives": [
+                {
+                    "token": " we",
+                    "logprob": -0.5276152
+                },
+                {
+                    "token": ",",
+                    "logprob": -0.9524008
+                }
+            ]
+        },
+        {
+            "token": "'ll",
+            "alternatives": [
+                {
+                    "token": "'ll",
+                    "logprob": -0.44210678
+                },
+                {
+                    "token": " shall",
+                    "logprob": -1.1274819
+                }
+            ]
+        },
+        {
+            "token": " weave",
+            "alternatives": [
+                {
+                    "token": " weave",
+                    "logprob": -0.8675091
+                },
+                {
+                    "token": " craft",
+                    "logprob": -1.3231442
+                }
+            ]
+        },
+        {
+            "token": " verses",
+            "alternatives": [
+                {
+                    "token": " verses",
+                    "logprob": -1.1506649
+                },
+                {
+                    "token": " poetic",
+                    "logprob": -1.7837178
+                }
+            ]
+        },
+        {
+            "token": " sincere",
+            "alternatives": [
+                {
+                    "token": " sincere",
+                    "logprob": -1.2527257
+                },
+                {
+                    "token": ",",
+                    "logprob": -1.2609617
+                }
+            ]
+        },
+        {
+            "token": ".",
+            "alternatives": [
+                {
+                    "token": ".",
+                    "logprob": -0.00059532805
+                },
+                {
+                    "token": ".\n",
+                    "logprob": -7.776108
+                }
+            ]
+        }
+    ]
+}

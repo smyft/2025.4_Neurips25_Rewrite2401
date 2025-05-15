@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "model": "google/gemini-flash-1.5",
+    "temperature": 0,
+    "max_tokens": 1000,
+    "seed": 42
+  },
+  "error_info": [],
+  "dialogue_history": [
+    {
+      "role": "user",
+      "content": "Hello"
+    },
+    {
+      "role": "assistant",
+      "content": "Hello there! How can I help you today?\n"
+    }
+  ]
+}

@@ -1,0 +1,3257 @@
+{
+    "system": "You are an AI trained to analyze financial news and estimate the probability that the stock price of a specific company will rise or fall due to the news.Your response should be in JSON format and include the following information: \ncompany_name: The name of the company. \ncompany_symbol: The stock symbol of the company. \nnews_headline: The provided financial news headline. \nprobability_of_stock_price_rise: The estimated probability (in percentage) that the stock price will rise due to this news. \nprobability_of_stock_price_fall: The estimated probability (in percentage) that the stock price will fall due to this news. \nreasoning: A brief explanation of your reasoning. \nFormat your response as follows: \n{ \n\"company_name\": \"[Company Name]\", \n\"company_symbol\": \"[Company Symbol]\", \n\"news_headline\": \"[News Headline]\", \n\"probability_of_stock_price_rise\": [Percentage], \n\"probability_of_stock_price_fall\": [Percentage], \n\"reasoning\": \"[Brief explanation]\" \n} \nUse the information provided and any general knowledge you have about the financial markets to support your analysis. \nDo not generate output that isn't in properly formatted JSON.",
+    "user": "Here's the company information and financial news: \nCompany Name: Apple Inc \nCompany Symbol: AAPL \nNews Headline: 12 Oversold Dividend Stocks To Buy Now \nNews Content: In this article, we discuss 12 oversold dividend stocks to buy now. You can skip our detailed analysis of dividend stocks and their previous performance, and go directly to read 5 Oversold Dividend Stocks To Buy Now.\n\nThe S&P 500 is consistently recording gains this year, having risen for four months in a row. According to Bank of America\u2019s chief global strategist Michael Hartnett, the remarkable returns achieved by the S&P 500 over a short time period have been rare and only occurred ten times since the 1930s. He further said that these returns materialized either during the aftermath of the recession, like the ones in 2009 and 2020, or at the onset of a bubble, similar to the situation experienced in 1999. That said, Apple Inc. (NASDAQ:AAPL), which played a significant role in driving the market rally in 2023, has entered the oversold territory this year. The stock is down by 7.63% year-to-date, facing pressures due to concerns over iPhone sales in China and a fine from the European Union, as reported by Bloomberg.\n\nInvestors are trying to navigate this directionless market, seeking to maximize their returns by making informed decisions. Over the years, dividend stocks have served as a safeguard against market downturns, making them an appealing option in the current environment. When considering investments in dividend stocks, combining dividend yields with dividend growth can be a good strategy. In our article titled 25 Things Every Dividend Investor Should Know, we referred to data from S&P Dow Jones Indices, which analyzed the performance of the S&P 500 High Yield Dividend Aristocrats. The index tracks the performance of high-yield dividend companies within the S&P 500 Composite 1500 with at least 20 consecutive years of dividend growth. The report revealed that between December 31, 1999, and March 31, 2022, the index outperformed its benchmark index by 140 basis points per month. During this period, the index also surpassed the S&P 500 High Dividend Index by 49 basis points per month.\n\nStory continues\n\nOur research also showed that dividend stocks have performed better than other asset classes during inflationary periods. We cited data from Hartford Funds, examining the performance of dividend stocks during decades of the 1940s, 1960s, and 1970s when inflation in the US was at its peak. The report highlighted that during these decades the average market returns were below 10%, and dividends contributed 67%, 44%, and 73% to the market\u2019s returns, respectively. One of the main reasons for this performance of dividend stocks can be attributed to the fact that they have the potential to grow over time. The companies that generate more profit may opt to increase their dividends, remaining more committed to their shareholder obligation. The Procter & Gamble Company (NYSE:PG), Colgate-Palmolive Company (NYSE:CL), and PepsiCo, Inc. (NASDAQ:PEP) are some of the best dividend stocks in this regard, returning their capital to shareholders consistently for years.\n\nThat said, dividend stocks\u2019 past performance does not guarantee immunity against severe market conditions. During market clampdowns, investors' confidence may decline which triggers widespread selling across various stocks resulting in some becoming oversold. The Relative Strength Index (RSI), introduced by J. Welles Wilder Jr. in 1978, is a technical analysis tool that is used to analyze the speed and change of price movements of a stock. The RSI is calculated based on the average gains and losses over a specific period, typically 14 trading days. However, this period can be adjusted depending on the trader's preference. In this article, we have compiled a list of oversold stocks based on 14-day RSI levels as of March 30. 12 Oversold Dividend Stocks To Buy Now\n\nPhoto by Viacheslav Bublyk on Unsplash\n\nOur Methodology:\n\nFor this list, we used a Finviz stock screener and looked for dividend stocks with a 14-day Relative Strength Index (RSI) below 40 as of March 30. An RSI below 40 suggests that the stock is oversold. The stocks are ranked in descending order of their RSI. We also mentioned hedge fund sentiment data for these stocks using Insider Monkey's database of 933 hedge funds as of Q4 2023. Hedge funds\u2019 top 10 consensus stock picks outperformed the S&P 500 Index by more than 140 percentage points over the last 10 years (see the details here).\n\n12. Jack in the Box Inc. (NYSE:JACK)\n\n14-Day RSI As of March 30: 39.5\n\nJack in the Box Inc. (NYSE:JACK) is a California-based fast-food restaurant chain that is known for its wide variety of fast-food menus. The company started paying dividends in 2014 and has paid regular dividends to shareholders since then. It currently offers a quarterly dividend of $0.44 per share and has a dividend yield of 2.57%, as of March 30.\n\nIn the first quarter of 2024, Jack in the Box Inc. (NYSE:JACK) reported revenue of $487.5 million, which beat analysts' estimates by $5.94 million. The company's cash generation remained strong as it generated over $22.6 million in operating cash flow during the quarter and had over $82.5 million available in cash and restricted cash.\n\nThe number of hedge funds tracked by Insider Monkey owning stakes in Jack in the Box Inc. (NYSE:JACK) jumped to 21 in Q4 2023, from 14 in the previous quarter. The collective value of these stakes is over $109 million. Among these hedge funds, Millennium Management was the company's leading stakeholder in Q4.\n\n11. Accenture plc (NYSE:ACN)\n\n14-Day RSI As of March 30: 39.3\n\nAccenture plc (NYSE:ACN) is a multinational professional services company that offers services in strategy, digital, technology, and operations. On March 21, the company announced a quarterly dividend of $1.29 per share, which was in line with its previous dividend. The company has paid uninterrupted dividends to shareholders since 2005, which makes ACN one of the best dividend stocks on our list. As of March 30, the stock has a dividend yield of 1.49%.\n\nAt the end of Q4 2023, 58 hedge funds in Insider Monkey's database reported having stakes in Accenture plc (NYSE:ACN), up from 55 in the previous quarter. These stakes have a total value of nearly $2.4 billion.\n\n10. Brown-Forman Corporation (NYSE:BF-B)\n\n14-Day RSI As of March 30: 35.3\n\nBrown-Forman Corporation (NYSE:BF-B) is next on our list of the best dividend stocks that are oversold. The American beverage company has been paying regular dividends to shareholders for the past 80 years while maintaining a 40-year streak of consistent dividend growth. The company currently offers a quarterly dividend of $0.2178 per share and has a dividend yield of 1.69%, as of March 30.\n\nAs of the close of Q4 2023, 21 hedge funds held stakes in Brown-Forman Corporation (NYSE:BF-B), down from 30 in the previous quarter, as per Insider Monkey's database. The consolidated value of these stakes is more than $1 billion. With over 11.6 million shares, Fundsmith LLP was the company's leading stakeholder in Q4.\n\n9. BCE Inc. (NYSE:BCE)\n\n14-Day RSI As of March 30: 31.3\n\nBCE Inc. (NYSE:BCE) is a Canadian telecommunications and media company, offering services related to wireless communications, internet access, and television. The company's current quarterly dividend comes in at $0.9975 per share for a dividend yield of 8.67%, as of March 30. With 14 years of consistent dividend growth under its belt, BCE is one of the best dividend stocks on our list.\n\nBCE Inc. (NYSE:BCE)'s cash position remained strong in the fourth quarter of 2023. The company generated $2.3 billion in operating cash flow and its free cash flow for the period came in at $913 million.\n\nInsider Monkey's database of Q4 2023 indicated that 19 hedge funds held stakes in BCE Inc. (NYSE:BCE), growing from 15 in the previous quarter. The collective value of these stakes is roughly $85 million.\n\n8. Methode Electronics, Inc. (NYSE:MEI)\n\n14-Day RSI As of March 30: 28.7\n\nMethode Electronics, Inc. (NYSE:MEI) is an Illinois-based electronics company that manufactures related components and subsystems. The company's main focus is on innovation and technology in order to deliver high-performance electronic solutions to its consumers. Though the company has not raised its dividends for quite some time now, it has been paying regular dividends to shareholders since 1989, which makes MEI one of the best dividend stocks on our list. It offers a quarterly dividend of $0.14 per share and has a dividend yield of 4.60%, as of March 30.\n\nAt the end of December 2023, 14 hedge funds in Insider Monkey's database owned stakes in Methode Electronics, Inc. (NYSE:MEI), compared with 16 in the previous quarter. These stakes are worth over $44 million in total. Among these hedge funds, Royce & Associates was the company's leading stakeholder in Q4.\n\n7. MillerKnoll, Inc. (NASDAQ:MLKN)\n\n14-Day RSI As of March 30: 28.3\n\nMillerKnoll, Inc. (NASDAQ:MLKN) is an American company that specializes in the manufacturing of office furniture, equipment, and home furnishings. The company offers a quarterly dividend of $0.1875 per share and has a dividend yield of 3.03%, as recorded on March 30. It has a 52-year run of paying regular dividends to shareholders, which makes MLKN one of the best dividend stocks on our list.\n\nAccording to Insider Monkey's database of Q4 2023, 19 hedge funds held stakes in MillerKnoll, Inc. (NASDAQ:MLKN), up from 18 in the preceding quarter. These stakes are collectively valued at over $71.2 million.\n\n6. Cross Timbers Royalty Trust (NYSE:CRT)\n\n14-Day RSI As of March 30: 28.1\n\nCross Timbers Royalty Trust (NYSE:CRT) ranks sixth on our list of the best dividend stocks that are oversold. The royalty trust currently offers a monthly dividend of $0.0193 per share and has a dividend yield of 12.02%, as of March 30.\n\nAt the end of the fourth quarter of 2023, Navellier & Associates was the only stakeholder of Cross Timbers Royalty Trust (NYSE:CRT), owning stakes worth $362,209.\n\nClick to continue reading and see 5 Oversold Dividend Stocks To Buy Now.\n\nSuggested articles:\n\n11 Oversold Blue Chip Stocks to Buy Right Now 11 Best Agriculture ETFs To Buy 10 Best Long Term ASX Stocks To Invest In\n\nDisclosure. None. 12 Oversold Dividend Stocks To Buy Now is originally published on Insider Monkey.",
+    "assistant": "{\n  \"company_name\": \"Apple Inc\",\n  \"company_symbol\": \"AAPL\",\n  \"news_headline\": \"12 Oversold Dividend Stocks To Buy Now\",\n  \"probability_of_stock_price_rise\": 60,\n  \"probability_of_stock_price_fall\": 40,\n  \"reasoning\": \"The article highlights Apple as an oversold stock, which may attract investors looking for value in dividend stocks. The overall positive sentiment towards dividend stocks in a rising market could lead to increased buying interest in AAPL, despite current concerns over iPhone sales and regulatory fines. This suggests a higher probability of price recovery.\"\n}",
+    "logprobs": [
+        {
+            "token": "{\n",
+            "alternatives": [
+                {
+                    "token": "{\n",
+                    "logprob": -0.07894531
+                },
+                {
+                    "token": "```",
+                    "logprob": -2.5789454
+                },
+                {
+                    "token": "{",
+                    "logprob": -9.828945
+                },
+                {
+                    "token": "``",
+                    "logprob": -13.453945
+                },
+                {
+                    "token": "{\r\n",
+                    "logprob": -15.828945
+                }
+            ]
+        },
+        {
+            "token": " ",
+            "alternatives": [
+                {
+                    "token": " ",
+                    "logprob": -0.0232732
+                },
+                {
+                    "token": "   ",
+                    "logprob": -3.7732732
+                },
+                {
+                    "token": "  ",
+                    "logprob": -11.148273
+                },
+                {
+                    "token": "\"",
+                    "logprob": -11.523273
+                },
+                {
+                    "token": "\t",
+                    "logprob": -12.648273
+                }
+            ]
+        },
+        {
+            "token": " \"",
+            "alternatives": [
+                {
+                    "token": " \"",
+                    "logprob": 0.0
+                },
+                {
+                    "token": " \u201c",
+                    "logprob": -19.625
+                },
+                {
+                    "token": " \\\"",
+                    "logprob": -25.25
+                },
+                {
+                    "token": " '",
+                    "logprob": -25.375
+                },
+                {
+                    "token": "\t",
+                    "logprob": -25.75
+                }
+            ]
+        },
+        {
+            "token": "company",
+            "alternatives": [
+                {
+                    "token": "company",
+                    "logprob": 0.0
+                },
+                {
+                    "token": "Company",
+                    "logprob": -20.5
+                },
+                {
+                    "token": "business",
+                    "logprob": -20.5
+                },
+                {
+                    "token": "customer",
+                    "logprob": -21.25
+                },
+                {
+                    "token": "comp",
+                    "logprob": -21.5
+                }
+            ]
+        },
+        {
+            "token": "_name",
+            "alternatives": [
+                {
+                    "token": "_name",
+                    "logprob": 0.0
+                },
+                {
+                    "token": "_NAME",
+                    "logprob": -21.125
+                },
+                {
+                    "token": " name",
+                    "logprob": -21.875
+                },
+                {
+                    "token": "_nome",
+                    "logprob": -22.875
+                },
+                {
+                    "token": "_Name",
+                    "logprob": -23.375
+                }
+            ]
+        },
+        {
+            "token": "\":",
+            "alternatives": [
+                {
+                    "token": "\":",
+                    "logprob": 0.0
+                },
+                {
+                    "token": "\":\"",
+                    "logprob": -18.25
+                },
+                {
+                    "token": "\\\":",
+                    "logprob": -22.375
+                },
+                {
+                    "token": "\u201d:",
+                    "logprob": -22.375
+                },
+                {
+                    "token": " \":",
+                    "logprob": -22.875
+                }
+            ]
+        },
+        {
+            "token": " \"",
+            "alternatives": [
+                {
+                    "token": " \"",
+                    "logprob": 0.0
+                },
+                {
+                    "token": " \u201c",
+                    "logprob": -21.875
+                },
+                {
+                    "token": " ",
+                    "logprob": -22.5
+                },
+                {
+                    "token": " \"[",
+                    "logprob": -23.25
+                },
+                {
+                    "token": " '",
+                    "logprob": -25.25
+                }
+            ]
+        },
+        {
+            "token": "Apple",
+            "alternatives": [
+                {
+                    "token": "Apple",
+                    "logprob": 0.0
+                },
+                {
+                    "token": " Apple",
+                    "logprob": -20.5
+                },
+                {
+                    "token": "Amazon",
+                    "logprob": -23.125
+                },
+                {
+                    "token": "APPLE",
+                    "logprob": -23.25
+                },
+                {
+                    "token": "apple",
+                    "logprob": -23.625
+                }
+            ]
+        },
+        {
+            "token": " Inc",
+            "alternatives": [
+                {
+                    "token": " Inc",
+                    "logprob": 0.0
+                },
+                {
+                    "token": ",",
+                    "logprob": -23.125
+                },
+                {
+                    "token": "Inc",
+                    "logprob": -23.375
+                },
+                {
+                    "token": " inc",
+                    "logprob": -23.875
+                },
+                {
+                    "token": " INC",
+                    "logprob": -25.25
+                }
+            ]
+        },
+        {
+            "token": "\",\n",
+            "alternatives": [
+                {
+                    "token": "\",\n",
+                    "logprob": -0.0002912486
+                },
+                {
+                    "token": ".\",\n",
+                    "logprob": -8.375291
+                },
+                {
+                    "token": "\",",
+                    "logprob": -9.750291
+                },
+                {
+                    "token": " \",\n",
+                    "logprob": -13.250291
+                },
+                {
+                    "token": "\",\r\n",
+                    "logprob": -14.250291
+                }
+            ]
+        },
+        {
+            "token": " ",
+            "alternatives": [
+                {
+                    "token": " ",
+                    "logprob": 0.0
+                },
+                {
+                    "token": "  ",
+                    "logprob": -21.0
+                },
+                {
+                    "token": "  \n",
+                    "logprob": -22.375
+                },
+                {
+                    "token": "   ",
+                    "logprob": -22.75
+                },
+                {
+                    "token": " \"",
+                    "logprob": -23.625
+                }
+            ]
+        },
+        {
+            "token": " \"",
+            "alternatives": [
+                {
+                    "token": " \"",
+                    "logprob": 0.0
+                },
+                {
+                    "token": " \u201c",
+                    "logprob": -24.125
+                },
+                {
+                    "token": " '",
+                    "logprob": -24.5
+                },
+                {
+                    "token": " \"_",
+                    "logprob": -24.5
+                },
+                {
+                    "token": " \"$",
+                    "logprob": -24.875
+                }
+            ]
+        },
+        {
+            "token": "company",
+            "alternatives": [
+                {
+                    "token": "company",
+                    "logprob": 0.0
+                },
+                {
+                    "token": " company",
+                    "logprob": -21.875
+                },
+                {
+                    "token": "country",
+                    "logprob": -22.375
+                },
+                {
+                    "token": "computer",
+                    "logprob": -23.375
+                },
+                {
+                    "token": "comp",
+                    "logprob": -23.625
+                }
+            ]
+        },
+        {
+            "token": "_symbol",
+            "alternatives": [
+                {
+                    "token": "_symbol",
+                    "logprob": 0.0
+                },
+                {
+                    "token": "_symbols",
+                    "logprob": -17.25
+                },
+                {
+                    "token": "_SYMBOL",
+                    "logprob": -19.875
+                },
+                {
+                    "token": "_sym",
+                    "logprob": -20.375
+                },
+                {
+                    "token": "_token",
+                    "logprob": -20.875
+                }
+            ]
+        },
+        {
+            "token": "\":",
+            "alternatives": [
+                {
+                    "token": "\":",
+                    "logprob": 0.0
+                },
+                {
+                    "token": "\":\"",
+                    "logprob": -18.875
+                },
+                {
+                    "token": " \":",
+                    "logprob": -21.875
+                },
+                {
+                    "token": "\u201d:",
+                    "logprob": -22.625
+                },
+                {
+                    "token": "\\\":",
+                    "logprob": -23.5
+                }
+            ]
+        },
+        {
+            "token": " \"",
+            "alternatives": [
+                {
+                    "token": " \"",
+                    "logprob": 0.0
+                },
+                {
+                    "token": " \u201c",
+                    "logprob": -21.25
+                },
+                {
+                    "token": " '",
+                    "logprob": -22.125
+                },
+                {
+                    "token": " \"(",
+                    "logprob": -22.625
+                },
+                {
+                    "token": " ",
+                    "logprob": -22.875
+                }
+            ]
+        },
+        {
+            "token": "A",
+            "alternatives": [
+                {
+                    "token": "A",
+                    "logprob": 0.0
+                },
+                {
+                    "token": " A",
+                    "logprob": -19.875
+                },
+                {
+                    "token": "AAP",
+                    "logprob": -21.375
+                },
+                {
+                    "token": "APL",
+                    "logprob": -21.5
+                },
+                {
+                    "token": "AP",
+                    "logprob": -23.0
+                }
+            ]
+        },
+        {
+            "token": "APL",
+            "alternatives": [
+                {
+                    "token": "APL",
+                    "logprob": 0.0
+                },
+                {
+                    "token": "apl",
+                    "logprob": -19.625
+                },
+                {
+                    "token": "IPL",
+                    "logprob": -24.0
+                },
+                {
+                    "token": "AL",
+                    "logprob": -24.25
+                },
+                {
+                    "token": "AP",
+                    "logprob": -24.25
+                }
+            ]
+        },
+        {
+            "token": "\",\n",
+            "alternatives": [
+                {
+                    "token": "\",\n",
+                    "logprob": 0.0
+                },
+                {
+                    "token": "\",",
+                    "logprob": -18.125
+                },
+                {
+                    "token": "\",\r\n",
+                    "logprob": -19.375
+                },
+                {
+                    "token": " \",\n",
+                    "logprob": -19.5
+                },
+                {
+                    "token": "',\n",
+                    "logprob": -21.25
+                }
+            ]
+        },
+        {
+            "token": " ",
+            "alternatives": [
+                {
+                    "token": " ",
+                    "logprob": 0.0
+                },
+                {
+                    "token": "  ",
+                    "logprob": -22.375
+                },
+                {
+                    "token": " \"",
+                    "logprob": -23.5
+                },
+                {
+                    "token": "  \n",
+                    "logprob": -24.375
+                },
+                {
+                    "token": "   ",
+                    "logprob": -24.75
+                }
+            ]
+        },
+        {
+            "token": " \"",
+            "alternatives": [
+                {
+                    "token": " \"",
+                    "logprob": 0.0
+                },
+                {
+                    "token": " \u201c",
+                    "logprob": -22.875
+                },
+                {
+                    "token": " '",
+                    "logprob": -23.0
+                },
+                {
+                    "token": " \"_",
+                    "logprob": -23.5
+                },
+                {
+                    "token": " \"$",
+                    "logprob": -24.4375
+                }
+            ]
+        },
+        {
+            "token": "news",
+            "alternatives": [
+                {
+                    "token": "news",
+                    "logprob": 0.0
+                },
+                {
+                    "token": "new",
+                    "logprob": -20.0
+                },
+                {
+                    "token": " news",
+                    "logprob": -22.625
+                },
+                {
+                    "token": "business",
+                    "logprob": -23.5
+                },
+                {
+                    "token": "newsletter",
+                    "logprob": -24.375
+                }
+            ]
+        },
+        {
+            "token": "_head",
+            "alternatives": [
+                {
+                    "token": "_head",
+                    "logprob": -1.9361265e-07
+                },
+                {
+                    "token": "Headline",
+                    "logprob": -16.0
+                },
+                {
+                    "token": "_header",
+                    "logprob": -17.25
+                },
+                {
+                    "token": "_heading",
+                    "logprob": -17.25
+                },
+                {
+                    "token": "_HEAD",
+                    "logprob": -18.25
+                }
+            ]
+        },
+        {
+            "token": "line",
+            "alternatives": [
+                {
+                    "token": "line",
+                    "logprob": 0.0
+                },
+                {
+                    "token": "LINE",
+                    "logprob": -20.875
+                },
+                {
+                    "token": "liner",
+                    "logprob": -21.0
+                },
+                {
+                    "token": "ling",
+                    "logprob": -21.5
+                },
+                {
+                    "token": "eline",
+                    "logprob": -21.875
+                }
+            ]
+        },
+        {
+            "token": "\":",
+            "alternatives": [
+                {
+                    "token": "\":",
+                    "logprob": 0.0
+                },
+                {
+                    "token": "\":\"",
+                    "logprob": -17.125
+                },
+                {
+                    "token": " \":",
+                    "logprob": -22.5
+                },
+                {
+                    "token": "<|end|>",
+                    "logprob": -22.875
+                },
+                {
+                    "token": "\u201d:",
+                    "logprob": -23.375
+                }
+            ]
+        },
+        {
+            "token": " \"",
+            "alternatives": [
+                {
+                    "token": " \"",
+                    "logprob": 0.0
+                },
+                {
+                    "token": " ",
+                    "logprob": -20.125
+                },
+                {
+                    "token": " \u201c",
+                    "logprob": -20.5
+                },
+                {
+                    "token": " \"[",
+                    "logprob": -20.5
+                },
+                {
+                    "token": " \"\\\"",
+                    "logprob": -22.25
+                }
+            ]
+        },
+        {
+            "token": "12",
+            "alternatives": [
+                {
+                    "token": "12",
+                    "logprob": 0.0
+                },
+                {
+                    "token": "11",
+                    "logprob": -22.0
+                },
+                {
+                    "token": "10",
+                    "logprob": -22.875
+                },
+                {
+                    "token": "13",
+                    "logprob": -23.625
+                },
+                {
+                    "token": "14",
+                    "logprob": -24.25
+                }
+            ]
+        },
+        {
+            "token": " Overs",
+            "alternatives": [
+                {
+                    "token": " Overs",
+                    "logprob": 0.0
+                },
+                {
+                    "token": " Overse",
+                    "logprob": -19.75
+                },
+                {
+                    "token": " Over",
+                    "logprob": -19.875
+                },
+                {
+                    "token": "Overs",
+                    "logprob": -20.0
+                },
+                {
+                    "token": " Ov",
+                    "logprob": -20.5
+                }
+            ]
+        },
+        {
+            "token": "old",
+            "alternatives": [
+                {
+                    "token": "old",
+                    "logprob": -1.9361265e-07
+                },
+                {
+                    "token": "OLD",
+                    "logprob": -17.0
+                },
+                {
+                    "token": "Old",
+                    "logprob": -17.625
+                },
+                {
+                    "token": " old",
+                    "logprob": -18.625
+                },
+                {
+                    "token": "oled",
+                    "logprob": -19.5
+                }
+            ]
+        },
+        {
+            "token": " Dividend",
+            "alternatives": [
+                {
+                    "token": " Dividend",
+                    "logprob": -3.1281633e-07
+                },
+                {
+                    "token": "Dividend",
+                    "logprob": -15.5
+                },
+                {
+                    "token": " dividend",
+                    "logprob": -17.5
+                },
+                {
+                    "token": " Division",
+                    "logprob": -22.5
+                },
+                {
+                    "token": " Div",
+                    "logprob": -22.875
+                }
+            ]
+        },
+        {
+            "token": " Stocks",
+            "alternatives": [
+                {
+                    "token": " Stocks",
+                    "logprob": 0.0
+                },
+                {
+                    "token": "Stocks",
+                    "logprob": -16.75
+                },
+                {
+                    "token": " stocks",
+                    "logprob": -17.0
+                },
+                {
+                    "token": " Socks",
+                    "logprob": -20.375
+                },
+                {
+                    "token": " Stock",
+                    "logprob": -21.125
+                }
+            ]
+        },
+        {
+            "token": " To",
+            "alternatives": [
+                {
+                    "token": " To",
+                    "logprob": 0.0
+                },
+                {
+                    "token": " to",
+                    "logprob": -20.0
+                },
+                {
+                    "token": "To",
+                    "logprob": -20.875
+                },
+                {
+                    "token": " TO",
+                    "logprob": -24.25
+                },
+                {
+                    "token": " T",
+                    "logprob": -24.625
+                }
+            ]
+        },
+        {
+            "token": " Buy",
+            "alternatives": [
+                {
+                    "token": " Buy",
+                    "logprob": 0.0
+                },
+                {
+                    "token": "Buy",
+                    "logprob": -21.625
+                },
+                {
+                    "token": " buy",
+                    "logprob": -24.875
+                },
+                {
+                    "token": " BUY",
+                    "logprob": -24.875
+                },
+                {
+                    "token": " Bu",
+                    "logprob": -25.25
+                }
+            ]
+        },
+        {
+            "token": " Now",
+            "alternatives": [
+                {
+                    "token": " Now",
+                    "logprob": 0.0
+                },
+                {
+                    "token": "Now",
+                    "logprob": -19.75
+                },
+                {
+                    "token": " NOW",
+                    "logprob": -20.25
+                },
+                {
+                    "token": " No",
+                    "logprob": -21.75
+                },
+                {
+                    "token": " Not",
+                    "logprob": -22.25
+                }
+            ]
+        },
+        {
+            "token": "\",\n",
+            "alternatives": [
+                {
+                    "token": "\",\n",
+                    "logprob": -1.8624639e-06
+                },
+                {
+                    "token": "\",",
+                    "logprob": -13.500002
+                },
+                {
+                    "token": ".\",\n",
+                    "logprob": -15.500002
+                },
+                {
+                    "token": " \",\n",
+                    "logprob": -15.750002
+                },
+                {
+                    "token": "\",\r\n",
+                    "logprob": -18.625002
+                }
+            ]
+        },
+        {
+            "token": " ",
+            "alternatives": [
+                {
+                    "token": " ",
+                    "logprob": 0.0
+                },
+                {
+                    "token": "  ",
+                    "logprob": -21.375
+                },
+                {
+                    "token": "  \n",
+                    "logprob": -22.0
+                },
+                {
+                    "token": " \"",
+                    "logprob": -22.875
+                },
+                {
+                    "token": "   ",
+                    "logprob": -23.5
+                }
+            ]
+        },
+        {
+            "token": " \"",
+            "alternatives": [
+                {
+                    "token": " \"",
+                    "logprob": 0.0
+                },
+                {
+                    "token": " '",
+                    "logprob": -24.25
+                },
+                {
+                    "token": " \u201c",
+                    "logprob": -24.375
+                },
+                {
+                    "token": " \"\n",
+                    "logprob": -24.75
+                },
+                {
+                    "token": " \"_",
+                    "logprob": -25.375
+                }
+            ]
+        },
+        {
+            "token": "prob",
+            "alternatives": [
+                {
+                    "token": "prob",
+                    "logprob": 0.0
+                },
+                {
+                    "token": " probability",
+                    "logprob": -18.25
+                },
+                {
+                    "token": "Probability",
+                    "logprob": -18.5
+                },
+                {
+                    "token": "pro",
+                    "logprob": -20.875
+                },
+                {
+                    "token": "percentage",
+                    "logprob": -21.0
+                }
+            ]
+        },
+        {
+            "token": "ability",
+            "alternatives": [
+                {
+                    "token": "ability",
+                    "logprob": 0.0
+                },
+                {
+                    "token": "abilities",
+                    "logprob": -19.75
+                },
+                {
+                    "token": "abil",
+                    "logprob": -20.75
+                },
+                {
+                    "token": "abl",
+                    "logprob": -22.25
+                },
+                {
+                    "token": "ality",
+                    "logprob": -23.0
+                }
+            ]
+        },
+        {
+            "token": "_of",
+            "alternatives": [
+                {
+                    "token": "_of",
+                    "logprob": 0.0
+                },
+                {
+                    "token": "_OF",
+                    "logprob": -23.125
+                },
+                {
+                    "token": "Of",
+                    "logprob": -24.5
+                },
+                {
+                    "token": "_for",
+                    "logprob": -24.875
+                },
+                {
+                    "token": " Of",
+                    "logprob": -25.75
+                }
+            ]
+        },
+        {
+            "token": "_stock",
+            "alternatives": [
+                {
+                    "token": "_stock",
+                    "logprob": 0.0
+                },
+                {
+                    "token": " stock",
+                    "logprob": -17.875
+                },
+                {
+                    "token": ".stock",
+                    "logprob": -19.5
+                },
+                {
+                    "token": " STOCK",
+                    "logprob": -20.5
+                },
+                {
+                    "token": "_sock",
+                    "logprob": -20.875
+                }
+            ]
+        },
+        {
+            "token": "_price",
+            "alternatives": [
+                {
+                    "token": "_price",
+                    "logprob": 0.0
+                },
+                {
+                    "token": " price",
+                    "logprob": -17.5
+                },
+                {
+                    "token": "price",
+                    "logprob": -20.5
+                },
+                {
+                    "token": "_size",
+                    "logprob": -20.875
+                },
+                {
+                    "token": "_PRICE",
+                    "logprob": -21.5
+                }
+            ]
+        },
+        {
+            "token": "_r",
+            "alternatives": [
+                {
+                    "token": "_r",
+                    "logprob": 0.0
+                },
+                {
+                    "token": ".r",
+                    "logprob": -20.75
+                },
+                {
+                    "token": "_R",
+                    "logprob": -22.25
+                },
+                {
+                    "token": " rise",
+                    "logprob": -22.375
+                },
+                {
+                    "token": "Rise",
+                    "logprob": -22.375
+                }
+            ]
+        },
+        {
+            "token": "ise",
+            "alternatives": [
+                {
+                    "token": "ise",
+                    "logprob": 0.0
+                },
+                {
+                    "token": "ISE",
+                    "logprob": -19.5
+                },
+                {
+                    "token": " rise",
+                    "logprob": -20.125
+                },
+                {
+                    "token": "ize",
+                    "logprob": -20.875
+                },
+                {
+                    "token": "is",
+                    "logprob": -21.5
+                }
+            ]
+        },
+        {
+            "token": "\":",
+            "alternatives": [
+                {
+                    "token": "\":",
+                    "logprob": 0.0
+                },
+                {
+                    "token": "\\\":",
+                    "logprob": -20.875
+                },
+                {
+                    "token": "\u201d:",
+                    "logprob": -21.625
+                },
+                {
+                    "token": " \":",
+                    "logprob": -22.125
+                },
+                {
+                    "token": "_percentage",
+                    "logprob": -23.375
+                }
+            ]
+        },
+        {
+            "token": " ",
+            "alternatives": [
+                {
+                    "token": " ",
+                    "logprob": 0.0
+                },
+                {
+                    "token": " \"",
+                    "logprob": -18.875
+                },
+                {
+                    "token": " {\n",
+                    "logprob": -24.0625
+                },
+                {
+                    "token": " \n",
+                    "logprob": -24.0625
+                },
+                {
+                    "token": "70",
+                    "logprob": -24.125
+                }
+            ]
+        },
+        {
+            "token": "60",
+            "alternatives": [
+                {
+                    "token": "60",
+                    "logprob": -0.38245994
+                },
+                {
+                    "token": "65",
+                    "logprob": -1.6324599
+                },
+                {
+                    "token": "55",
+                    "logprob": -2.2574599
+                },
+                {
+                    "token": "70",
+                    "logprob": -4.63246
+                },
+                {
+                    "token": "45",
+                    "logprob": -5.50746
+                }
+            ]
+        },
+        {
+            "token": ",\n",
+            "alternatives": [
+                {
+                    "token": ",\n",
+                    "logprob": -1.0280384e-06
+                },
+                {
+                    "token": ",",
+                    "logprob": -13.875001
+                },
+                {
+                    "token": ".",
+                    "logprob": -18.875002
+                },
+                {
+                    "token": ",\n\n",
+                    "logprob": -21.125002
+                },
+                {
+                    "token": " ,\n",
+                    "logprob": -22.375002
+                }
+            ]
+        },
+        {
+            "token": " ",
+            "alternatives": [
+                {
+                    "token": " ",
+                    "logprob": 0.0
+                },
+                {
+                    "token": "  ",
+                    "logprob": -22.25
+                },
+                {
+                    "token": " \"",
+                    "logprob": -22.5
+                },
+                {
+                    "token": "  \n",
+                    "logprob": -24.375
+                },
+                {
+                    "token": "   ",
+                    "logprob": -24.5
+                }
+            ]
+        },
+        {
+            "token": " \"",
+            "alternatives": [
+                {
+                    "token": " \"",
+                    "logprob": 0.0
+                },
+                {
+                    "token": " \u201c",
+                    "logprob": -23.625
+                },
+                {
+                    "token": " '",
+                    "logprob": -25.75
+                },
+                {
+                    "token": " \"_",
+                    "logprob": -26.5
+                },
+                {
+                    "token": " \"$",
+                    "logprob": -27.125
+                }
+            ]
+        },
+        {
+            "token": "prob",
+            "alternatives": [
+                {
+                    "token": "prob",
+                    "logprob": 0.0
+                },
+                {
+                    "token": " probability",
+                    "logprob": -18.75
+                },
+                {
+                    "token": "pro",
+                    "logprob": -21.5
+                },
+                {
+                    "token": "Probability",
+                    "logprob": -22.0
+                },
+                {
+                    "token": "prop",
+                    "logprob": -22.25
+                }
+            ]
+        },
+        {
+            "token": "ability",
+            "alternatives": [
+                {
+                    "token": "ability",
+                    "logprob": 0.0
+                },
+                {
+                    "token": "abilities",
+                    "logprob": -21.25
+                },
+                {
+                    "token": "abil",
+                    "logprob": -21.375
+                },
+                {
+                    "token": "ABILITY",
+                    "logprob": -21.625
+                },
+                {
+                    "token": "ality",
+                    "logprob": -22.0
+                }
+            ]
+        },
+        {
+            "token": "_of",
+            "alternatives": [
+                {
+                    "token": "_of",
+                    "logprob": 0.0
+                },
+                {
+                    "token": "_OF",
+                    "logprob": -23.25
+                },
+                {
+                    "token": "of",
+                    "logprob": -25.125
+                },
+                {
+                    "token": "Of",
+                    "logprob": -25.375
+                },
+                {
+                    "token": "_for",
+                    "logprob": -25.5
+                }
+            ]
+        },
+        {
+            "token": "_stock",
+            "alternatives": [
+                {
+                    "token": "_stock",
+                    "logprob": 0.0
+                },
+                {
+                    "token": " stock",
+                    "logprob": -17.75
+                },
+                {
+                    "token": ".stock",
+                    "logprob": -18.5
+                },
+                {
+                    "token": "_sock",
+                    "logprob": -19.5
+                },
+                {
+                    "token": "(stock",
+                    "logprob": -19.625
+                }
+            ]
+        },
+        {
+            "token": "_price",
+            "alternatives": [
+                {
+                    "token": "_price",
+                    "logprob": 0.0
+                },
+                {
+                    "token": "_stock",
+                    "logprob": -18.875
+                },
+                {
+                    "token": " price",
+                    "logprob": -19.375
+                },
+                {
+                    "token": "_size",
+                    "logprob": -19.5
+                },
+                {
+                    "token": "_date",
+                    "logprob": -20.25
+                }
+            ]
+        },
+        {
+            "token": "_f",
+            "alternatives": [
+                {
+                    "token": "_f",
+                    "logprob": 0.0
+                },
+                {
+                    "token": "_r",
+                    "logprob": -18.5
+                },
+                {
+                    "token": " fall",
+                    "logprob": -19.5
+                },
+                {
+                    "token": "fall",
+                    "logprob": -20.125
+                },
+                {
+                    "token": "_fail",
+                    "logprob": -21.75
+                }
+            ]
+        },
+        {
+            "token": "all",
+            "alternatives": [
+                {
+                    "token": "all",
+                    "logprob": 0.0
+                },
+                {
+                    "token": "alls",
+                    "logprob": -20.25
+                },
+                {
+                    "token": "allen",
+                    "logprob": -21.375
+                },
+                {
+                    "token": "allback",
+                    "logprob": -22.375
+                },
+                {
+                    "token": "alling",
+                    "logprob": -22.875
+                }
+            ]
+        },
+        {
+            "token": "\":",
+            "alternatives": [
+                {
+                    "token": "\":",
+                    "logprob": 0.0
+                },
+                {
+                    "token": " \":",
+                    "logprob": -20.875
+                },
+                {
+                    "token": "\\\":",
+                    "logprob": -21.625
+                },
+                {
+                    "token": ")\":",
+                    "logprob": -21.75
+                },
+                {
+                    "token": "':",
+                    "logprob": -22.375
+                }
+            ]
+        },
+        {
+            "token": " ",
+            "alternatives": [
+                {
+                    "token": " ",
+                    "logprob": 0.0
+                },
+                {
+                    "token": " -",
+                    "logprob": -24.875
+                },
+                {
+                    "token": "<|end|>",
+                    "logprob": -25.0
+                },
+                {
+                    "token": "  ",
+                    "logprob": -25.375
+                },
+                {
+                    "token": "10",
+                    "logprob": -25.375
+                }
+            ]
+        },
+        {
+            "token": "40",
+            "alternatives": [
+                {
+                    "token": "40",
+                    "logprob": -0.028549131
+                },
+                {
+                    "token": "30",
+                    "logprob": -3.6535492
+                },
+                {
+                    "token": "25",
+                    "logprob": -6.528549
+                },
+                {
+                    "token": "35",
+                    "logprob": -7.278549
+                },
+                {
+                    "token": "20",
+                    "logprob": -9.278549
+                }
+            ]
+        },
+        {
+            "token": ",\n",
+            "alternatives": [
+                {
+                    "token": ",\n",
+                    "logprob": -2.9352968e-06
+                },
+                {
+                    "token": ",",
+                    "logprob": -12.750003
+                },
+                {
+                    "token": ",\n\n",
+                    "logprob": -21.000004
+                },
+                {
+                    "token": ",\r\n",
+                    "logprob": -21.125004
+                },
+                {
+                    "token": "\u060c\n",
+                    "logprob": -21.625004
+                }
+            ]
+        },
+        {
+            "token": " ",
+            "alternatives": [
+                {
+                    "token": " ",
+                    "logprob": 0.0
+                },
+                {
+                    "token": "  ",
+                    "logprob": -21.25
+                },
+                {
+                    "token": "  \n",
+                    "logprob": -21.625
+                },
+                {
+                    "token": " \"",
+                    "logprob": -21.875
+                },
+                {
+                    "token": "   ",
+                    "logprob": -23.75
+                }
+            ]
+        },
+        {
+            "token": " \"",
+            "alternatives": [
+                {
+                    "token": " \"",
+                    "logprob": 0.0
+                },
+                {
+                    "token": " \u201c",
+                    "logprob": -24.5
+                },
+                {
+                    "token": " '",
+                    "logprob": -25.75
+                },
+                {
+                    "token": " \"_",
+                    "logprob": -26.0
+                },
+                {
+                    "token": " \"\n",
+                    "logprob": -26.375
+                }
+            ]
+        },
+        {
+            "token": "reason",
+            "alternatives": [
+                {
+                    "token": "reason",
+                    "logprob": 0.0
+                },
+                {
+                    "token": "reasonable",
+                    "logprob": -21.625
+                },
+                {
+                    "token": "re",
+                    "logprob": -22.375
+                },
+                {
+                    "token": "result",
+                    "logprob": -22.625
+                },
+                {
+                    "token": "question",
+                    "logprob": -22.625
+                }
+            ]
+        },
+        {
+            "token": "ing",
+            "alternatives": [
+                {
+                    "token": "ing",
+                    "logprob": 0.0
+                },
+                {
+                    "token": "inging",
+                    "logprob": -25.25
+                },
+                {
+                    "token": "ING",
+                    "logprob": -25.5
+                },
+                {
+                    "token": "ning",
+                    "logprob": -25.75
+                },
+                {
+                    "token": "ings",
+                    "logprob": -25.875
+                }
+            ]
+        },
+        {
+            "token": "\":",
+            "alternatives": [
+                {
+                    "token": "\":",
+                    "logprob": 0.0
+                },
+                {
+                    "token": "\":\"",
+                    "logprob": -17.125
+                },
+                {
+                    "token": "\":\n",
+                    "logprob": -21.75
+                },
+                {
+                    "token": "':",
+                    "logprob": -22.5
+                },
+                {
+                    "token": "\\\":",
+                    "logprob": -22.5
+                }
+            ]
+        },
+        {
+            "token": " \"",
+            "alternatives": [
+                {
+                    "token": " \"",
+                    "logprob": 0.0
+                },
+                {
+                    "token": " \"\\\"",
+                    "logprob": -19.375
+                },
+                {
+                    "token": " \u201c",
+                    "logprob": -19.75
+                },
+                {
+                    "token": " \"'",
+                    "logprob": -20.25
+                },
+                {
+                    "token": " \"[",
+                    "logprob": -20.75
+                }
+            ]
+        },
+        {
+            "token": "The",
+            "alternatives": [
+                {
+                    "token": "The",
+                    "logprob": -0.20529372
+                },
+                {
+                    "token": "Apple",
+                    "logprob": -2.0802937
+                },
+                {
+                    "token": "While",
+                    "logprob": -3.7052937
+                },
+                {
+                    "token": "Despite",
+                    "logprob": -3.7052937
+                },
+                {
+                    "token": "Although",
+                    "logprob": -4.7052937
+                }
+            ]
+        },
+        {
+            "token": " article",
+            "alternatives": [
+                {
+                    "token": " article",
+                    "logprob": -0.62230015
+                },
+                {
+                    "token": " news",
+                    "logprob": -1.1223001
+                },
+                {
+                    "token": " mention",
+                    "logprob": -2.6223001
+                },
+                {
+                    "token": " headline",
+                    "logprob": -3.1223001
+                },
+                {
+                    "token": " inclusion",
+                    "logprob": -4.4973
+                }
+            ]
+        },
+        {
+            "token": " highlights",
+            "alternatives": [
+                {
+                    "token": " highlights",
+                    "logprob": -0.7727849
+                },
+                {
+                    "token": " discusses",
+                    "logprob": -1.772785
+                },
+                {
+                    "token": " identifies",
+                    "logprob": -2.272785
+                },
+                {
+                    "token": " suggests",
+                    "logprob": -2.397785
+                },
+                {
+                    "token": " mentions",
+                    "logprob": -3.147785
+                }
+            ]
+        },
+        {
+            "token": " Apple",
+            "alternatives": [
+                {
+                    "token": " Apple",
+                    "logprob": -0.43680447
+                },
+                {
+                    "token": " that",
+                    "logprob": -1.3118045
+                },
+                {
+                    "token": " Apple's",
+                    "logprob": -2.9368045
+                },
+                {
+                    "token": " A",
+                    "logprob": -3.8118045
+                },
+                {
+                    "token": " the",
+                    "logprob": -5.1868043
+                }
+            ]
+        },
+        {
+            "token": " as",
+            "alternatives": [
+                {
+                    "token": " as",
+                    "logprob": -0.2581632
+                },
+                {
+                    "token": " Inc",
+                    "logprob": -1.5081632
+                },
+                {
+                    "token": " being",
+                    "logprob": -5.5081635
+                },
+                {
+                    "token": " among",
+                    "logprob": -6.7581635
+                },
+                {
+                    "token": " (",
+                    "logprob": -8.258163
+                }
+            ]
+        },
+        {
+            "token": " an",
+            "alternatives": [
+                {
+                    "token": " an",
+                    "logprob": -0.077371664
+                },
+                {
+                    "token": " one",
+                    "logprob": -3.4523716
+                },
+                {
+                    "token": " being",
+                    "logprob": -3.4523716
+                },
+                {
+                    "token": " a",
+                    "logprob": -5.4523716
+                },
+                {
+                    "token": " part",
+                    "logprob": -5.9523716
+                }
+            ]
+        },
+        {
+            "token": " overs",
+            "alternatives": [
+                {
+                    "token": " overs",
+                    "logprob": -0.0092721945
+                },
+                {
+                    "token": " '",
+                    "logprob": -4.759272
+                },
+                {
+                    "token": " attractive",
+                    "logprob": -8.009273
+                },
+                {
+                    "token": " underv",
+                    "logprob": -9.509273
+                },
+                {
+                    "token": " unders",
+                    "logprob": -9.634273
+                }
+            ]
+        },
+        {
+            "token": "old",
+            "alternatives": [
+                {
+                    "token": "old",
+                    "logprob": -3.1281633e-07
+                },
+                {
+                    "token": "elling",
+                    "logprob": -15.625
+                },
+                {
+                    "token": " old",
+                    "logprob": -16.625
+                },
+                {
+                    "token": "ubs",
+                    "logprob": -17.875
+                },
+                {
+                    "token": "ell",
+                    "logprob": -18.25
+                }
+            ]
+        },
+        {
+            "token": " stock",
+            "alternatives": [
+                {
+                    "token": " stock",
+                    "logprob": -0.20152697
+                },
+                {
+                    "token": " dividend",
+                    "logprob": -1.701527
+                },
+                {
+                    "token": " asset",
+                    "logprob": -10.201527
+                },
+                {
+                    "token": " company",
+                    "logprob": -10.451527
+                },
+                {
+                    "token": " investment",
+                    "logprob": -11.951527
+                }
+            ]
+        },
+        {
+            "token": ",",
+            "alternatives": [
+                {
+                    "token": ",",
+                    "logprob": -0.579319
+                },
+                {
+                    "token": " in",
+                    "logprob": -2.579319
+                },
+                {
+                    "token": " with",
+                    "logprob": -2.579319
+                },
+                {
+                    "token": " and",
+                    "logprob": -2.704319
+                },
+                {
+                    "token": " within",
+                    "logprob": -3.079319
+                }
+            ]
+        },
+        {
+            "token": " which",
+            "alternatives": [
+                {
+                    "token": " which",
+                    "logprob": -0.34813377
+                },
+                {
+                    "token": " suggesting",
+                    "logprob": -1.5981338
+                },
+                {
+                    "token": " indicating",
+                    "logprob": -2.9731338
+                },
+                {
+                    "token": " potentially",
+                    "logprob": -4.7231336
+                },
+                {
+                    "token": " implying",
+                    "logprob": -4.9731336
+                }
+            ]
+        },
+        {
+            "token": " may",
+            "alternatives": [
+                {
+                    "token": " may",
+                    "logprob": -1.3766521
+                },
+                {
+                    "token": " can",
+                    "logprob": -1.8766521
+                },
+                {
+                    "token": " could",
+                    "logprob": -1.8766521
+                },
+                {
+                    "token": " typically",
+                    "logprob": -1.8766521
+                },
+                {
+                    "token": " often",
+                    "logprob": -2.0016522
+                }
+            ]
+        },
+        {
+            "token": " attract",
+            "alternatives": [
+                {
+                    "token": " attract",
+                    "logprob": -0.037474405
+                },
+                {
+                    "token": " encourage",
+                    "logprob": -4.6624746
+                },
+                {
+                    "token": " prompt",
+                    "logprob": -5.0374746
+                },
+                {
+                    "token": " entice",
+                    "logprob": -5.1624746
+                },
+                {
+                    "token": " lead",
+                    "logprob": -5.5374746
+                }
+            ]
+        },
+        {
+            "token": " investors",
+            "alternatives": [
+                {
+                    "token": " investors",
+                    "logprob": -0.4462438
+                },
+                {
+                    "token": " dividend",
+                    "logprob": -1.6962438
+                },
+                {
+                    "token": " value",
+                    "logprob": -2.3212438
+                },
+                {
+                    "token": " buyers",
+                    "logprob": -3.5712438
+                },
+                {
+                    "token": " investor",
+                    "logprob": -4.071244
+                }
+            ]
+        },
+        {
+            "token": " looking",
+            "alternatives": [
+                {
+                    "token": " looking",
+                    "logprob": -0.08045557
+                },
+                {
+                    "token": " seeking",
+                    "logprob": -2.5804555
+                },
+                {
+                    "token": " searching",
+                    "logprob": -7.205456
+                },
+                {
+                    "token": " interested",
+                    "logprob": -8.705456
+                },
+                {
+                    "token": " who",
+                    "logprob": -8.830456
+                }
+            ]
+        },
+        {
+            "token": " for",
+            "alternatives": [
+                {
+                    "token": " for",
+                    "logprob": -0.018152397
+                },
+                {
+                    "token": " to",
+                    "logprob": -4.018152
+                },
+                {
+                    "token": " at",
+                    "logprob": -13.518152
+                },
+                {
+                    "token": " specifically",
+                    "logprob": -14.643152
+                },
+                {
+                    "token": " opportun",
+                    "logprob": -15.393152
+                }
+            ]
+        },
+        {
+            "token": " value",
+            "alternatives": [
+                {
+                    "token": " value",
+                    "logprob": -1.0737857
+                },
+                {
+                    "token": " underv",
+                    "logprob": -1.5737857
+                },
+                {
+                    "token": " buying",
+                    "logprob": -2.3237858
+                },
+                {
+                    "token": " bargain",
+                    "logprob": -2.4487858
+                },
+                {
+                    "token": " dividend",
+                    "logprob": -2.6987858
+                }
+            ]
+        },
+        {
+            "token": " in",
+            "alternatives": [
+                {
+                    "token": " in",
+                    "logprob": -0.7165809
+                },
+                {
+                    "token": ",",
+                    "logprob": -1.7165809
+                },
+                {
+                    "token": " and",
+                    "logprob": -2.0915809
+                },
+                {
+                    "token": " opportunities",
+                    "logprob": -2.2165809
+                },
+                {
+                    "token": ".",
+                    "logprob": -2.8415809
+                }
+            ]
+        },
+        {
+            "token": " dividend",
+            "alternatives": [
+                {
+                    "token": " dividend",
+                    "logprob": -0.6807563
+                },
+                {
+                    "token": " a",
+                    "logprob": -1.0557563
+                },
+                {
+                    "token": " the",
+                    "logprob": -2.0557563
+                },
+                {
+                    "token": " overs",
+                    "logprob": -5.680756
+                },
+                {
+                    "token": " an",
+                    "logprob": -6.055756
+                }
+            ]
+        },
+        {
+            "token": " stocks",
+            "alternatives": [
+                {
+                    "token": " stocks",
+                    "logprob": -0.26147792
+                },
+                {
+                    "token": "-paying",
+                    "logprob": -1.511478
+                },
+                {
+                    "token": "-y",
+                    "logprob": -6.261478
+                },
+                {
+                    "token": " paying",
+                    "logprob": -6.761478
+                },
+                {
+                    "token": " plays",
+                    "logprob": -6.886478
+                }
+            ]
+        },
+        {
+            "token": ".",
+            "alternatives": [
+                {
+                    "token": ".",
+                    "logprob": -0.6211622
+                },
+                {
+                    "token": ",",
+                    "logprob": -1.4961622
+                },
+                {
+                    "token": " during",
+                    "logprob": -2.2461622
+                },
+                {
+                    "token": " amidst",
+                    "logprob": -2.6211622
+                },
+                {
+                    "token": " amid",
+                    "logprob": -3.2461622
+                }
+            ]
+        },
+        {
+            "token": " The",
+            "alternatives": [
+                {
+                    "token": " The",
+                    "logprob": -1.6387112
+                },
+                {
+                    "token": " Despite",
+                    "logprob": -1.6387112
+                },
+                {
+                    "token": " Additionally",
+                    "logprob": -1.7637112
+                },
+                {
+                    "token": " Given",
+                    "logprob": -1.8887112
+                },
+                {
+                    "token": " While",
+                    "logprob": -2.5137112
+                }
+            ]
+        },
+        {
+            "token": " overall",
+            "alternatives": [
+                {
+                    "token": " overall",
+                    "logprob": -1.5982758
+                },
+                {
+                    "token": " broader",
+                    "logprob": -2.0982757
+                },
+                {
+                    "token": " S",
+                    "logprob": -2.3482757
+                },
+                {
+                    "token": " context",
+                    "logprob": -2.3482757
+                },
+                {
+                    "token": " current",
+                    "logprob": -2.4732757
+                }
+            ]
+        },
+        {
+            "token": " positive",
+            "alternatives": [
+                {
+                    "token": " positive",
+                    "logprob": -0.46190163
+                },
+                {
+                    "token": " market",
+                    "logprob": -1.5869017
+                },
+                {
+                    "token": " context",
+                    "logprob": -3.2119017
+                },
+                {
+                    "token": " trend",
+                    "logprob": -3.2119017
+                },
+                {
+                    "token": " bullish",
+                    "logprob": -3.3369017
+                }
+            ]
+        },
+        {
+            "token": " sentiment",
+            "alternatives": [
+                {
+                    "token": " sentiment",
+                    "logprob": -0.62543887
+                },
+                {
+                    "token": " market",
+                    "logprob": -1.6254389
+                },
+                {
+                    "token": " trend",
+                    "logprob": -1.7504389
+                },
+                {
+                    "token": " performance",
+                    "logprob": -3.250439
+                },
+                {
+                    "token": " context",
+                    "logprob": -3.625439
+                }
+            ]
+        },
+        {
+            "token": " towards",
+            "alternatives": [
+                {
+                    "token": " towards",
+                    "logprob": -0.8808453
+                },
+                {
+                    "token": " around",
+                    "logprob": -1.3808453
+                },
+                {
+                    "token": " in",
+                    "logprob": -2.3808453
+                },
+                {
+                    "token": " surrounding",
+                    "logprob": -2.7558453
+                },
+                {
+                    "token": " regarding",
+                    "logprob": -2.8808453
+                }
+            ]
+        },
+        {
+            "token": " dividend",
+            "alternatives": [
+                {
+                    "token": " dividend",
+                    "logprob": -0.117758155
+                },
+                {
+                    "token": " overs",
+                    "logprob": -2.6177583
+                },
+                {
+                    "token": " the",
+                    "logprob": -3.9927583
+                },
+                {
+                    "token": " high",
+                    "logprob": -4.9927583
+                },
+                {
+                    "token": " dividends",
+                    "logprob": -5.4927583
+                }
+            ]
+        },
+        {
+            "token": " stocks",
+            "alternatives": [
+                {
+                    "token": " stocks",
+                    "logprob": -0.09292213
+                },
+                {
+                    "token": "-paying",
+                    "logprob": -2.8429222
+                },
+                {
+                    "token": " investing",
+                    "logprob": -4.092922
+                },
+                {
+                    "token": " investments",
+                    "logprob": -4.967922
+                },
+                {
+                    "token": " yields",
+                    "logprob": -6.592922
+                }
+            ]
+        },
+        {
+            "token": " in",
+            "alternatives": [
+                {
+                    "token": " in",
+                    "logprob": -0.80201614
+                },
+                {
+                    "token": ",",
+                    "logprob": -1.6770161
+                },
+                {
+                    "token": " during",
+                    "logprob": -1.9270161
+                },
+                {
+                    "token": " and",
+                    "logprob": -2.3020163
+                },
+                {
+                    "token": " amid",
+                    "logprob": -3.3020163
+                }
+            ]
+        },
+        {
+            "token": " a",
+            "alternatives": [
+                {
+                    "token": " a",
+                    "logprob": -0.33746225
+                },
+                {
+                    "token": " the",
+                    "logprob": -1.4624622
+                },
+                {
+                    "token": " an",
+                    "logprob": -3.7124622
+                },
+                {
+                    "token": " current",
+                    "logprob": -5.0874624
+                },
+                {
+                    "token": " uncertain",
+                    "logprob": -5.0874624
+                }
+            ]
+        },
+        {
+            "token": " rising",
+            "alternatives": [
+                {
+                    "token": " rising",
+                    "logprob": -0.3172482
+                },
+                {
+                    "token": " recovering",
+                    "logprob": -2.442248
+                },
+                {
+                    "token": " bullish",
+                    "logprob": -3.442248
+                },
+                {
+                    "token": " market",
+                    "logprob": -3.567248
+                },
+                {
+                    "token": " strong",
+                    "logprob": -3.567248
+                }
+            ]
+        },
+        {
+            "token": " market",
+            "alternatives": [
+                {
+                    "token": " market",
+                    "logprob": -0.18018624
+                },
+                {
+                    "token": " S",
+                    "logprob": -1.8051863
+                },
+                {
+                    "token": " index",
+                    "logprob": -8.180186
+                },
+                {
+                    "token": " equity",
+                    "logprob": -10.055186
+                },
+                {
+                    "token": " markets",
+                    "logprob": -10.305186
+                }
+            ]
+        },
+        {
+            "token": " could",
+            "alternatives": [
+                {
+                    "token": " could",
+                    "logprob": -0.8373259
+                },
+                {
+                    "token": ",",
+                    "logprob": -1.9623258
+                },
+                {
+                    "token": " can",
+                    "logprob": -2.3373258
+                },
+                {
+                    "token": " may",
+                    "logprob": -2.5873258
+                },
+                {
+                    "token": " like",
+                    "logprob": -3.2123258
+                }
+            ]
+        },
+        {
+            "token": " lead",
+            "alternatives": [
+                {
+                    "token": " lead",
+                    "logprob": -1.030197
+                },
+                {
+                    "token": " support",
+                    "logprob": -2.0301971
+                },
+                {
+                    "token": " bolster",
+                    "logprob": -2.1551971
+                },
+                {
+                    "token": " also",
+                    "logprob": -2.7801971
+                },
+                {
+                    "token": " provide",
+                    "logprob": -2.7801971
+                }
+            ]
+        },
+        {
+            "token": " to",
+            "alternatives": [
+                {
+                    "token": " to",
+                    "logprob": -0.0026581779
+                },
+                {
+                    "token": " investors",
+                    "logprob": -6.2526584
+                },
+                {
+                    "token": " some",
+                    "logprob": -8.002658
+                },
+                {
+                    "token": " Apple",
+                    "logprob": -9.002658
+                },
+                {
+                    "token": " more",
+                    "logprob": -9.127658
+                }
+            ]
+        },
+        {
+            "token": " increased",
+            "alternatives": [
+                {
+                    "token": " increased",
+                    "logprob": -0.56636524
+                },
+                {
+                    "token": " a",
+                    "logprob": -1.3163652
+                },
+                {
+                    "token": " an",
+                    "logprob": -2.5663652
+                },
+                {
+                    "token": " renewed",
+                    "logprob": -3.3163652
+                },
+                {
+                    "token": " buying",
+                    "logprob": -3.5663652
+                }
+            ]
+        },
+        {
+            "token": " buying",
+            "alternatives": [
+                {
+                    "token": " buying",
+                    "logprob": -0.2553894
+                },
+                {
+                    "token": " interest",
+                    "logprob": -2.2553895
+                },
+                {
+                    "token": " demand",
+                    "logprob": -2.2553895
+                },
+                {
+                    "token": " purchasing",
+                    "logprob": -5.130389
+                },
+                {
+                    "token": " investment",
+                    "logprob": -5.630389
+                }
+            ]
+        },
+        {
+            "token": " interest",
+            "alternatives": [
+                {
+                    "token": " interest",
+                    "logprob": -0.26262856
+                },
+                {
+                    "token": " pressure",
+                    "logprob": -1.7626286
+                },
+                {
+                    "token": " activity",
+                    "logprob": -2.8876286
+                },
+                {
+                    "token": ",",
+                    "logprob": -6.2626286
+                },
+                {
+                    "token": " of",
+                    "logprob": -7.5126286
+                }
+            ]
+        },
+        {
+            "token": " in",
+            "alternatives": [
+                {
+                    "token": " in",
+                    "logprob": -0.53278714
+                },
+                {
+                    "token": ",",
+                    "logprob": -1.7827871
+                },
+                {
+                    "token": " for",
+                    "logprob": -1.9077871
+                },
+                {
+                    "token": ".",
+                    "logprob": -2.407787
+                },
+                {
+                    "token": " despite",
+                    "logprob": -5.1577873
+                }
+            ]
+        },
+        {
+            "token": " A",
+            "alternatives": [
+                {
+                    "token": " A",
+                    "logprob": -0.35776028
+                },
+                {
+                    "token": " Apple",
+                    "logprob": -1.2327603
+                },
+                {
+                    "token": " Apple's",
+                    "logprob": -4.7327604
+                },
+                {
+                    "token": " overs",
+                    "logprob": -8.85776
+                },
+                {
+                    "token": " shares",
+                    "logprob": -9.23276
+                }
+            ]
+        },
+        {
+            "token": "APL",
+            "alternatives": [
+                {
+                    "token": "APL",
+                    "logprob": -1.9361265e-07
+                },
+                {
+                    "token": "AP",
+                    "logprob": -16.375
+                },
+                {
+                    "token": "apl",
+                    "logprob": -17.625
+                },
+                {
+                    "token": "PL",
+                    "logprob": -20.875
+                },
+                {
+                    "token": "AL",
+                    "logprob": -22.875
+                }
+            ]
+        },
+        {
+            "token": ",",
+            "alternatives": [
+                {
+                    "token": ",",
+                    "logprob": -0.48979715
+                },
+                {
+                    "token": ".",
+                    "logprob": -1.1147971
+                },
+                {
+                    "token": " despite",
+                    "logprob": -2.989797
+                },
+                {
+                    "token": " shares",
+                    "logprob": -4.864797
+                },
+                {
+                    "token": " as",
+                    "logprob": -7.489797
+                }
+            ]
+        },
+        {
+            "token": " despite",
+            "alternatives": [
+                {
+                    "token": " despite",
+                    "logprob": -0.37117156
+                },
+                {
+                    "token": " especially",
+                    "logprob": -2.7461715
+                },
+                {
+                    "token": " counter",
+                    "logprob": -3.1211715
+                },
+                {
+                    "token": " although",
+                    "logprob": -3.4961715
+                },
+                {
+                    "token": " offset",
+                    "logprob": -3.7461715
+                }
+            ]
+        },
+        {
+            "token": " current",
+            "alternatives": [
+                {
+                    "token": " current",
+                    "logprob": -1.0014234
+                },
+                {
+                    "token": " existing",
+                    "logprob": -1.7514234
+                },
+                {
+                    "token": " its",
+                    "logprob": -1.8764234
+                },
+                {
+                    "token": " concerns",
+                    "logprob": -2.0014234
+                },
+                {
+                    "token": " the",
+                    "logprob": -2.7514234
+                }
+            ]
+        },
+        {
+            "token": " concerns",
+            "alternatives": [
+                {
+                    "token": " concerns",
+                    "logprob": -0.5044895
+                },
+                {
+                    "token": " pressures",
+                    "logprob": -1.3794894
+                },
+                {
+                    "token": " challenges",
+                    "logprob": -2.3794894
+                },
+                {
+                    "token": " sales",
+                    "logprob": -4.1294894
+                },
+                {
+                    "token": " negative",
+                    "logprob": -4.6294894
+                }
+            ]
+        },
+        {
+            "token": " over",
+            "alternatives": [
+                {
+                    "token": " over",
+                    "logprob": -0.9096454
+                },
+                {
+                    "token": " about",
+                    "logprob": -1.1596453
+                },
+                {
+                    "token": " regarding",
+                    "logprob": -1.7846453
+                },
+                {
+                    "token": ".",
+                    "logprob": -2.7846453
+                },
+                {
+                    "token": " affecting",
+                    "logprob": -3.6596453
+                }
+            ]
+        },
+        {
+            "token": " i",
+            "alternatives": [
+                {
+                    "token": " i",
+                    "logprob": -0.28255376
+                },
+                {
+                    "token": " sales",
+                    "logprob": -1.6575538
+                },
+                {
+                    "token": " its",
+                    "logprob": -3.0325537
+                },
+                {
+                    "token": " performance",
+                    "logprob": -5.5325537
+                },
+                {
+                    "token": " specific",
+                    "logprob": -6.6575537
+                }
+            ]
+        },
+        {
+            "token": "Phone",
+            "alternatives": [
+                {
+                    "token": "Phone",
+                    "logprob": -2.9352968e-06
+                },
+                {
+                    "token": "Phones",
+                    "logprob": -12.875003
+                },
+                {
+                    "token": "Pad",
+                    "logprob": -16.250004
+                },
+                {
+                    "token": "PHONE",
+                    "logprob": -16.250004
+                },
+                {
+                    "token": "phone",
+                    "logprob": -16.375004
+                }
+            ]
+        },
+        {
+            "token": " sales",
+            "alternatives": [
+                {
+                    "token": " sales",
+                    "logprob": -1.3856493e-06
+                },
+                {
+                    "token": " demand",
+                    "logprob": -14.250001
+                },
+                {
+                    "token": " sale",
+                    "logprob": -15.000001
+                },
+                {
+                    "token": " performance",
+                    "logprob": -15.625001
+                },
+                {
+                    "token": " Sales",
+                    "logprob": -16.375002
+                }
+            ]
+        },
+        {
+            "token": " and",
+            "alternatives": [
+                {
+                    "token": " and",
+                    "logprob": -0.12059828
+                },
+                {
+                    "token": " in",
+                    "logprob": -2.4955983
+                },
+                {
+                    "token": ".",
+                    "logprob": -3.4955983
+                },
+                {
+                    "token": ",",
+                    "logprob": -7.7455983
+                },
+                {
+                    "token": ".\"\n",
+                    "logprob": -9.120598
+                }
+            ]
+        },
+        {
+            "token": " regulatory",
+            "alternatives": [
+                {
+                    "token": " regulatory",
+                    "logprob": -0.204346
+                },
+                {
+                    "token": " EU",
+                    "logprob": -2.704346
+                },
+                {
+                    "token": " fines",
+                    "logprob": -2.829346
+                },
+                {
+                    "token": " a",
+                    "logprob": -4.204346
+                },
+                {
+                    "token": " other",
+                    "logprob": -4.829346
+                }
+            ]
+        },
+        {
+            "token": " fines",
+            "alternatives": [
+                {
+                    "token": " fines",
+                    "logprob": -0.6015782
+                },
+                {
+                    "token": " issues",
+                    "logprob": -1.1015782
+                },
+                {
+                    "token": " pressures",
+                    "logprob": -2.3515782
+                },
+                {
+                    "token": " challenges",
+                    "logprob": -3.8515782
+                },
+                {
+                    "token": " penalties",
+                    "logprob": -6.601578
+                }
+            ]
+        },
+        {
+            "token": ".",
+            "alternatives": [
+                {
+                    "token": ".",
+                    "logprob": -0.37345436
+                },
+                {
+                    "token": ".\"\n",
+                    "logprob": -1.2484543
+                },
+                {
+                    "token": ",",
+                    "logprob": -4.3734546
+                },
+                {
+                    "token": " that",
+                    "logprob": -5.3734546
+                },
+                {
+                    "token": ".\"",
+                    "logprob": -5.7484546
+                }
+            ]
+        },
+        {
+            "token": " This",
+            "alternatives": [
+                {
+                    "token": " This",
+                    "logprob": -0.83892536
+                },
+                {
+                    "token": " The",
+                    "logprob": -1.8389254
+                },
+                {
+                    "token": " However",
+                    "logprob": -1.8389254
+                },
+                {
+                    "token": " Thus",
+                    "logprob": -2.3389254
+                },
+                {
+                    "token": " Therefore",
+                    "logprob": -2.8389254
+                }
+            ]
+        },
+        {
+            "token": " suggests",
+            "alternatives": [
+                {
+                    "token": " suggests",
+                    "logprob": -1.1654972
+                },
+                {
+                    "token": " creates",
+                    "logprob": -2.0404973
+                },
+                {
+                    "token": " context",
+                    "logprob": -2.4154973
+                },
+                {
+                    "token": " combination",
+                    "logprob": -2.4154973
+                },
+                {
+                    "token": " could",
+                    "logprob": -3.1654973
+                }
+            ]
+        },
+        {
+            "token": " a",
+            "alternatives": [
+                {
+                    "token": " a",
+                    "logprob": -0.0075653372
+                },
+                {
+                    "token": " that",
+                    "logprob": -5.5075655
+                },
+                {
+                    "token": " more",
+                    "logprob": -6.3825655
+                },
+                {
+                    "token": " an",
+                    "logprob": -7.5075655
+                },
+                {
+                    "token": " there",
+                    "logprob": -8.1325655
+                }
+            ]
+        },
+        {
+            "token": " higher",
+            "alternatives": [
+                {
+                    "token": " higher",
+                    "logprob": -0.65666354
+                },
+                {
+                    "token": " greater",
+                    "logprob": -1.7816635
+                },
+                {
+                    "token": " moderate",
+                    "logprob": -2.2816634
+                },
+                {
+                    "token": " stronger",
+                    "logprob": -2.7816634
+                },
+                {
+                    "token": " better",
+                    "logprob": -3.9066634
+                }
+            ]
+        },
+        {
+            "token": " probability",
+            "alternatives": [
+                {
+                    "token": " probability",
+                    "logprob": -0.36744875
+                },
+                {
+                    "token": " likelihood",
+                    "logprob": -1.3674488
+                },
+                {
+                    "token": " chance",
+                    "logprob": -2.9924488
+                },
+                {
+                    "token": " potential",
+                    "logprob": -6.242449
+                },
+                {
+                    "token": " than",
+                    "logprob": -8.242449
+                }
+            ]
+        },
+        {
+            "token": " of",
+            "alternatives": [
+                {
+                    "token": " of",
+                    "logprob": -0.051300745
+                },
+                {
+                    "token": " for",
+                    "logprob": -3.0513008
+                },
+                {
+                    "token": " that",
+                    "logprob": -5.9263005
+                },
+                {
+                    "token": " (",
+                    "logprob": -10.426301
+                },
+                {
+                    "token": " the",
+                    "logprob": -12.426301
+                }
+            ]
+        },
+        {
+            "token": " price",
+            "alternatives": [
+                {
+                    "token": " price",
+                    "logprob": -0.8246135
+                },
+                {
+                    "token": " a",
+                    "logprob": -1.6996136
+                },
+                {
+                    "token": " the",
+                    "logprob": -1.6996136
+                },
+                {
+                    "token": " stock",
+                    "logprob": -1.6996136
+                },
+                {
+                    "token": " recovery",
+                    "logprob": -4.9496136
+                }
+            ]
+        },
+        {
+            "token": " recovery",
+            "alternatives": [
+                {
+                    "token": " recovery",
+                    "logprob": -0.83995473
+                },
+                {
+                    "token": " stabilization",
+                    "logprob": -1.2149547
+                },
+                {
+                    "token": " rise",
+                    "logprob": -1.8399547
+                },
+                {
+                    "token": " stability",
+                    "logprob": -3.0899549
+                },
+                {
+                    "token": " increase",
+                    "logprob": -3.3399549
+                }
+            ]
+        },
+        {
+            "token": ".\"\n",
+            "alternatives": [
+                {
+                    "token": ".\"\n",
+                    "logprob": -1.3184586
+                },
+                {
+                    "token": " compared",
+                    "logprob": -1.4434586
+                },
+                {
+                    "token": " in",
+                    "logprob": -1.9434586
+                },
+                {
+                    "token": ",",
+                    "logprob": -2.3184586
+                },
+                {
+                    "token": " as",
+                    "logprob": -2.6934586
+                }
+            ]
+        },
+        {
+            "token": "}",
+            "alternatives": [
+                {
+                    "token": "}",
+                    "logprob": -4.3202e-07
+                },
+                {
+                    "token": "}\n",
+                    "logprob": -15.375
+                },
+                {
+                    "token": " }",
+                    "logprob": -16.625
+                },
+                {
+                    "token": "}`",
+                    "logprob": -17.5
+                },
+                {
+                    "token": "}\n\n",
+                    "logprob": -17.875
+                }
+            ]
+        }
+    ]
+}

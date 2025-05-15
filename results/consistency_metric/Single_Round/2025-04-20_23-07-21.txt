@@ -1,0 +1,100 @@
+Agent 0: openai/gpt-4o-mini	Agent 1: google/gemini-2.0-flash-001	Agent 2: google/gemini-flash-1.5	Agent 3: deepseek/deepseek-chat-v3-0324	Agent 4: meta-llama/llama-4-scout	Agent 5: meta-llama/llama-3.3-70b-instruct	Agent 6: qwen/qwen-turbo	
+Consistency Metric: -0.12907009438355976
+Agent 0: openai/gpt-4o-mini	Agent 1: openai/gpt-4o-mini	
+Consistency Metric: 0.0
+Agent 0: openai/gpt-4o-mini	Agent 1: google/gemini-2.0-flash-001	
+Consistency Metric: -0.03730848905427527
+Agent 0: openai/gpt-4o-mini	Agent 1: google/gemini-flash-1.5	
+Consistency Metric: -0.05699974551374879
+Agent 0: openai/gpt-4o-mini	Agent 1: deepseek/deepseek-chat-v3-0324	
+Consistency Metric: -0.008745282247301523
+Agent 0: openai/gpt-4o-mini	Agent 1: meta-llama/llama-4-scout	
+Consistency Metric: -0.01483371580151246
+Agent 0: openai/gpt-4o-mini	Agent 1: meta-llama/llama-3.3-70b-instruct	
+Consistency Metric: -0.007825709753870307
+Agent 0: openai/gpt-4o-mini	Agent 1: qwen/qwen-turbo	
+Consistency Metric: -0.027437364605712174
+Agent 0: google/gemini-2.0-flash-001	Agent 1: openai/gpt-4o-mini	
+Consistency Metric: -0.03730848905427527
+Agent 0: google/gemini-2.0-flash-001	Agent 1: google/gemini-2.0-flash-001	
+Consistency Metric: 0.0
+Agent 0: google/gemini-2.0-flash-001	Agent 1: google/gemini-flash-1.5	
+Consistency Metric: -0.015918801932120013
+Agent 0: google/gemini-2.0-flash-001	Agent 1: deepseek/deepseek-chat-v3-0324	
+Consistency Metric: -0.04737102988592872
+Agent 0: google/gemini-2.0-flash-001	Agent 1: meta-llama/llama-4-scout	
+Consistency Metric: -0.015531719337459074
+Agent 0: google/gemini-2.0-flash-001	Agent 1: meta-llama/llama-3.3-70b-instruct	
+Consistency Metric: -0.043315972012536036
+Agent 0: google/gemini-2.0-flash-001	Agent 1: qwen/qwen-turbo	
+Consistency Metric: -0.008244675684700524
+Agent 0: google/gemini-flash-1.5	Agent 1: openai/gpt-4o-mini	
+Consistency Metric: -0.056999745513748805
+Agent 0: google/gemini-flash-1.5	Agent 1: google/gemini-2.0-flash-001	
+Consistency Metric: -0.01591880193212001
+Agent 0: google/gemini-flash-1.5	Agent 1: google/gemini-flash-1.5	
+Consistency Metric: 0.0
+Agent 0: google/gemini-flash-1.5	Agent 1: deepseek/deepseek-chat-v3-0324	
+Consistency Metric: -0.06614251176985778
+Agent 0: google/gemini-flash-1.5	Agent 1: meta-llama/llama-4-scout	
+Consistency Metric: -0.0279126228667452
+Agent 0: google/gemini-flash-1.5	Agent 1: meta-llama/llama-3.3-70b-instruct	
+Consistency Metric: -0.05910578114009478
+Agent 0: google/gemini-flash-1.5	Agent 1: qwen/qwen-turbo	
+Consistency Metric: -0.02536167990648477
+Agent 0: deepseek/deepseek-chat-v3-0324	Agent 1: openai/gpt-4o-mini	
+Consistency Metric: -0.008745282247301506
+Agent 0: deepseek/deepseek-chat-v3-0324	Agent 1: google/gemini-2.0-flash-001	
+Consistency Metric: -0.04737102988592873
+Agent 0: deepseek/deepseek-chat-v3-0324	Agent 1: google/gemini-flash-1.5	
+Consistency Metric: -0.06614251176985779
+Agent 0: deepseek/deepseek-chat-v3-0324	Agent 1: deepseek/deepseek-chat-v3-0324	
+Consistency Metric: 0.0
+Agent 0: deepseek/deepseek-chat-v3-0324	Agent 1: meta-llama/llama-4-scout	
+Consistency Metric: -0.02721192911432557
+Agent 0: deepseek/deepseek-chat-v3-0324	Agent 1: meta-llama/llama-3.3-70b-instruct	
+Consistency Metric: -0.0038179783551975923
+Agent 0: deepseek/deepseek-chat-v3-0324	Agent 1: qwen/qwen-turbo	
+Consistency Metric: -0.04377880368450408
+Agent 0: meta-llama/llama-4-scout	Agent 1: openai/gpt-4o-mini	
+Consistency Metric: -0.014833715801512454
+Agent 0: meta-llama/llama-4-scout	Agent 1: google/gemini-2.0-flash-001	
+Consistency Metric: -0.015531719337459088
+Agent 0: meta-llama/llama-4-scout	Agent 1: google/gemini-flash-1.5	
+Consistency Metric: -0.02791262286674518
+Agent 0: meta-llama/llama-4-scout	Agent 1: deepseek/deepseek-chat-v3-0324	
+Consistency Metric: -0.027211929114325566
+Agent 0: meta-llama/llama-4-scout	Agent 1: meta-llama/llama-4-scout	
+Consistency Metric: 0.0
+Agent 0: meta-llama/llama-4-scout	Agent 1: meta-llama/llama-3.3-70b-instruct	
+Consistency Metric: -0.024557083422376724
+Agent 0: meta-llama/llama-4-scout	Agent 1: qwen/qwen-turbo	
+Consistency Metric: -0.014312506843823798
+Agent 0: meta-llama/llama-3.3-70b-instruct	Agent 1: openai/gpt-4o-mini	
+Consistency Metric: -0.007825709753870307
+Agent 0: meta-llama/llama-3.3-70b-instruct	Agent 1: google/gemini-2.0-flash-001	
+Consistency Metric: -0.043315972012536036
+Agent 0: meta-llama/llama-3.3-70b-instruct	Agent 1: google/gemini-flash-1.5	
+Consistency Metric: -0.059105781140094765
+Agent 0: meta-llama/llama-3.3-70b-instruct	Agent 1: deepseek/deepseek-chat-v3-0324	
+Consistency Metric: -0.003817978355197595
+Agent 0: meta-llama/llama-3.3-70b-instruct	Agent 1: meta-llama/llama-4-scout	
+Consistency Metric: -0.024557083422376738
+Agent 0: meta-llama/llama-3.3-70b-instruct	Agent 1: meta-llama/llama-3.3-70b-instruct	
+Consistency Metric: 0.0
+Agent 0: meta-llama/llama-3.3-70b-instruct	Agent 1: qwen/qwen-turbo	
+Consistency Metric: -0.031969172280495825
+Agent 0: qwen/qwen-turbo	Agent 1: openai/gpt-4o-mini	
+Consistency Metric: -0.02743736460571217
+Agent 0: qwen/qwen-turbo	Agent 1: google/gemini-2.0-flash-001	
+Consistency Metric: -0.008244675684700527
+Agent 0: qwen/qwen-turbo	Agent 1: google/gemini-flash-1.5	
+Consistency Metric: -0.02536167990648478
+Agent 0: qwen/qwen-turbo	Agent 1: deepseek/deepseek-chat-v3-0324	
+Consistency Metric: -0.04377880368450408
+Agent 0: qwen/qwen-turbo	Agent 1: meta-llama/llama-4-scout	
+Consistency Metric: -0.014312506843823777
+Agent 0: qwen/qwen-turbo	Agent 1: meta-llama/llama-3.3-70b-instruct	
+Consistency Metric: -0.03196917228049583
+Agent 0: qwen/qwen-turbo	Agent 1: qwen/qwen-turbo	
+Consistency Metric: 0.0

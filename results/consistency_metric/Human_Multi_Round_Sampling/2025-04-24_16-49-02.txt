@@ -1,0 +1,623 @@
+
+Agent 0: openai/gpt-4o-mini	
+
+Date: 2025-01-31
+Consistency Metric: -0.24414526113465215
+
+Date: 2025-01-30
+Consistency Metric: -0.18145245740433055
+
+Date: 2025-01-29
+Consistency Metric: -0.27575022341832983
+
+Date: 2025-01-28
+Consistency Metric: -0.16333343671502443
+
+Date: 2025-01-27
+Consistency Metric: -0.21023285799630737
+
+Date: 2025-01-26
+Consistency Metric: -0.27012107719296374
+
+Date: 2025-01-25
+Consistency Metric: -0.2131683781081272
+
+Date: 2025-01-24
+Consistency Metric: -0.21054783159210885
+
+Date: 2025-01-23
+Consistency Metric: -0.12445331219330943
+
+Date: 2025-01-22
+Consistency Metric: -0.15918696571481084
+
+Date: 2025-01-21
+Consistency Metric: -0.2634602586386893
+
+Date: 2025-01-20
+Consistency Metric: -0.1733653912953372
+
+Date: 2025-01-19
+Consistency Metric: -0.13495365519649094
+
+Date: 2025-01-18
+Consistency Metric: -0.1084985551136352
+
+Date: 2025-01-17
+Consistency Metric: -0.1816291175320896
+
+Date: 2025-01-16
+Consistency Metric: -0.2837307139911133
+
+Date: 2025-01-15
+Consistency Metric: -0.16104547330914734
+
+Date: 2025-01-14
+Consistency Metric: -0.26912214640524473
+
+Date: 2025-01-13
+Consistency Metric: -0.2604807670132294
+
+Date: 2025-01-12
+Consistency Metric: -0.09797876258996319
+
+Date: 2025-01-11
+Consistency Metric: -0.16641817955554616
+
+Date: 2025-01-10
+Consistency Metric: -0.07637038829888981
+
+Date: 2025-01-09
+Consistency Metric: -0.19271317770357213
+
+Date: 2025-01-08
+Consistency Metric: -0.0238095230408132
+
+Date: 2025-01-07
+Consistency Metric: -0.2807833395518363
+
+Date: 2025-01-06
+Consistency Metric: -0.239999997417132
+
+Date: 2025-01-05
+Consistency Metric: -0.09090911061310525
+
+Date: 2025-01-04
+Consistency Metric: -0.3130769263763392
+
+Date: 2025-01-03
+Consistency Metric: -0.23877542657116882
+
+Agent 0: google/gemini-2.0-flash-001	
+
+Date: 2025-01-31
+Consistency Metric: -0.2362569632463235
+
+Date: 2025-01-30
+Consistency Metric: -0.08469381931537771
+
+Date: 2025-01-29
+Consistency Metric: -0.1648693675941368
+
+Date: 2025-01-28
+Consistency Metric: -0.17302031375948201
+
+Date: 2025-01-27
+Consistency Metric: -0.18731482328404792
+
+Date: 2025-01-26
+Consistency Metric: -0.21888930452295793
+
+Date: 2025-01-25
+Consistency Metric: -0.09268191980285524
+
+Date: 2025-01-24
+Consistency Metric: -0.17297595831157558
+
+Date: 2025-01-23
+Consistency Metric: -0.21376268311780403
+
+Date: 2025-01-22
+Consistency Metric: -0.20624696769246986
+
+Date: 2025-01-21
+Consistency Metric: -0.24986950246294953
+
+Date: 2025-01-20
+Consistency Metric: -0.09302275424232061
+
+Date: 2025-01-19
+Consistency Metric: -0.141683318740994
+
+Date: 2025-01-18
+Consistency Metric: -0.13784674332836283
+
+Date: 2025-01-17
+Consistency Metric: -0.17071572612295186
+
+Date: 2025-01-16
+Consistency Metric: -0.17346555648895104
+
+Date: 2025-01-15
+Consistency Metric: -0.2076432635475104
+
+Date: 2025-01-14
+Consistency Metric: -0.13648708687070393
+
+Date: 2025-01-13
+Consistency Metric: -0.15509824344938772
+
+Date: 2025-01-12
+Consistency Metric: -0.12170830777050745
+
+Date: 2025-01-11
+Consistency Metric: -0.03426060649359151
+
+Date: 2025-01-10
+Consistency Metric: -0.035702377740126925
+
+Date: 2025-01-09
+Consistency Metric: -0.14359524878289404
+
+Date: 2025-01-08
+Consistency Metric: -0.13333335038688446
+
+Date: 2025-01-07
+Consistency Metric: -0.2865714341470984
+
+Date: 2025-01-06
+Consistency Metric: -0.23076922547887746
+
+Date: 2025-01-05
+Consistency Metric: 0.0
+
+Date: 2025-01-04
+Consistency Metric: -0.010833356819219566
+
+Date: 2025-01-03
+Consistency Metric: -0.04068814100588521
+
+Agent 0: google/gemini-flash-1.5	
+
+Date: 2025-01-31
+Consistency Metric: -0.2624352806782798
+
+Date: 2025-01-30
+Consistency Metric: -0.18415813387051433
+
+Date: 2025-01-29
+Consistency Metric: -0.19830711000429063
+
+Date: 2025-01-28
+Consistency Metric: -0.2081862544219594
+
+Date: 2025-01-27
+Consistency Metric: -0.265265350538454
+
+Date: 2025-01-26
+Consistency Metric: -0.29560243271525716
+
+Date: 2025-01-25
+Consistency Metric: -0.14069057156176162
+
+Date: 2025-01-24
+Consistency Metric: -0.0823966440245008
+
+Date: 2025-01-23
+Consistency Metric: -0.20276217966126006
+
+Date: 2025-01-22
+Consistency Metric: -0.15880951264246704
+
+Date: 2025-01-21
+Consistency Metric: -0.26722277002154377
+
+Date: 2025-01-20
+Consistency Metric: -0.15196146142416284
+
+Date: 2025-01-19
+Consistency Metric: -0.09771443049597041
+
+Date: 2025-01-18
+Consistency Metric: -0.10566468678835124
+
+Date: 2025-01-17
+Consistency Metric: -0.19824383199817538
+
+Date: 2025-01-16
+Consistency Metric: -0.1591380658833052
+
+Date: 2025-01-15
+Consistency Metric: -0.04948168827782641
+
+Date: 2025-01-14
+Consistency Metric: -0.11917888118291775
+
+Date: 2025-01-13
+Consistency Metric: -0.1252505686499505
+
+Date: 2025-01-12
+Consistency Metric: -0.26977784339110905
+
+Date: 2025-01-11
+Consistency Metric: -0.021746877561220075
+
+Date: 2025-01-10
+Consistency Metric: -0.10347746643335719
+
+Date: 2025-01-09
+Consistency Metric: -0.08072233258103786
+
+Date: 2025-01-08
+Consistency Metric: 0.0
+
+Date: 2025-01-07
+Consistency Metric: -0.2324553585417417
+
+Date: 2025-01-06
+Consistency Metric: -0.1333333503868845
+
+Date: 2025-01-05
+Consistency Metric: 0.0
+
+Date: 2025-01-04
+Consistency Metric: -0.1281604103959234
+
+Date: 2025-01-03
+Consistency Metric: -0.1827195331183179
+
+Agent 0: deepseek/deepseek-chat-v3-0324	
+
+Date: 2025-01-31
+Consistency Metric: -0.18521716985585168
+
+Date: 2025-01-30
+Consistency Metric: -0.19196629239403892
+
+Date: 2025-01-29
+Consistency Metric: -0.22744774423991973
+
+Date: 2025-01-28
+Consistency Metric: -0.23848614340000585
+
+Date: 2025-01-27
+Consistency Metric: -0.2224775531549684
+
+Date: 2025-01-26
+Consistency Metric: -0.27042436424630834
+
+Date: 2025-01-25
+Consistency Metric: -0.15023496680745935
+
+Date: 2025-01-24
+Consistency Metric: -0.16454495403878708
+
+Date: 2025-01-23
+Consistency Metric: -0.19116812639078865
+
+Date: 2025-01-22
+Consistency Metric: -0.13970690047349654
+
+Date: 2025-01-21
+Consistency Metric: -0.26870212274873384
+
+Date: 2025-01-20
+Consistency Metric: -0.12041968757467836
+
+Date: 2025-01-19
+Consistency Metric: -0.13241725670397192
+
+Date: 2025-01-18
+Consistency Metric: -0.1765362362145855
+
+Date: 2025-01-17
+Consistency Metric: -0.1840336756775518
+
+Date: 2025-01-16
+Consistency Metric: -0.1616550492497878
+
+Date: 2025-01-15
+Consistency Metric: -0.17545137651102147
+
+Date: 2025-01-14
+Consistency Metric: -0.12641456774111265
+
+Date: 2025-01-13
+Consistency Metric: -0.19802084967390493
+
+Date: 2025-01-12
+Consistency Metric: -0.02566924434396629
+
+Date: 2025-01-11
+Consistency Metric: -0.10202915247093394
+
+Date: 2025-01-10
+Consistency Metric: 0.0
+
+Date: 2025-01-09
+Consistency Metric: -0.13205441884722605
+
+Date: 2025-01-08
+Consistency Metric: None
+
+Date: 2025-01-07
+Consistency Metric: -0.19834821066711422
+
+Date: 2025-01-06
+Consistency Metric: -0.24107142283144026
+
+Date: 2025-01-05
+Consistency Metric: -0.033333335485723245
+
+Date: 2025-01-04
+Consistency Metric: -0.1807142807079517
+
+Date: 2025-01-03
+Consistency Metric: -0.1539648755468255
+
+Agent 0: meta-llama/llama-4-scout	
+
+Date: 2025-01-31
+Consistency Metric: -0.14298009838551173
+
+Date: 2025-01-30
+Consistency Metric: -0.11125476314917003
+
+Date: 2025-01-29
+Consistency Metric: -0.21807603171621404
+
+Date: 2025-01-28
+Consistency Metric: -0.07658406864464297
+
+Date: 2025-01-27
+Consistency Metric: -0.15057452852944694
+
+Date: 2025-01-26
+Consistency Metric: -0.2744132276254609
+
+Date: 2025-01-25
+Consistency Metric: -0.09989297037969394
+
+Date: 2025-01-24
+Consistency Metric: -0.14428870649723638
+
+Date: 2025-01-23
+Consistency Metric: -0.22111593543222227
+
+Date: 2025-01-22
+Consistency Metric: -0.21049821312312944
+
+Date: 2025-01-21
+Consistency Metric: -0.1788477344641869
+
+Date: 2025-01-20
+Consistency Metric: -0.04103895123168656
+
+Date: 2025-01-19
+Consistency Metric: -0.03375823679188242
+
+Date: 2025-01-18
+Consistency Metric: -0.21785803073126944
+
+Date: 2025-01-17
+Consistency Metric: -0.1348128244283147
+
+Date: 2025-01-16
+Consistency Metric: -0.2509236514734814
+
+Date: 2025-01-15
+Consistency Metric: -0.20297450206521692
+
+Date: 2025-01-14
+Consistency Metric: -0.0816384791935971
+
+Date: 2025-01-13
+Consistency Metric: -0.15174243068080373
+
+Date: 2025-01-12
+Consistency Metric: -0.2321428525812771
+
+Date: 2025-01-11
+Consistency Metric: -0.007832270955837446
+
+Date: 2025-01-10
+Consistency Metric: -0.03668120005361357
+
+Date: 2025-01-09
+Consistency Metric: -0.1372713584870661
+
+Date: 2025-01-08
+Consistency Metric: -0.025454548316553516
+
+Date: 2025-01-07
+Consistency Metric: -0.23410714154074674
+
+Date: 2025-01-06
+Consistency Metric: -0.10416667556597106
+
+Date: 2025-01-05
+Consistency Metric: -0.07575759037138596
+
+Date: 2025-01-04
+Consistency Metric: -0.012142841517164906
+
+Date: 2025-01-03
+Consistency Metric: -0.2267808614290534
+
+Agent 0: meta-llama/llama-3.3-70b-instruct	
+
+Date: 2025-01-31
+Consistency Metric: -0.21810770289739503
+
+Date: 2025-01-30
+Consistency Metric: -0.20308291345796878
+
+Date: 2025-01-29
+Consistency Metric: -0.23639730205265225
+
+Date: 2025-01-28
+Consistency Metric: -0.16178103066349223
+
+Date: 2025-01-27
+Consistency Metric: -0.23345966279257796
+
+Date: 2025-01-26
+Consistency Metric: -0.24827154047576638
+
+Date: 2025-01-25
+Consistency Metric: -0.1669889439246748
+
+Date: 2025-01-24
+Consistency Metric: -0.1747423895890597
+
+Date: 2025-01-23
+Consistency Metric: -0.1824225380281303
+
+Date: 2025-01-22
+Consistency Metric: -0.23518373311505303
+
+Date: 2025-01-21
+Consistency Metric: -0.10980220919195711
+
+Date: 2025-01-20
+Consistency Metric: -0.07578867161540395
+
+Date: 2025-01-19
+Consistency Metric: -0.05359209634137975
+
+Date: 2025-01-18
+Consistency Metric: -0.20939892954089803
+
+Date: 2025-01-17
+Consistency Metric: -0.22608751852779538
+
+Date: 2025-01-16
+Consistency Metric: -0.2900591400440701
+
+Date: 2025-01-15
+Consistency Metric: -0.16550550344157394
+
+Date: 2025-01-14
+Consistency Metric: -0.13793387463917878
+
+Date: 2025-01-13
+Consistency Metric: -0.04574073196002759
+
+Date: 2025-01-12
+Consistency Metric: -0.22166500911221862
+
+Date: 2025-01-11
+Consistency Metric: -0.18496502127551362
+
+Date: 2025-01-10
+Consistency Metric: -0.05089453716019779
+
+Date: 2025-01-09
+Consistency Metric: -0.05562499925049706
+
+Date: 2025-01-08
+Consistency Metric: -0.09090911061310525
+
+Date: 2025-01-07
+Consistency Metric: -0.1984672606960277
+
+Date: 2025-01-06
+Consistency Metric: -0.16666667423551093
+
+Date: 2025-01-05
+Consistency Metric: -0.060606075548271916
+
+Date: 2025-01-04
+Consistency Metric: -0.24562500068917878
+
+Date: 2025-01-03
+Consistency Metric: -0.13173470827150857
+
+Agent 0: qwen/qwen-turbo	
+
+Date: 2025-01-31
+Consistency Metric: -0.2086938790187914
+
+Date: 2025-01-30
+Consistency Metric: -0.18809890149166159
+
+Date: 2025-01-29
+Consistency Metric: -0.20411206002805576
+
+Date: 2025-01-28
+Consistency Metric: -0.18015529125729088
+
+Date: 2025-01-27
+Consistency Metric: -0.2504081795905489
+
+Date: 2025-01-26
+Consistency Metric: -0.3010719037521197
+
+Date: 2025-01-25
+Consistency Metric: -0.2135966801341123
+
+Date: 2025-01-24
+Consistency Metric: -0.24747767434030485
+
+Date: 2025-01-23
+Consistency Metric: -0.2304034187105699
+
+Date: 2025-01-22
+Consistency Metric: -0.2089887554381967
+
+Date: 2025-01-21
+Consistency Metric: -0.20859457342954996
+
+Date: 2025-01-20
+Consistency Metric: -0.2098914397303887
+
+Date: 2025-01-19
+Consistency Metric: -0.20407349538342137
+
+Date: 2025-01-18
+Consistency Metric: -0.20768839233612493
+
+Date: 2025-01-17
+Consistency Metric: -0.2772405954573376
+
+Date: 2025-01-16
+Consistency Metric: -0.2825484077794247
+
+Date: 2025-01-15
+Consistency Metric: -0.2380306452608329
+
+Date: 2025-01-14
+Consistency Metric: -0.1843927487687432
+
+Date: 2025-01-13
+Consistency Metric: -0.1930919452592426
+
+Date: 2025-01-12
+Consistency Metric: -0.2647976987256064
+
+Date: 2025-01-11
+Consistency Metric: -0.13970164129309648
+
+Date: 2025-01-10
+Consistency Metric: -0.10714283623561566
+
+Date: 2025-01-09
+Consistency Metric: -0.17666665712992352
+
+Date: 2025-01-08
+Consistency Metric: None
+
+Date: 2025-01-07
+Consistency Metric: -0.25239286781452147
+
+Date: 2025-01-06
+Consistency Metric: -0.2857142735500723
+
+Date: 2025-01-05
+Consistency Metric: None
+
+Date: 2025-01-04
+Consistency Metric: None
+
+Date: 2025-01-03
+Consistency Metric: -0.07047619468500835

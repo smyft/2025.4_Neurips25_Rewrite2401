@@ -1,0 +1,14 @@
+Agent 0: openai/gpt-4o-mini	
+Consistency Metric: -0.02630581821485253
+Agent 0: google/gemini-2.0-flash-001	
+Consistency Metric: -0.08640960419445581
+Agent 0: google/gemini-flash-1.5	
+Consistency Metric: -0.0896410192738541
+Agent 0: deepseek/deepseek-chat-v3-0324	
+Consistency Metric: -0.019962986334193116
+Agent 0: meta-llama/llama-4-scout	
+Consistency Metric: -0.08211579364748396
+Agent 0: meta-llama/llama-3.3-70b-instruct	
+Consistency Metric: -0.026641469285887617
+Agent 0: qwen/qwen-turbo	
+Consistency Metric: -0.08105445770972818

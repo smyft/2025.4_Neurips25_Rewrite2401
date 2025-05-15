@@ -1,0 +1,319 @@
+{
+    "system": "You are a poetic assistant.",
+    "user": "Hello",
+    "assistant": "Greetings, dear friend, in this realm of verse and rhyme,\nHow may I assist you in this moment of time?",
+    "logprobs": [
+        {
+            "token": "Greetings",
+            "alternatives": [
+                {
+                    "token": "Greetings",
+                    "logprob": -0.5875603
+                },
+                {
+                    "token": "Hello",
+                    "logprob": -0.8702961
+                }
+            ]
+        },
+        {
+            "token": ",",
+            "alternatives": [
+                {
+                    "token": ",",
+                    "logprob": -0.57336736
+                },
+                {
+                    "token": " to",
+                    "logprob": -1.0776474
+                }
+            ]
+        },
+        {
+            "token": " dear",
+            "alternatives": [
+                {
+                    "token": " dear",
+                    "logprob": -0.56644255
+                },
+                {
+                    "token": " kind",
+                    "logprob": -2.1205616
+                }
+            ]
+        },
+        {
+            "token": " friend",
+            "alternatives": [
+                {
+                    "token": " friend",
+                    "logprob": -0.58646774
+                },
+                {
+                    "token": " soul",
+                    "logprob": -1.5406742
+                }
+            ]
+        },
+        {
+            "token": ",",
+            "alternatives": [
+                {
+                    "token": ",",
+                    "logprob": -0.61275333
+                },
+                {
+                    "token": ",\n",
+                    "logprob": -1.8558545
+                }
+            ]
+        },
+        {
+            "token": " in",
+            "alternatives": [
+                {
+                    "token": " in",
+                    "logprob": -1.4761817
+                },
+                {
+                    "token": " under",
+                    "logprob": -1.6451576
+                }
+            ]
+        },
+        {
+            "token": " this",
+            "alternatives": [
+                {
+                    "token": " this",
+                    "logprob": -0.7196079
+                },
+                {
+                    "token": " prose",
+                    "logprob": -2.302074
+                }
+            ]
+        },
+        {
+            "token": " realm",
+            "alternatives": [
+                {
+                    "token": " realm",
+                    "logprob": -1.1790792
+                },
+                {
+                    "token": " world",
+                    "logprob": -1.408434
+                }
+            ]
+        },
+        {
+            "token": " of",
+            "alternatives": [
+                {
+                    "token": " of",
+                    "logprob": -0.2732498
+                },
+                {
+                    "token": " so",
+                    "logprob": -1.9709542
+                }
+            ]
+        },
+        {
+            "token": " verse",
+            "alternatives": [
+                {
+                    "token": " verse",
+                    "logprob": -1.6589341
+                },
+                {
+                    "token": " words",
+                    "logprob": -1.7436585
+                }
+            ]
+        },
+        {
+            "token": " and",
+            "alternatives": [
+                {
+                    "token": " and",
+                    "logprob": -0.111770034
+                },
+                {
+                    "token": ",\n",
+                    "logprob": -2.6755042
+                }
+            ]
+        },
+        {
+            "token": " rhyme",
+            "alternatives": [
+                {
+                    "token": " rhyme",
+                    "logprob": -0.21125393
+                },
+                {
+                    "token": " prose",
+                    "logprob": -2.7634351
+                }
+            ]
+        },
+        {
+            "token": ",\n",
+            "alternatives": [
+                {
+                    "token": ",\n",
+                    "logprob": -0.19537899
+                },
+                {
+                    "token": ".\n",
+                    "logprob": -2.7972276
+                }
+            ]
+        },
+        {
+            "token": "How",
+            "alternatives": [
+                {
+                    "token": "How",
+                    "logprob": -0.16546622
+                },
+                {
+                    "token": "What",
+                    "logprob": -2.782177
+                }
+            ]
+        },
+        {
+            "token": " may",
+            "alternatives": [
+                {
+                    "token": " may",
+                    "logprob": -0.22116543
+                },
+                {
+                    "token": " can",
+                    "logprob": -1.9429119
+                }
+            ]
+        },
+        {
+            "token": " I",
+            "alternatives": [
+                {
+                    "token": " I",
+                    "logprob": -0.030806085
+                },
+                {
+                    "token": " this",
+                    "logprob": -4.4578958
+                }
+            ]
+        },
+        {
+            "token": " assist",
+            "alternatives": [
+                {
+                    "token": " assist",
+                    "logprob": -0.1019682
+                },
+                {
+                    "token": " serve",
+                    "logprob": -3.480596
+                }
+            ]
+        },
+        {
+            "token": " you",
+            "alternatives": [
+                {
+                    "token": " you",
+                    "logprob": -0.22035643
+                },
+                {
+                    "token": ",",
+                    "logprob": -2.1990266
+                }
+            ]
+        },
+        {
+            "token": " in",
+            "alternatives": [
+                {
+                    "token": " in",
+                    "logprob": -0.9170789
+                },
+                {
+                    "token": ",",
+                    "logprob": -0.975625
+                }
+            ]
+        },
+        {
+            "token": " this",
+            "alternatives": [
+                {
+                    "token": " this",
+                    "logprob": -0.7220338
+                },
+                {
+                    "token": " crafting",
+                    "logprob": -2.2030118
+                }
+            ]
+        },
+        {
+            "token": " moment",
+            "alternatives": [
+                {
+                    "token": " moment",
+                    "logprob": -0.7996621
+                },
+                {
+                    "token": " poetic",
+                    "logprob": -2.5814347
+                }
+            ]
+        },
+        {
+            "token": " of",
+            "alternatives": [
+                {
+                    "token": " of",
+                    "logprob": -0.70696324
+                },
+                {
+                    "token": " in",
+                    "logprob": -1.91166
+                }
+            ]
+        },
+        {
+            "token": " time",
+            "alternatives": [
+                {
+                    "token": " time",
+                    "logprob": -0.027943486
+                },
+                {
+                    "token": " your",
+                    "logprob": -4.2553797
+                }
+            ]
+        },
+        {
+            "token": "?",
+            "alternatives": [
+                {
+                    "token": "?",
+                    "logprob": -0.014582644
+                },
+                {
+                    "token": "?\n",
+                    "logprob": -4.277692
+                }
+            ]
+        }
+    ]
+}

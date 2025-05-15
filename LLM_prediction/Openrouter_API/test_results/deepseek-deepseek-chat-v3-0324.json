@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "model": "deepseek/deepseek-chat-v3-0324",
+    "temperature": 0,
+    "max_tokens": 1000,
+    "seed": 42
+  },
+  "error_info": [],
+  "dialogue_history": [
+    {
+      "role": "user",
+      "content": "Hello"
+    },
+    {
+      "role": "assistant",
+      "content": "Hello! \ud83d\ude0a How can I assist you today?"
+    }
+  ]
+}

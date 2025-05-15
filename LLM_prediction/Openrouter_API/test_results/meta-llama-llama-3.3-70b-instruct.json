@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "model": "meta-llama/llama-3.3-70b-instruct",
+    "temperature": 0,
+    "max_tokens": 1000,
+    "seed": 42
+  },
+  "error_info": [],
+  "dialogue_history": [
+    {
+      "role": "user",
+      "content": "Hello"
+    },
+    {
+      "role": "assistant",
+      "content": "Hello. How can I help you today?"
+    }
+  ]
+}

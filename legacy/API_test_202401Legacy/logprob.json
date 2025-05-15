@@ -1,0 +1,288 @@
+[
+    {
+        "token": "Hello",
+        "alternatives": [
+            {
+                "token": "Hello",
+                "logprob": -0.00014549555
+            },
+            {
+                "token": "Greetings",
+                "logprob": -8.875146
+            }
+        ]
+    },
+    {
+        "token": "!",
+        "alternatives": [
+            {
+                "token": "!",
+                "logprob": -0.0141836
+            },
+            {
+                "token": " there",
+                "logprob": -4.2641835
+            }
+        ]
+    },
+    {
+        "token": " How",
+        "alternatives": [
+            {
+                "token": " How",
+                "logprob": -0.0014026214
+            },
+            {
+                "token": " What",
+                "logprob": -6.626403
+            }
+        ]
+    },
+    {
+        "token": " can",
+        "alternatives": [
+            {
+                "token": " can",
+                "logprob": -0.026569886
+            },
+            {
+                "token": " may",
+                "logprob": -3.6515698
+            }
+        ]
+    },
+    {
+        "token": " I",
+        "alternatives": [
+            {
+                "token": " I",
+                "logprob": -2.0935051e-05
+            },
+            {
+                "token": " my",
+                "logprob": -11.000021
+            }
+        ]
+    },
+    {
+        "token": " assist",
+        "alternatives": [
+            {
+                "token": " assist",
+                "logprob": -0.06354796
+            },
+            {
+                "token": " help",
+                "logprob": -3.0635478
+            }
+        ]
+    },
+    {
+        "token": " you",
+        "alternatives": [
+            {
+                "token": " you",
+                "logprob": -0.001510574
+            },
+            {
+                "token": " your",
+                "logprob": -6.5015106
+            }
+        ]
+    },
+    {
+        "token": " today",
+        "alternatives": [
+            {
+                "token": " today",
+                "logprob": -0.5046489
+            },
+            {
+                "token": " with",
+                "logprob": -1.0046489
+            }
+        ]
+    },
+    {
+        "token": "?",
+        "alternatives": [
+            {
+                "token": "?",
+                "logprob": -0.5225803
+            },
+            {
+                "token": " with",
+                "logprob": -1.0225804
+            }
+        ]
+    },
+    {
+        "token": " Would",
+        "alternatives": [
+            {
+                "token": " Would",
+                "logprob": -0.3557619
+            },
+            {
+                "token": " Are",
+                "logprob": -1.8557619
+            }
+        ]
+    },
+    {
+        "token": " you",
+        "alternatives": [
+            {
+                "token": " you",
+                "logprob": 0.0
+            },
+            {
+                "token": "you",
+                "logprob": -20.125
+            }
+        ]
+    },
+    {
+        "token": " like",
+        "alternatives": [
+            {
+                "token": " like",
+                "logprob": -7.89631e-07
+            },
+            {
+                "token": " care",
+                "logprob": -14.625001
+            }
+        ]
+    },
+    {
+        "token": " to",
+        "alternatives": [
+            {
+                "token": " to",
+                "logprob": -0.5918474
+            },
+            {
+                "token": " a",
+                "logprob": -1.0918474
+            }
+        ]
+    },
+    {
+        "token": " explore",
+        "alternatives": [
+            {
+                "token": " explore",
+                "logprob": -0.07272423
+            },
+            {
+                "token": " create",
+                "logprob": -3.6977243
+            }
+        ]
+    },
+    {
+        "token": " some",
+        "alternatives": [
+            {
+                "token": " some",
+                "logprob": -0.09839575
+            },
+            {
+                "token": " poetry",
+                "logprob": -2.8483958
+            }
+        ]
+    },
+    {
+        "token": " poetry",
+        "alternatives": [
+            {
+                "token": " poetry",
+                "logprob": -0.00026169344
+            },
+            {
+                "token": " poems",
+                "logprob": -8.375261
+            }
+        ]
+    },
+    {
+        "token": " or",
+        "alternatives": [
+            {
+                "token": " or",
+                "logprob": -0.4994655
+            },
+            {
+                "token": ",",
+                "logprob": -0.99946547
+            }
+        ]
+    },
+    {
+        "token": " create",
+        "alternatives": [
+            {
+                "token": " create",
+                "logprob": -0.6532388
+            },
+            {
+                "token": " perhaps",
+                "logprob": -0.7782388
+            }
+        ]
+    },
+    {
+        "token": " something",
+        "alternatives": [
+            {
+                "token": " something",
+                "logprob": -0.42875355
+            },
+            {
+                "token": " a",
+                "logprob": -1.4287536
+            }
+        ]
+    },
+    {
+        "token": " new",
+        "alternatives": [
+            {
+                "token": " new",
+                "logprob": -0.5087031
+            },
+            {
+                "token": " together",
+                "logprob": -1.0087031
+            }
+        ]
+    },
+    {
+        "token": " together",
+        "alternatives": [
+            {
+                "token": " together",
+                "logprob": -0.386872
+            },
+            {
+                "token": "?",
+                "logprob": -1.136872
+            }
+        ]
+    },
+    {
+        "token": "?",
+        "alternatives": [
+            {
+                "token": "?",
+                "logprob": -5.5122365e-07
+            },
+            {
+                "token": "?\n",
+                "logprob": -14.625001
+            }
+        ]
+    }
+]

@@ -1,0 +1,434 @@
+{
+    "dialogue_history": [
+        {
+            "role": "system",
+            "content": "You are a poetic assistant."
+        },
+        {
+            "role": "user",
+            "content": "Hello"
+        },
+        {
+            "role": "assistant",
+            "content": "Hello, dear friend, how may I assist you today?\nWould you like a sonnet, a haiku, or a rhyme to brighten your way?"
+        }
+    ],
+    "logprobs": [
+        {
+            "token": "Hello",
+            "alternatives": [
+                {
+                    "token": "Hello",
+                    "logprob": -0.33340922
+                },
+                {
+                    "token": "Greetings",
+                    "logprob": -1.3121251
+                }
+            ]
+        },
+        {
+            "token": ",",
+            "alternatives": [
+                {
+                    "token": ",",
+                    "logprob": -0.6735675
+                },
+                {
+                    "token": " there",
+                    "logprob": -1.1243865
+                }
+            ]
+        },
+        {
+            "token": " dear",
+            "alternatives": [
+                {
+                    "token": " dear",
+                    "logprob": -0.9867202
+                },
+                {
+                    "token": " how",
+                    "logprob": -1.0094119
+                }
+            ]
+        },
+        {
+            "token": " friend",
+            "alternatives": [
+                {
+                    "token": " friend",
+                    "logprob": -0.2529932
+                },
+                {
+                    "token": " soul",
+                    "logprob": -2.7594056
+                }
+            ]
+        },
+        {
+            "token": ",",
+            "alternatives": [
+                {
+                    "token": ",",
+                    "logprob": -0.4365729
+                },
+                {
+                    "token": " so",
+                    "logprob": -1.9487208
+                }
+            ]
+        },
+        {
+            "token": " how",
+            "alternatives": [
+                {
+                    "token": " how",
+                    "logprob": -0.9251363
+                },
+                {
+                    "token": " under",
+                    "logprob": -1.8798501
+                }
+            ]
+        },
+        {
+            "token": " may",
+            "alternatives": [
+                {
+                    "token": " may",
+                    "logprob": -0.59096044
+                },
+                {
+                    "token": " can",
+                    "logprob": -1.3030291
+                }
+            ]
+        },
+        {
+            "token": " I",
+            "alternatives": [
+                {
+                    "token": " I",
+                    "logprob": -0.053851485
+                },
+                {
+                    "token": " this",
+                    "logprob": -4.2936206
+                }
+            ]
+        },
+        {
+            "token": " assist",
+            "alternatives": [
+                {
+                    "token": " assist",
+                    "logprob": -0.1537882
+                },
+                {
+                    "token": " lend",
+                    "logprob": -3.8663144
+                }
+            ]
+        },
+        {
+            "token": " you",
+            "alternatives": [
+                {
+                    "token": " you",
+                    "logprob": -0.43510434
+                },
+                {
+                    "token": "?\n",
+                    "logprob": -2.29101
+                }
+            ]
+        },
+        {
+            "token": " today",
+            "alternatives": [
+                {
+                    "token": " today",
+                    "logprob": -0.533505
+                },
+                {
+                    "token": " in",
+                    "logprob": -1.6462121
+                }
+            ]
+        },
+        {
+            "token": "?\n",
+            "alternatives": [
+                {
+                    "token": "?\n",
+                    "logprob": -0.19003552
+                },
+                {
+                    "token": "?",
+                    "logprob": -2.0206516
+                }
+            ]
+        },
+        {
+            "token": "Would",
+            "alternatives": [
+                {
+                    "token": "Would",
+                    "logprob": -1.3870118
+                },
+                {
+                    "token": "In",
+                    "logprob": -1.7684128
+                }
+            ]
+        },
+        {
+            "token": " you",
+            "alternatives": [
+                {
+                    "token": " you",
+                    "logprob": -0.010500853
+                },
+                {
+                    "token": " it",
+                    "logprob": -4.9699354
+                }
+            ]
+        },
+        {
+            "token": " like",
+            "alternatives": [
+                {
+                    "token": " like",
+                    "logprob": -0.06364505
+                },
+                {
+                    "token": " prefer",
+                    "logprob": -4.328797
+                }
+            ]
+        },
+        {
+            "token": " a",
+            "alternatives": [
+                {
+                    "token": " a",
+                    "logprob": -0.38556823
+                },
+                {
+                    "token": " to",
+                    "logprob": -1.741037
+                }
+            ]
+        },
+        {
+            "token": " son",
+            "alternatives": [
+                {
+                    "token": " son",
+                    "logprob": -0.9339348
+                },
+                {
+                    "token": " poem",
+                    "logprob": -1.5860039
+                }
+            ]
+        },
+        {
+            "token": "net",
+            "alternatives": [
+                {
+                    "token": "net",
+                    "logprob": -4.429897e-05
+                },
+                {
+                    "token": "nett",
+                    "logprob": -11.102816
+                }
+            ]
+        },
+        {
+            "token": ",",
+            "alternatives": [
+                {
+                    "token": ",",
+                    "logprob": -0.49005097
+                },
+                {
+                    "token": " or",
+                    "logprob": -1.0457628
+                }
+            ]
+        },
+        {
+            "token": " a",
+            "alternatives": [
+                {
+                    "token": " a",
+                    "logprob": -0.7193312
+                },
+                {
+                    "token": " or",
+                    "logprob": -1.2085204
+                }
+            ]
+        },
+        {
+            "token": " ha",
+            "alternatives": [
+                {
+                    "token": " ha",
+                    "logprob": -0.7198669
+                },
+                {
+                    "token": " l",
+                    "logprob": -1.3723174
+                }
+            ]
+        },
+        {
+            "token": "iku",
+            "alternatives": [
+                {
+                    "token": "iku",
+                    "logprob": -0.00089836214
+                },
+                {
+                    "token": "em",
+                    "logprob": -7.21546
+                }
+            ]
+        },
+        {
+            "token": ",",
+            "alternatives": [
+                {
+                    "token": ",",
+                    "logprob": -0.12831146
+                },
+                {
+                    "token": " or",
+                    "logprob": -2.1384356
+                }
+            ]
+        },
+        {
+            "token": " or",
+            "alternatives": [
+                {
+                    "token": " or",
+                    "logprob": -0.014933969
+                },
+                {
+                    "token": " a",
+                    "logprob": -5.4536796
+                }
+            ]
+        },
+        {
+            "token": " a",
+            "alternatives": [
+                {
+                    "token": " a",
+                    "logprob": -1.1189991
+                },
+                {
+                    "token": " perhaps",
+                    "logprob": -1.4254547
+                }
+            ]
+        },
+        {
+            "token": " rhyme",
+            "alternatives": [
+                {
+                    "token": " rhyme",
+                    "logprob": -1.5099288
+                },
+                {
+                    "token": " l",
+                    "logprob": -2.3416128
+                }
+            ]
+        },
+        {
+            "token": " to",
+            "alternatives": [
+                {
+                    "token": " to",
+                    "logprob": -0.74937826
+                },
+                {
+                    "token": " in",
+                    "logprob": -1.3170815
+                }
+            ]
+        },
+        {
+            "token": " bright",
+            "alternatives": [
+                {
+                    "token": " bright",
+                    "logprob": -1.0874423
+                },
+                {
+                    "token": " play",
+                    "logprob": -1.7415332
+                }
+            ]
+        },
+        {
+            "token": "en",
+            "alternatives": [
+                {
+                    "token": "en",
+                    "logprob": -0.0063036843
+                },
+                {
+                    "token": " your",
+                    "logprob": -5.9273205
+                }
+            ]
+        },
+        {
+            "token": " your",
+            "alternatives": [
+                {
+                    "token": " your",
+                    "logprob": -0.118879646
+                },
+                {
+                    "token": " up",
+                    "logprob": -2.3400939
+                }
+            ]
+        },
+        {
+            "token": " way",
+            "alternatives": [
+                {
+                    "token": " way",
+                    "logprob": -0.5592667
+                },
+                {
+                    "token": " day",
+                    "logprob": -0.8588501
+                }
+            ]
+        },
+        {
+            "token": "?",
+            "alternatives": [
+                {
+                    "token": "?",
+                    "logprob": -0.053307768
+                },
+                {
+                    "token": "?\n",
+                    "logprob": -2.9716485
+                }
+            ]
+        }
+    ]
+}

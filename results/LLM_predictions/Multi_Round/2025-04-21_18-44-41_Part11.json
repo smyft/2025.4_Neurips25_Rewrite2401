@@ -1,0 +1,1322 @@
+[
+    {
+        "company_symbol": "AAPL",
+        "company_name": "Apple Inc.",
+        "news_id": 330,
+        "headline": "Nearly 66% of Warren Buffett's Portfolio Is Invested in These 5 Stocks as 2025 Begins",
+        "content": "Nearly 66% of Warren Buffett's Portfolio Is Invested in These 5 Stocks as 2025 Begins",
+        "predictions": [
+            [
+                {
+                    "model_name": "openai/gpt-4o-mini",
+                    "round": 0,
+                    "rise_prediction": 0.65,
+                    "fall_prediction": 0.35,
+                    "reasoning": "The news highlights that a significant portion of Warren Buffett's portfolio is invested in a few stocks, which often leads to increased investor interest and confidence in those companies. If Apple Inc. is one of the stocks mentioned, it could lead to a positive sentiment and a higher probability of the stock price rising. However, without specific mention of Apple in the context of Buffett's investments, the impact may be neutral. Given the general positive sentiment associated with Buffett's investments, I estimate a higher probability of the stock price rising than falling."
+                },
+                {
+                    "model_name": "google/gemini-2.0-flash-001",
+                    "round": 0,
+                    "rise_prediction": 0.6,
+                    "fall_prediction": 0.4,
+                    "reasoning": "The news indicates that a significant portion of Warren Buffett's portfolio is invested in Apple (AAPL). Warren Buffett is a highly respected and influential investor, and his investment decisions are often seen as a signal of confidence in a company's long-term prospects. This news is generally positive for Apple, as it suggests that a major investor believes in the company's value and potential. This could lead to increased investor confidence and potentially drive up the stock price. However, the news is backward-looking, reporting on holdings 'as 2025 begins'. The market may have already priced this information in. Also, concentration risk in Buffett's portfolio could be seen as a negative if investors believe he is overexposed to certain sectors or companies. Given these factors, I estimate a higher probability of a slight rise than a fall, but not overwhelmingly so."
+                },
+                {
+                    "model_name": "google/gemini-flash-1.5",
+                    "round": 0,
+                    "rise_prediction": 0.55,
+                    "fall_prediction": 0.45,
+                    "reasoning": "The news headline states that nearly 66% of Warren Buffett's portfolio is invested in five stocks, with Apple being one of them (although this is not explicitly stated in the provided text).  Warren Buffett is a highly respected investor, and his investment decisions often influence market sentiment.  His continued significant holding in Apple suggests confidence in the company's future prospects. However, the news itself is not specific to Apple and doesn't provide any new information about Apple's performance or future plans. Therefore, the impact on Apple's stock price is likely to be minimal.  The probability of a price rise is slightly higher than a price fall due to the positive sentiment associated with Buffett's continued investment, but the effect is likely to be small and short-lived unless accompanied by other market-moving news."
+                },
+                {
+                    "model_name": "deepseek/deepseek-chat-v3-0324",
+                    "round": 0,
+                    "rise_prediction": 0.6,
+                    "fall_prediction": 0.4,
+                    "reasoning": "The news headline indicates that Warren Buffett's portfolio is heavily concentrated in five stocks, including Apple Inc. (AAPL). Buffett's investment decisions are closely watched by the market, and his confidence in AAPL could be perceived as a positive signal, potentially attracting more investors. However, the headline alone does not provide specific new information about AAPL's fundamentals or performance. The impact on the stock price is likely to be moderate, with a slight positive bias due to Buffett's reputation."
+                },
+                {
+                    "model_name": "meta-llama/llama-4-scout",
+                    "round": 0,
+                    "rise_prediction": 0.55,
+                    "fall_prediction": 0.45,
+                    "reasoning": "The news headline mentions that nearly 66% of Warren Buffett's portfolio is invested in five stocks, but it does not explicitly mention Apple Inc. (AAPL) as one of them. However, given Warren Buffett's known investment in Apple, it's likely that AAPL is one of the five stocks. The concentration of a significant portion of Buffett's portfolio in a few stocks, including potentially AAPL, could be viewed positively by investors as it indicates confidence in these companies. However, the news does not provide new financial data or specific actions by Apple that would directly influence the stock price. Therefore, the impact on Apple's stock price is likely to be neutral to slightly positive due to the implied endorsement by Buffett's investment. The probabilities reflect a cautious optimism."
+                },
+                {
+                    "model_name": "meta-llama/llama-3.3-70b-instruct",
+                    "round": 0,
+                    "rise_prediction": 0.55,
+                    "fall_prediction": 0.45,
+                    "reasoning": "The news indicates that nearly 66% of Warren Buffett's portfolio is invested in five stocks as 2025 begins. Although the specific stocks are not mentioned in the provided text, it is known from general knowledge that Apple Inc. (AAPL) is one of the significant holdings of Warren Buffett's Berkshire Hathaway. The endorsement of Apple by Warren Buffett, one of the most successful investors in history, can be seen as a positive signal for the company's long-term prospects. This could potentially increase investor confidence in Apple, leading to a rise in its stock price. However, the news does not provide any direct, new information about Apple's current performance, products, or future plans that would directly impact its stock price. Therefore, the impact of this news on Apple's stock price might be minimal or indirect, as it reflects a long-term investment strategy rather than a short-term market mover."
+                },
+                {
+                    "model_name": "qwen/qwen-turbo",
+                    "round": 0,
+                    "rise_prediction": 0.7,
+                    "fall_prediction": 0.3,
+                    "reasoning": "The financial news highlights that nearly 66% of Warren Buffett's portfolio is invested in five specific stocks, one of which is Apple Inc. This suggests strong confidence from Warren Buffett in these companies, potentially leading to increased investor interest and positive market sentiment toward these stocks. Given Warren Buffett's reputation and track record as an investor, his investments often influence market perceptions and can lead to stock price movements."
+                }
+            ],
+            [
+                {
+                    "model_name": "openai/gpt-4o-mini",
+                    "round": 1,
+                    "rise_prediction": 0.65,
+                    "fall_prediction": 0.35,
+                    "reasoning": "The news highlights that nearly 66% of Warren Buffett's portfolio is invested in five stocks, which likely includes Apple Inc. Given Buffett's reputation as a successful investor, his significant investment in Apple can be interpreted as a strong endorsement of the company's long-term prospects. This could lead to increased investor confidence and interest in Apple, potentially driving the stock price up. However, the news does not provide new information about Apple's performance or future plans, which may limit the immediate impact on the stock price. Overall, the sentiment is positive, but the lack of specific new information suggests a moderate probability of price movement."
+                },
+                {
+                    "model_name": "google/gemini-2.0-flash-001",
+                    "round": 1,
+                    "rise_prediction": 0.62,
+                    "fall_prediction": 0.38,
+                    "reasoning": "The previous rounds show a general consensus that the news is slightly positive for Apple, primarily due to Warren Buffett's reputation and the implied confidence in Apple's long-term prospects. The probabilities ranged from 0.55 to 0.7 for a price increase. Given this trend and the fact that the news is not entirely new (reporting on holdings 'as 2025 begins'), I will adjust the probability slightly downwards from the highest prediction but keep it above the average. The market may have already priced in this information to some extent. Therefore, I estimate a slightly positive but not overwhelming impact on the stock price."
+                },
+                {
+                    "model_name": "google/gemini-flash-1.5",
+                    "round": 1,
+                    "rise_prediction": 0.58,
+                    "fall_prediction": 0.42,
+                    "reasoning": "The news that nearly 66% of Warren Buffett's portfolio is concentrated in five stocks, likely including Apple, is generally positive.  Buffett's continued investment signifies confidence in these companies' long-term prospects. However, the news is backward-looking (as of the start of 2025), and the market may have already incorporated this information into Apple's price.  Furthermore, the lack of specific detail about Apple within the news limits the immediate impact.  The previous predictions show a range of probabilities, leaning slightly towards a price rise, but with considerable uncertainty.  Considering the market's likely prior awareness and the lack of new, specific information about Apple, the impact is likely to be muted.  Therefore, I assign a probability slightly higher than 0.5 for a price rise, reflecting the positive sentiment associated with Buffett's investment, but acknowledging the limitations of the news itself."
+                },
+                {
+                    "model_name": "deepseek/deepseek-chat-v3-0324",
+                    "round": 1,
+                    "rise_prediction": 0.6,
+                    "fall_prediction": 0.4,
+                    "reasoning": "The news headline indicates that a significant portion of Warren Buffett's portfolio is invested in five stocks, with Apple Inc. likely being one of them given Buffett's known investment history. Warren Buffett's investment decisions are highly regarded in the market, and his continued confidence in Apple could positively influence investor sentiment. However, the news does not provide any new fundamental information about Apple's performance or future plans, which limits the immediate impact on the stock price. Considering the positive sentiment associated with Buffett's endorsement but the lack of new actionable data, the probability of the stock price rising is slightly higher than it falling."
+                },
+                {
+                    "model_name": "meta-llama/llama-4-scout",
+                    "round": 1,
+                    "rise_prediction": 0.58,
+                    "fall_prediction": 0.42,
+                    "reasoning": "The news headline indicates that nearly 66% of Warren Buffett's portfolio is invested in five stocks, which likely includes Apple Inc. (AAPL). Warren Buffett's investment decisions are closely watched and often influence market sentiment. His significant holding in Apple suggests confidence in the company's future prospects, potentially attracting more investors and driving up the stock price. Although the news does not provide new information about Apple's performance or future plans, the implied endorsement by Buffett could lead to a positive sentiment. Given these factors, I estimate a slightly higher probability of the stock price rising than falling."
+                },
+                {
+                    "model_name": "meta-llama/llama-3.3-70b-instruct",
+                    "round": 1,
+                    "rise_prediction": 0.58,
+                    "fall_prediction": 0.42,
+                    "reasoning": "The news indicates that nearly 66% of Warren Buffett's portfolio is invested in five stocks, which could include Apple Inc. (AAPL). Given Warren Buffett's reputation as a successful investor, his investment decisions often influence market sentiment. The fact that a significant portion of his portfolio is invested in a few stocks, potentially including Apple, suggests confidence in these companies. However, the news does not provide new information about Apple's performance or future plans. Considering the trend of previous predictions, which show a range of probabilities but generally lean towards a slight positive bias due to Buffett's endorsement, I estimate the probability of the stock price rising to be slightly higher than the probability of it falling."
+                },
+                {
+                    "model_name": "qwen/qwen-turbo",
+                    "round": 1,
+                    "rise_prediction": 0.6,
+                    "fall_prediction": 0.4,
+                    "reasoning": "The financial news highlights that nearly 66% of Warren Buffett's portfolio is invested in five stocks, one of which is likely to be Apple Inc. (AAPL). Warren Buffett is a highly respected and influential investor, and his investment decisions typically inspire confidence. While the news does not provide new information about Apple's current performance or future plans, the implicit endorsement by Buffett can still have a positive impact on investor sentiment. However, the lack of specific new information and the possibility that this news has already been factored into the stock price means the impact might be limited."
+                }
+            ],
+            [
+                {
+                    "model_name": "openai/gpt-4o-mini",
+                    "round": 2,
+                    "rise_prediction": 0.6,
+                    "fall_prediction": 0.4,
+                    "reasoning": "The news highlights that nearly 66% of Warren Buffett's portfolio is invested in five stocks, which likely includes Apple Inc. Given Buffett's reputation as a successful investor, his significant investment in Apple can be interpreted as a strong endorsement of the company's long-term prospects. This could lead to increased investor confidence and interest in Apple, potentially driving the stock price up. However, the news does not provide new information about Apple's performance or future plans, which may limit the immediate impact on the stock price. Overall, the sentiment is positive, but the lack of specific new information suggests a moderate probability of price movement."
+                },
+                {
+                    "model_name": "google/gemini-2.0-flash-001",
+                    "round": 2,
+                    "rise_prediction": 0.57,
+                    "fall_prediction": 0.43,
+                    "reasoning": "The news that a significant portion of Warren Buffett's portfolio is invested in a few stocks, likely including Apple, is generally viewed as a positive signal. However, the impact diminishes over time as the market incorporates this information. The previous rounds of predictions show a consistent trend of slightly favoring a price increase, but with decreasing probabilities as the information becomes less novel. Given that this is the second round of predictions and the news is not entirely new, I will adjust the probability slightly downwards from the previous round's average, reflecting the diminishing impact of the news and the possibility that it has already been priced in to some extent."
+                },
+                {
+                    "model_name": "google/gemini-flash-1.5",
+                    "round": 2,
+                    "rise_prediction": 0.58,
+                    "fall_prediction": 0.42,
+                    "reasoning": "The news that a large portion of Warren Buffett's portfolio is concentrated in five stocks, likely including Apple, is generally viewed positively.  Buffett's continued investment suggests confidence in these companies' long-term prospects. However, the news is backward-looking (as of the start of 2025), and the market likely already incorporated this information.  The lack of specific detail about Apple limits the immediate impact.  Previous predictions show a range from 0.55 to 0.7 for a price increase, with a slight downward trend in round 1.  Considering the market's likely prior awareness and the lack of new, specific information, the impact is likely muted.  I'm adjusting the probability slightly downward from the initial predictions, reflecting the consensus view of a slightly positive but not overwhelmingly impactful news item."
+                },
+                {
+                    "model_name": "deepseek/deepseek-chat-v3-0324",
+                    "round": 2,
+                    "rise_prediction": 0.62,
+                    "fall_prediction": 0.38,
+                    "reasoning": "The news highlights that nearly 66% of Warren Buffett's portfolio is invested in five stocks, likely including Apple Inc. (AAPL). Warren Buffett's investment decisions are highly regarded and often influence market sentiment. His significant holding in Apple suggests confidence in the company's future prospects, which could attract more investors and drive up the stock price. However, the news does not provide new information about Apple's performance or future plans, and the market may have already priced in this information to some extent. Considering the positive sentiment associated with Buffett's endorsement but the lack of new actionable data, the probability of the stock price rising is slightly higher than it falling. The previous predictions also show a general consensus leaning towards a slight positive impact, with probabilities ranging from 0.55 to 0.7 for a price rise. Taking all these factors into account, I estimate a moderate probability of the stock price rising."
+                },
+                {
+                    "model_name": "meta-llama/llama-4-scout",
+                    "round": 2,
+                    "rise_prediction": 0.59,
+                    "fall_prediction": 0.41,
+                    "reasoning": "The news indicates that nearly 66% of Warren Buffett's portfolio is invested in five stocks, which likely includes Apple Inc. (AAPL). Buffett's continued significant investment in Apple suggests confidence in the company's long-term prospects. His reputation and influence in the market often lead to increased investor confidence and interest in the stocks he holds. However, the news itself does not provide specific new information about Apple's current performance or future plans. Given this context, the impact on Apple's stock price is likely to be slightly positive but not drastic, as the market may have already priced in this information. The probabilities reflect a cautious optimism based on Buffett's endorsement and the general positive sentiment associated with his investment decisions."
+                },
+                {
+                    "model_name": "meta-llama/llama-3.3-70b-instruct",
+                    "round": 2,
+                    "rise_prediction": 0.59,
+                    "fall_prediction": 0.41,
+                    "reasoning": "The news indicates that nearly 66% of Warren Buffett's portfolio is invested in five stocks, which likely includes Apple Inc. (AAPL). Given Warren Buffett's reputation as a successful investor, his investment decisions often influence market sentiment. The fact that a significant portion of his portfolio is invested in a few stocks, potentially including Apple, suggests confidence in these companies. However, the news does not provide new information about Apple's performance or future plans. Considering the trend of previous predictions, which show a range of probabilities but generally lean towards a slight positive bias due to Buffett's endorsement, I estimate the probability of the stock price rising to be slightly higher than the probability of it falling. The market may have already priced in this information to some extent, but the implied endorsement by Buffett could still lead to a positive sentiment."
+                },
+                {
+                    "model_name": "qwen/qwen-turbo",
+                    "round": 2,
+                    "rise_prediction": 0.6,
+                    "fall_prediction": 0.4,
+                    "reasoning": "The financial news highlights that nearly 66% of Warren Buffett's portfolio is invested in five stocks, which likely includes Apple Inc. (AAPL). Warren Buffett is a highly respected and influential investor, and his significant investment in Apple can be seen as a strong endorsement of the company's long-term prospects. Previous predictions from various models indicate a range of probabilities between 0.55 and 0.7 for a stock price rise, with a slight majority leaning towards a positive impact. However, the news is backward-looking and may not provide new information about Apple's performance or future plans, limiting its immediate impact. Considering this and the general optimism around Warren Buffett's investment decisions, the probability of a rise remains positive but not overwhelmingly so."
+                }
+            ],
+            [
+                {
+                    "model_name": "openai/gpt-4o-mini",
+                    "round": 3,
+                    "rise_prediction": 0.6,
+                    "fall_prediction": 0.4,
+                    "reasoning": "The news highlights that nearly 66% of Warren Buffett's portfolio is invested in five stocks, which likely includes Apple Inc. Given Buffett's reputation as a successful investor, his significant investment in Apple can be interpreted as a strong endorsement of the company's long-term prospects. This could lead to increased investor confidence and interest in Apple, potentially driving the stock price up. However, the news does not provide new information about Apple's performance or future plans, which may limit the immediate impact on the stock price. Overall, the sentiment is positive, but the lack of specific new information suggests a moderate probability of price movement."
+                },
+                {
+                    "model_name": "google/gemini-2.0-flash-001",
+                    "round": 3,
+                    "rise_prediction": 0.56,
+                    "fall_prediction": 0.44,
+                    "reasoning": "The news that Warren Buffett has a significant portion of his portfolio invested in a few stocks, likely including Apple, is generally considered a positive signal due to Buffett's reputation. However, the impact diminishes over time as the market incorporates this information. The previous rounds of predictions show a consistent trend of slightly favoring a price increase, but with decreasing probabilities as the information becomes less novel. Given that this is the third round of predictions and the news is not entirely new, I will adjust the probability slightly downwards from the previous round's average, reflecting the diminishing impact of the news and the possibility that it has already been priced in to some extent. Also, the news is backward-looking, reporting on holdings 'as 2025 begins'."
+                },
+                {
+                    "model_name": "google/gemini-flash-1.5",
+                    "round": 3,
+                    "rise_prediction": 0.56,
+                    "fall_prediction": 0.44,
+                    "reasoning": "The news that a large portion of Warren Buffett's portfolio is invested in five stocks, likely including Apple, is positive but lacks specifics.  The repeated nature of this information across multiple prediction rounds suggests the market has likely already priced in much of this positive sentiment.  While Buffett's continued investment shows confidence in Apple's long-term prospects, the lack of new, concrete information about Apple's performance or future plans limits the immediate impact.  The previous predictions show a trend of slightly higher probability for a price rise, but this probability has decreased across rounds, reflecting the diminishing marginal impact of this news.  Considering the consensus view and the lack of new information, I predict a modest probability of a price rise, slightly above 0.5, acknowledging the potential for the market to have already factored in this information."
+                },
+                {
+                    "model_name": "deepseek/deepseek-chat-v3-0324",
+                    "round": 3,
+                    "rise_prediction": 0.6,
+                    "fall_prediction": 0.4,
+                    "reasoning": "The news highlights that nearly 66% of Warren Buffett's portfolio is invested in five stocks, likely including Apple Inc. (AAPL). Given Buffett's reputation as a successful investor, his significant investment in Apple can be interpreted as a strong endorsement of the company's long-term prospects. This could lead to increased investor confidence and interest in Apple, potentially driving the stock price up. However, the news does not provide new information about Apple's performance or future plans, which may limit the immediate impact on the stock price. Previous predictions show a general consensus leaning towards a slight positive impact, with probabilities ranging from 0.55 to 0.7 for a price rise. Considering the positive sentiment associated with Buffett's endorsement but the lack of new actionable data, the probability of the stock price rising is slightly higher than it falling."
+                },
+                {
+                    "model_name": "meta-llama/llama-4-scout",
+                    "round": 3,
+                    "rise_prediction": 0.59,
+                    "fall_prediction": 0.41,
+                    "reasoning": "The news headline indicates that nearly 66% of Warren Buffett's portfolio is invested in five stocks, which likely includes Apple Inc. (AAPL). Warren Buffett's investment decisions are highly regarded and often influence market sentiment. His significant holding in Apple suggests confidence in the company's future prospects, which could attract more investors and drive up the stock price. However, the news does not provide new information about Apple's performance or future plans, and the market may have already priced in this information to some extent. Considering the positive sentiment associated with Buffett's endorsement but the lack of new actionable data, the probability of the stock price rising is slightly higher than it falling. The previous predictions also show a general consensus leaning towards a slight positive impact, with probabilities ranging from 0.55 to 0.7 for a price rise. Taking all these factors into account, I estimate a moderate probability of the stock price rising."
+                },
+                {
+                    "model_name": "meta-llama/llama-3.3-70b-instruct",
+                    "round": 3,
+                    "rise_prediction": 0.59,
+                    "fall_prediction": 0.41,
+                    "reasoning": "The news that nearly 66% of Warren Buffett's portfolio is invested in five stocks, likely including Apple Inc., is generally viewed as a positive signal due to Buffett's reputation and influence in the market. However, the news is backward-looking and does not provide new information about Apple's performance or future plans, which may limit its immediate impact. Considering the trend of previous predictions and the general optimism around Warren Buffett's investment decisions, the probability of a rise remains positive but not overwhelmingly so. The previous predictions from various models show a range of probabilities between 0.55 and 0.7 for a stock price rise, with a slight majority leaning towards a positive impact."
+                },
+                {
+                    "model_name": "qwen/qwen-turbo",
+                    "round": 3,
+                    "rise_prediction": 0.6,
+                    "fall_prediction": 0.4,
+                    "reasoning": "The financial news highlights that nearly 66% of Warren Buffett's portfolio is invested in five stocks, which likely includes Apple Inc. (AAPL). Warren Buffett is a highly respected and influential investor, and his significant investment in Apple can be seen as a strong endorsement of the company's long-term prospects. Previous predictions from various models indicate a range of probabilities between 0.55 and 0.7 for a stock price rise, with a slight majority leaning towards a positive impact. However, the news is backward-looking and may not provide new information about Apple's performance or future plans, limiting its immediate impact. Considering this and the general optimism around Warren Buffett's investment decisions, the probability of a rise remains positive but not overwhelmingly so."
+                }
+            ],
+            [
+                {
+                    "model_name": "openai/gpt-4o-mini",
+                    "round": 4,
+                    "rise_prediction": 0.58,
+                    "fall_prediction": 0.42,
+                    "reasoning": "The news indicates that nearly 66% of Warren Buffett's portfolio is invested in five stocks, likely including Apple Inc. (AAPL). Buffett's reputation as a successful investor typically instills confidence in the companies he invests in, which can positively influence market sentiment. However, the news does not provide new information about Apple's performance or future plans, which may limit the immediate impact on the stock price. Previous predictions have shown a slight positive bias towards a price rise, but the probabilities have been gradually decreasing as the information becomes less novel. Therefore, I estimate a moderate probability of the stock price rising, while acknowledging the potential for the market to have already factored in this information."
+                },
+                {
+                    "model_name": "google/gemini-2.0-flash-001",
+                    "round": 4,
+                    "rise_prediction": 0.55,
+                    "fall_prediction": 0.45,
+                    "reasoning": "The news that Warren Buffett's portfolio is heavily invested in a few stocks, likely including Apple, is generally positive due to Buffett's reputation. However, the impact diminishes over time as the market incorporates this information. The previous rounds of predictions show a consistent trend of slightly favoring a price increase, but with decreasing probabilities as the information becomes less novel. Given that this is the fourth round of predictions and the news is not entirely new, I will adjust the probability slightly downwards from the previous round's average, reflecting the diminishing impact of the news and the possibility that it has already been priced in to some extent. Also, the news is backward-looking, reporting on holdings 'as 2025 begins'."
+                },
+                {
+                    "model_name": "google/gemini-flash-1.5",
+                    "round": 4,
+                    "rise_prediction": 0.57,
+                    "fall_prediction": 0.43,
+                    "reasoning": "The news that a large portion of Warren Buffett's portfolio is invested in five stocks, likely including Apple, is generally positive.  Buffett's continued investment signifies confidence in these companies' long-term prospects. However, the news is backward-looking (as of the start of 2025), and the market has likely already incorporated this information. The lack of specific detail about Apple limits the immediate impact.  Previous predictions show a range from 0.55 to 0.7 for a price increase, with a slight downward trend across rounds, reflecting the diminishing marginal impact of this news.  Considering the market's likely prior awareness, the lack of new, specific information, and the consistent downward trend in predictions, the impact is likely muted.  I'm assigning a probability slightly above 0.5 for a price rise, acknowledging the positive sentiment associated with Buffett's investment but also the limitations of the news itself and the market's likely reaction."
+                },
+                {
+                    "model_name": "deepseek/deepseek-chat-v3-0324",
+                    "round": 4,
+                    "rise_prediction": 0.6,
+                    "fall_prediction": 0.4,
+                    "reasoning": "The news highlights that nearly 66% of Warren Buffett's portfolio is invested in five stocks, likely including Apple Inc. (AAPL). Warren Buffett's investment decisions are highly regarded and often influence market sentiment. His significant holding in Apple suggests confidence in the company's future prospects, which could attract more investors and drive up the stock price. However, the news does not provide new information about Apple's performance or future plans, and the market may have already priced in this information to some extent. Previous predictions from various models show a range of probabilities between 0.55 and 0.7 for a stock price rise, with a slight majority leaning towards a positive impact. Considering the positive sentiment associated with Buffett's endorsement but the lack of new actionable data, the probability of the stock price rising is slightly higher than it falling."
+                },
+                {
+                    "model_name": "meta-llama/llama-4-scout",
+                    "round": 4,
+                    "rise_prediction": 0.58,
+                    "fall_prediction": 0.42,
+                    "reasoning": "The news headline indicates that nearly 66% of Warren Buffett's portfolio is invested in five stocks, which likely includes Apple Inc. (AAPL). Given Buffett's reputation as a successful investor, his significant investment in Apple can be interpreted as a strong endorsement of the company's long-term prospects. This could lead to increased investor confidence and interest in Apple, potentially driving the stock price up. However, the news does not provide new information about Apple's performance or future plans, which may limit the immediate impact on the stock price. Considering the trend of previous predictions and the general optimism around Warren Buffett's investment decisions, the probability of a rise remains positive but not overwhelmingly so."
+                },
+                {
+                    "model_name": "meta-llama/llama-3.3-70b-instruct",
+                    "round": 4,
+                    "rise_prediction": 0.59,
+                    "fall_prediction": 0.41,
+                    "reasoning": "The news that nearly 66% of Warren Buffett's portfolio is invested in five stocks, likely including Apple Inc., is generally viewed as a positive signal due to Buffett's reputation and influence in the market. However, the news is backward-looking and does not provide new information about Apple's performance or future plans, which may limit its immediate impact. Considering the trend of previous predictions and the general optimism around Warren Buffett's investment decisions, the probability of a rise remains positive but not overwhelmingly so. The previous predictions from various models show a range of probabilities between 0.55 and 0.7 for a stock price rise, with a slight majority leaning towards a positive impact."
+                },
+                {
+                    "model_name": "qwen/qwen-turbo",
+                    "round": 4,
+                    "rise_prediction": 0.59,
+                    "fall_prediction": 0.41,
+                    "reasoning": "The financial news highlights that nearly 66% of Warren Buffett's portfolio is invested in five stocks, which likely includes Apple Inc. (AAPL). Warren Buffett is a highly respected and influential investor, and his significant investment in Apple can be seen as a strong endorsement of the company's long-term prospects. Previous predictions from various models indicate a range of probabilities between 0.55 and 0.7 for a stock price rise, with a slight majority leaning towards a positive impact. However, the news is backward-looking and may not provide new information about Apple's performance or future plans, limiting its immediate impact. Considering this and the general optimism around Warren Buffett's investment decisions, the probability of a rise remains positive but not overwhelmingly so."
+                }
+            ]
+        ]
+    },
+    {
+        "company_symbol": "AAPL",
+        "company_name": "Apple Inc.",
+        "news_id": 331,
+        "headline": "Time to Finally Organize Your Digital Photos. First You Have to Find Them.",
+        "content": "PERSONAL TECHNOLOGY Sort through old photos. It\u2019s that to-do list item that keeps getting pushed down to make room for tasks that aren\u2019t so overwhelming. Who even knows where all those digital files are? There are tens of thousands of images in your iCloud.\n\nContinue reading\n\nView comments",
+        "predictions": [
+            [
+                {
+                    "model_name": "openai/gpt-4o-mini",
+                    "round": 0,
+                    "rise_prediction": 0.45,
+                    "fall_prediction": 0.45,
+                    "reasoning": "The news headline and content focus on organizing digital photos and managing iCloud storage, which relates to Apple's services and software ecosystem. However, the article does not provide any significant positive or negative news that would directly impact Apple's stock price. Therefore, the probabilities of stock price movement are relatively neutral, with a slight inclination towards stability rather than volatility."
+                },
+                {
+                    "model_name": "google/gemini-2.0-flash-001",
+                    "round": 0,
+                    "rise_prediction": 0.4,
+                    "fall_prediction": 0.4,
+                    "reasoning": "The news headline and content discuss a common user problem related to managing digital photos within Apple's iCloud ecosystem. While the article itself doesn't directly mention Apple or its products in a positive or negative light, it highlights a potential pain point for iCloud users. This could indirectly influence user satisfaction and potentially impact iCloud storage subscriptions. However, the impact is likely to be minimal and indirect. The news is not about a new product launch, financial results, or any significant company event. Therefore, the impact on the stock price is expected to be negligible. Given the neutral nature of the news, the probabilities of a rise or fall are close to 50/50, with a slight bias towards no change."
+                },
+                {
+                    "model_name": "google/gemini-flash-1.5",
+                    "round": 0,
+                    "rise_prediction": 0.5,
+                    "fall_prediction": 0.5,
+                    "reasoning": "The provided news article is a general interest piece about organizing digital photos and does not contain any information relevant to Apple's financial performance, product releases, or market position.  The article mentions iCloud, an Apple service, but only in passing and in a way that is not directly related to its success or failure. Therefore, this news is unlikely to have any significant impact on Apple's stock price.  Any price movement would likely be due to other market factors and not this specific news."
+                },
+                {
+                    "model_name": "deepseek/deepseek-chat-v3-0324",
+                    "round": 0,
+                    "rise_prediction": 0.1,
+                    "fall_prediction": 0.1,
+                    "reasoning": "The news article discusses the challenge of organizing digital photos stored in iCloud, which is a service provided by Apple. While the article highlights a common user pain point, it does not directly indicate any significant positive or negative developments for Apple's business operations, financial performance, or market position. Therefore, the news is unlikely to have a material impact on Apple's stock price. The probabilities are estimated based on the lack of direct relevance to Apple's financial or strategic outlook."
+                },
+                {
+                    "model_name": "meta-llama/llama-4-scout",
+                    "round": 0,
+                    "rise_prediction": 0.55,
+                    "fall_prediction": 0.45,
+                    "reasoning": "The news article discusses organizing digital photos using iCloud, which is a service provided by Apple Inc. (AAPL). This type of article is more related to the usage and potential benefits of Apple's services rather than a direct financial or operational update about the company. As such, it's unlikely to have a significant impact on the stock price movement. The article seems neutral and doesn't introduce any negative information about Apple. Given that it's a light, positive usage scenario for iCloud, it might have a very slight positive effect on the perception of Apple's services but not enough to significantly influence stock price movement."
+                },
+                {
+                    "model_name": "meta-llama/llama-3.3-70b-instruct",
+                    "round": 0,
+                    "rise_prediction": 0.55,
+                    "fall_prediction": 0.45,
+                    "reasoning": "The news article discusses the challenge of organizing digital photos, which is a problem that Apple's iCloud service is designed to help solve. The article does not contain any negative or critical information about Apple or its services, but rather presents a common problem that Apple's products can help address. As a result, the article may be seen as indirectly promoting Apple's services, which could have a slightly positive effect on the company's stock price. However, the article is not a major news event or a significant announcement about Apple's business, so the impact on the stock price is likely to be minimal."
+                },
+                {
+                    "model_name": "qwen/qwen-turbo",
+                    "round": 0,
+                    "rise_prediction": -1,
+                    "fall_prediction": -1,
+                    "reasoning": "Fail to give a prediction. Error Reason: Parse error"
+                }
+            ],
+            [
+                {
+                    "model_name": "openai/gpt-4o-mini",
+                    "round": 1,
+                    "rise_prediction": 0.52,
+                    "fall_prediction": 0.48,
+                    "reasoning": "The news article discusses the challenge of organizing digital photos in iCloud, which is a service offered by Apple. While it highlights a common user issue, it does not provide any significant positive or negative information that would directly impact Apple's financial performance or stock price. The previous predictions indicate a range of neutral to slightly positive sentiments regarding the impact of this news. Given the lack of major developments or announcements, the probabilities of stock price movement remain close to neutral, with a slight inclination towards stability. Therefore, I estimate a slightly higher probability of the stock price rising due to the indirect positive perception of Apple's services."
+                },
+                {
+                    "model_name": "google/gemini-2.0-flash-001",
+                    "round": 1,
+                    "rise_prediction": 0.52,
+                    "fall_prediction": 0.48,
+                    "reasoning": "The news article discusses a common user problem related to managing digital photos within Apple's iCloud ecosystem. While the article itself doesn't directly mention Apple or its products in a positive or negative light, it highlights a potential pain point for iCloud users. Considering the previous rounds of predictions, there's a general consensus that the news is neutral to slightly positive. Some models lean towards a slight positive impact due to the article indirectly promoting Apple's services. However, the deepseek model predicted a very low impact. Given this information, I will adjust my prediction to be slightly more conservative, acknowledging the potential for a minimal positive impact but also recognizing the overall neutral nature of the news. The previous predictions range from 0.1 to 0.55 for a rise, and 0.1 to 0.5 for a fall. I will place my prediction within this range, slightly favoring a rise due to the potential for increased iCloud usage."
+                },
+                {
+                    "model_name": "google/gemini-flash-1.5",
+                    "round": 1,
+                    "rise_prediction": 0.47,
+                    "fall_prediction": 0.47,
+                    "reasoning": "The news article is inconsequential to Apple's stock price. It discusses a common user problem (organizing digital photos) that Apple's iCloud service addresses.  While it might indirectly be a minor positive for Apple's services, the impact is negligible.  The previous predictions range from near-neutral (0.45/0.45) to slightly positive (0.55/0.45).  Given the lack of any significant news related to Apple's financials, products, or market position, the most likely scenario is no significant change in stock price.  The slight positive bias in some previous predictions is likely due to the indirect positive association with iCloud, but this is outweighed by the overall lack of material impact. Therefore, I'm assigning probabilities closer to neutral, slightly favoring no change."
+                },
+                {
+                    "model_name": "deepseek/deepseek-chat-v3-0324",
+                    "round": 1,
+                    "rise_prediction": 0.5,
+                    "fall_prediction": 0.5,
+                    "reasoning": "The news article discusses the challenge of organizing digital photos, specifically mentioning iCloud, which is a service provided by Apple. While the article highlights a common user issue, it does not present any direct positive or negative impact on Apple's financial performance, product releases, or market position. The mention of iCloud is neutral and does not suggest any operational or strategic changes for Apple. Given the lack of significant financial or business-related content in the news, the impact on Apple's stock price is expected to be minimal. The probabilities are estimated based on the neutral nature of the news, with a slight inclination towards stability."
+                },
+                {
+                    "model_name": "meta-llama/llama-4-scout",
+                    "round": 1,
+                    "rise_prediction": 0.45,
+                    "fall_prediction": 0.45,
+                    "reasoning": "The news article discusses the challenge of organizing digital photos stored in iCloud, a service provided by Apple Inc. However, the article does not contain any significant positive or negative information about Apple's financial performance, product releases, or market position. It merely highlights a common user pain point related to managing digital photos, which is a problem that Apple's iCloud service is designed to help solve. Given the neutral nature of the news and its lack of direct relevance to Apple's business operations or financial outlook, the probabilities of the stock price rising or falling are relatively equal, with a slight inclination towards stability rather than volatility."
+                },
+                {
+                    "model_name": "meta-llama/llama-3.3-70b-instruct",
+                    "round": 1,
+                    "rise_prediction": 0.52,
+                    "fall_prediction": 0.48,
+                    "reasoning": "The news article discusses organizing digital photos using iCloud, which is a service provided by Apple Inc. This type of article is more related to the usage and potential benefits of Apple's services rather than a direct financial or operational update about the company. As such, it's unlikely to have a significant impact on the stock price movement. The article seems neutral and doesn't introduce any negative information about Apple. Given that it's a light, positive usage scenario for iCloud, it might have a very slight positive effect on the perception of Apple's services but not enough to significantly influence stock price movement. Considering the previous predictions from other models, which also indicate a neutral to slightly positive outlook, the estimated probabilities are based on the lack of direct relevance to Apple's financial or strategic outlook and the slight positive tone of the article."
+                },
+                {
+                    "model_name": "qwen/qwen-turbo",
+                    "round": 1,
+                    "rise_prediction": 0.5,
+                    "fall_prediction": 0.5,
+                    "reasoning": "The financial news discusses organizing digital photos and managing iCloud storage, which is a common issue faced by many Apple users. Although it highlights a service offered by Apple (iCloud), the article itself does not provide any significant positive or negative information that would directly impact Apple's financial performance or market position. Several previous predictions have noted that the article is neutral and unlikely to cause substantial changes in stock price movements. The overall sentiment leans towards neutrality."
+                }
+            ],
+            [
+                {
+                    "model_name": "openai/gpt-4o-mini",
+                    "round": 2,
+                    "rise_prediction": 0.52,
+                    "fall_prediction": 0.48,
+                    "reasoning": "The news article discusses the challenge of organizing digital photos in iCloud, which is a service provided by Apple. While it highlights a common user issue, it does not provide any significant positive or negative information that would directly impact Apple's financial performance or stock price. The previous predictions indicate a range of neutral to slightly positive sentiments regarding the impact of this news. Given the lack of major developments or announcements, the probabilities of stock price movement remain close to neutral, with a slight inclination towards stability. Therefore, I estimate a slightly higher probability of the stock price rising due to the indirect positive perception of Apple's services."
+                },
+                {
+                    "model_name": "google/gemini-2.0-flash-001",
+                    "round": 2,
+                    "rise_prediction": 0.51,
+                    "fall_prediction": 0.49,
+                    "reasoning": "The news article discusses a common user problem related to organizing digital photos within Apple's iCloud ecosystem. While it doesn't directly mention Apple in a positive or negative light, it highlights a potential pain point for iCloud users. The previous predictions range from neutral to slightly positive, with most models suggesting a minimal impact on the stock price. Considering the consensus and the lack of any significant financial or operational news, I'll maintain a neutral stance with a slight lean towards a potential rise due to the indirect promotion of iCloud services. However, the impact is expected to be minimal."
+                },
+                {
+                    "model_name": "google/gemini-flash-1.5",
+                    "round": 2,
+                    "rise_prediction": 0.5,
+                    "fall_prediction": 0.5,
+                    "reasoning": "The news article is largely irrelevant to Apple's stock price. It discusses a common user problem (managing digital photos in iCloud) without providing any significant positive or negative information about Apple's financial health, product releases, or market position.  While the article indirectly mentions iCloud, a successful Apple service, this mention is too minor to significantly impact the stock price.  The consensus among previous predictions leans towards neutrality, with a slight tendency towards a slightly higher probability of a rise due to the indirect positive association with iCloud. However, this positive association is weak and unlikely to outweigh other market factors influencing Apple's stock price.  Considering the overall lack of material impact and the range of previous predictions, a neutral probability is most appropriate."
+                },
+                {
+                    "model_name": "deepseek/deepseek-chat-v3-0324",
+                    "round": 2,
+                    "rise_prediction": 0.5,
+                    "fall_prediction": 0.5,
+                    "reasoning": "The news article discusses the challenge of organizing digital photos using Apple's iCloud service, which is a common user issue. While it indirectly highlights a service provided by Apple, the article does not contain any significant positive or negative information that would directly impact Apple's financial performance, product releases, or market position. Previous predictions from various models indicate a neutral to slightly positive sentiment, with probabilities ranging from 0.45 to 0.55 for a rise and 0.45 to 0.5 for a fall. Given the lack of direct relevance to Apple's financial or strategic outlook and the neutral tone of the article, the impact on the stock price is expected to be minimal. Therefore, the probabilities are estimated to be close to neutral, with a slight inclination towards stability."
+                },
+                {
+                    "model_name": "meta-llama/llama-4-scout",
+                    "round": 2,
+                    "rise_prediction": -1,
+                    "fall_prediction": -1,
+                    "reasoning": "Fail to give a prediction. Error Reason: Missing probability_of_stock_price_rise"
+                },
+                {
+                    "model_name": "meta-llama/llama-3.3-70b-instruct",
+                    "round": 2,
+                    "rise_prediction": 0.51,
+                    "fall_prediction": 0.49,
+                    "reasoning": "The news article discusses organizing digital photos and managing iCloud storage, which is a service offered by Apple. Although it highlights a common user issue, the article does not provide any significant positive or negative information that would directly impact Apple's financial performance or market position. Considering the previous predictions from other models, which also indicate a neutral to slightly positive outlook, the estimated probabilities are based on the lack of direct relevance to Apple's financial or strategic outlook and the slight positive tone of the article. The overall sentiment leans towards neutrality, with a slight inclination towards stability rather than volatility."
+                },
+                {
+                    "model_name": "qwen/qwen-turbo",
+                    "round": 2,
+                    "rise_prediction": 0.5,
+                    "fall_prediction": 0.5,
+                    "reasoning": "The financial news discusses organizing digital photos and managing iCloud storage, which is a common issue faced by many Apple users. Although it highlights a service offered by Apple (iCloud), the article itself does not provide any significant positive or negative information that would directly impact Apple's financial performance or market position. Several previous predictions have noted that the article is neutral and unlikely to cause substantial changes in stock price movements. The overall sentiment leans towards neutrality."
+                }
+            ],
+            [
+                {
+                    "model_name": "openai/gpt-4o-mini",
+                    "round": 3,
+                    "rise_prediction": 0.52,
+                    "fall_prediction": 0.48,
+                    "reasoning": "The news article discusses the challenge of organizing digital photos in iCloud, which is a service provided by Apple. While it highlights a common user issue, it does not provide any significant positive or negative information that would directly impact Apple's financial performance or stock price. The previous predictions indicate a range of neutral to slightly positive sentiments regarding the impact of this news. Given the lack of major developments or announcements, the probabilities of stock price movement remain close to neutral, with a slight inclination towards stability. Therefore, I estimate a slightly higher probability of the stock price rising due to the indirect positive perception of Apple's services."
+                },
+                {
+                    "model_name": "google/gemini-2.0-flash-001",
+                    "round": 3,
+                    "rise_prediction": 0.5,
+                    "fall_prediction": 0.5,
+                    "reasoning": "The news article discusses a common user problem related to organizing digital photos within Apple's iCloud ecosystem. While it doesn't directly mention Apple in a positive or negative light, it highlights a potential pain point for iCloud users. The previous predictions consistently range from neutral to slightly positive, with most models suggesting a minimal impact on the stock price. Considering the consensus and the lack of any significant financial or operational news, I'll maintain a neutral stance with a slight lean towards a potential rise due to the indirect promotion of iCloud services. However, the impact is expected to be minimal. Given the trend of previous predictions converging towards a neutral stance, I will adjust my prediction to reflect this consensus."
+                },
+                {
+                    "model_name": "google/gemini-flash-1.5",
+                    "round": 3,
+                    "rise_prediction": 0.5,
+                    "fall_prediction": 0.5,
+                    "reasoning": "The news article is largely irrelevant to Apple's stock price. It discusses a common user problem (organizing digital photos in iCloud) without providing any significant positive or negative information about Apple's financial health, product releases, or market position.  While the article indirectly mentions iCloud, a successful Apple service, this mention is too minor to significantly impact the stock price. The overwhelming consensus among previous predictions leans towards neutrality, with probabilities consistently clustering around 0.5 for both rise and fall.  This reflects the lack of material impact from the news itself. Any stock price movement would be driven by other market factors, not this article. Therefore, I'm assigning probabilities very close to neutral."
+                },
+                {
+                    "model_name": "deepseek/deepseek-chat-v3-0324",
+                    "round": 3,
+                    "rise_prediction": 0.51,
+                    "fall_prediction": 0.49,
+                    "reasoning": "The news article discusses the challenge of organizing digital photos in iCloud, a service provided by Apple. While it highlights a common user issue, it does not provide any significant positive or negative information that would directly impact Apple's financial performance or stock price. Previous predictions from various models indicate a neutral to slightly positive sentiment, with probabilities ranging from 0.45 to 0.55 for a rise and 0.45 to 0.5 for a fall. Given the lack of direct relevance to Apple's financial or strategic outlook and the neutral tone of the article, the impact on the stock price is expected to be minimal. Therefore, the probabilities are estimated to be close to neutral, with a slight inclination towards stability."
+                },
+                {
+                    "model_name": "meta-llama/llama-4-scout",
+                    "round": 3,
+                    "rise_prediction": 0.51,
+                    "fall_prediction": 0.49,
+                    "reasoning": "The news article discusses the challenge of organizing digital photos in iCloud, a service provided by Apple Inc. While it highlights a common user issue, it does not provide any significant positive or negative information that would directly impact Apple's financial performance or stock price. The consensus from previous predictions is neutral to slightly positive, with most models suggesting a minimal impact on the stock price. Given the lack of major developments or announcements, the probabilities of stock price movement remain close to neutral, with a slight inclination towards stability. Therefore, I estimate a slightly higher probability of the stock price rising due to the indirect positive perception of Apple's services."
+                },
+                {
+                    "model_name": "meta-llama/llama-3.3-70b-instruct",
+                    "round": 3,
+                    "rise_prediction": 0.51,
+                    "fall_prediction": 0.49,
+                    "reasoning": "The news article discusses organizing digital photos and managing iCloud storage, which is a service offered by Apple. Although it highlights a common user issue, the article does not provide any significant positive or negative information that would directly impact Apple's financial performance or market position. Considering the previous predictions from other models, which also indicate a neutral to slightly positive outlook, the estimated probabilities are based on the lack of direct relevance to Apple's financial or strategic outlook and the slight positive tone of the article. The overall sentiment leans towards neutrality, with a slight inclination towards stability rather than volatility."
+                },
+                {
+                    "model_name": "qwen/qwen-turbo",
+                    "round": 3,
+                    "rise_prediction": 0.5,
+                    "fall_prediction": 0.5,
+                    "reasoning": "The financial news discusses organizing digital photos and managing iCloud storage, which is a common issue faced by many Apple users. Although it highlights a service offered by Apple (iCloud), the article itself does not provide any significant positive or negative information that would directly impact Apple's financial performance or market position. Several previous predictions have noted that the article is neutral and unlikely to cause substantial changes in stock price movements. The overall sentiment leans towards neutrality."
+                }
+            ],
+            [
+                {
+                    "model_name": "openai/gpt-4o-mini",
+                    "round": 4,
+                    "rise_prediction": 0.52,
+                    "fall_prediction": 0.48,
+                    "reasoning": "The news article discusses a common user issue related to organizing digital photos in iCloud, a service provided by Apple. While it highlights a potential pain point for users, it does not contain any significant positive or negative information that would directly impact Apple's financial performance or stock price. The previous predictions indicate a range of neutral to slightly positive sentiments regarding the impact of this news. Given the lack of major developments or announcements, the probabilities of stock price movement remain close to neutral, with a slight inclination towards stability and a minor positive perception of Apple's services."
+                },
+                {
+                    "model_name": "google/gemini-2.0-flash-001",
+                    "round": 4,
+                    "rise_prediction": 0.5,
+                    "fall_prediction": 0.5,
+                    "reasoning": "The news article discusses a common user problem related to organizing digital photos within Apple's iCloud ecosystem. While it doesn't directly mention Apple in a positive or negative light, it highlights a potential pain point for iCloud users. The previous predictions consistently range from neutral to slightly positive, with most models suggesting a minimal impact on the stock price. Considering the consensus and the lack of any significant financial or operational news, I'll maintain a neutral stance. Given the trend of previous predictions converging towards a neutral stance, I will adjust my prediction to reflect this consensus."
+                },
+                {
+                    "model_name": "google/gemini-flash-1.5",
+                    "round": 4,
+                    "rise_prediction": 0.51,
+                    "fall_prediction": 0.49,
+                    "reasoning": "The news article is largely irrelevant to Apple's stock price. It discusses a common user problem (organizing digital photos in iCloud) without providing any significant positive or negative information about Apple's financial health, product releases, or market position.  While the article indirectly mentions iCloud, a successful Apple service, this mention is too minor to significantly impact the stock price.  The overwhelming consensus among previous predictions leans towards neutrality, with probabilities consistently clustering around 0.5 for both rise and fall. This reflects the lack of material impact from the news itself. Any stock price movement would be driven by other market factors, not this article.  Therefore, I'm assigning probabilities very close to neutral, slightly favoring no change, reflecting the convergence of predictions towards neutrality over multiple rounds."
+                },
+                {
+                    "model_name": "deepseek/deepseek-chat-v3-0324",
+                    "round": 4,
+                    "rise_prediction": 0.51,
+                    "fall_prediction": 0.49,
+                    "reasoning": "The news article discusses the challenge of organizing digital photos in iCloud, a service provided by Apple Inc. While it highlights a common user issue, it does not provide any significant positive or negative information that would directly impact Apple's financial performance or stock price. Previous predictions from various models indicate a neutral to slightly positive sentiment, with probabilities ranging from 0.45 to 0.55 for a rise and 0.45 to 0.5 for a fall. Given the lack of direct relevance to Apple's financial or strategic outlook and the neutral tone of the article, the impact on the stock price is expected to be minimal. Therefore, the probabilities are estimated to be close to neutral, with a slight inclination towards stability."
+                },
+                {
+                    "model_name": "meta-llama/llama-4-scout",
+                    "round": 4,
+                    "rise_prediction": 0.51,
+                    "fall_prediction": 0.49,
+                    "reasoning": "The news article discusses the challenge of organizing digital photos in iCloud, which is a service provided by Apple. While it highlights a common user issue, it does not provide any significant positive or negative information that would directly impact Apple's financial performance or stock price. The previous predictions indicate a range of neutral sentiments regarding the impact of this news. Given the lack of major developments or announcements, the probabilities of stock price movement remain close to neutral, with a slight inclination towards stability rather than volatility."
+                },
+                {
+                    "model_name": "meta-llama/llama-3.3-70b-instruct",
+                    "round": 4,
+                    "rise_prediction": 0.51,
+                    "fall_prediction": 0.49,
+                    "reasoning": "The news article discusses the challenge of organizing digital photos in iCloud, a service provided by Apple. While it highlights a common user issue, it does not provide any significant positive or negative information that would directly impact Apple's financial performance or stock price. The previous predictions from various models indicate a neutral to slightly positive sentiment, with probabilities ranging from 0.45 to 0.55 for a rise and 0.45 to 0.5 for a fall. Given the lack of direct relevance to Apple's financial or strategic outlook and the neutral tone of the article, the impact on the stock price is expected to be minimal. Therefore, the probabilities are estimated to be close to neutral, with a slight inclination towards stability."
+                },
+                {
+                    "model_name": "qwen/qwen-turbo",
+                    "round": 4,
+                    "rise_prediction": 0.5,
+                    "fall_prediction": 0.5,
+                    "reasoning": "The financial news discusses organizing digital photos and managing iCloud storage, which is a common issue faced by many Apple users. Although it highlights a service offered by Apple (iCloud), the article itself does not provide any significant positive or negative information that would directly impact Apple's financial performance or market position. Several previous predictions have noted that the article is neutral and unlikely to cause substantial changes in stock price movements. The overall sentiment leans towards neutrality."
+                }
+            ]
+        ]
+    },
+    {
+        "company_symbol": "AAPL",
+        "company_name": "Apple Inc.",
+        "news_id": 332,
+        "headline": "Is Apple a Buy, Sell, or Hold in 2025?",
+        "content": "Is Apple a Buy, Sell, or Hold in 2025?",
+        "predictions": [
+            [
+                {
+                    "model_name": "openai/gpt-4o-mini",
+                    "round": 0,
+                    "rise_prediction": 0.55,
+                    "fall_prediction": 0.45,
+                    "reasoning": "The news headline poses a question about whether Apple is a buy, sell, or hold in 2025, which indicates uncertainty regarding the company's future performance. Without specific positive or negative news, it is difficult to predict a strong movement in either direction. The lack of definitive guidance may lead to a neutral market reaction, but given Apple's strong brand and historical performance, there is a slightly higher probability of a price rise compared to a fall."
+                },
+                {
+                    "model_name": "google/gemini-2.0-flash-001",
+                    "round": 0,
+                    "rise_prediction": 0.5,
+                    "fall_prediction": 0.5,
+                    "reasoning": "The news headline 'Is Apple a Buy, Sell, or Hold in 2025?' is neutral. It doesn't provide any specific positive or negative information about Apple's future prospects. It simply poses a question, indicating uncertainty. Therefore, it's unlikely to significantly drive the stock price in either direction. The lack of concrete information suggests a relatively balanced probability of price movement."
+                },
+                {
+                    "model_name": "google/gemini-flash-1.5",
+                    "round": 0,
+                    "rise_prediction": 0.5,
+                    "fall_prediction": 0.5,
+                    "reasoning": "The provided news headline \"Is Apple a Buy, Sell, or Hold in 2025?\" is extremely vague and offers no actionable information regarding Apple's financial prospects or any specific catalysts for price movement.  It's a generic question, not a news item with specific information. Therefore, the headline itself provides no basis for predicting stock price movement.  Any price movement will be driven by factors not mentioned in this headline, such as overall market conditions, Apple's future product releases, economic indicators, and competitor actions.  Assuming a neutral market outlook, the probabilities are assigned based on the inherent uncertainty of the market."
+                },
+                {
+                    "model_name": "deepseek/deepseek-chat-v3-0324",
+                    "round": 0,
+                    "rise_prediction": 0.55,
+                    "fall_prediction": 0.45,
+                    "reasoning": "The provided news headline and content do not contain specific information or analysis about Apple Inc. (AAPL) that would directly influence the stock price. Without concrete details such as financial performance, product launches, market trends, or analyst ratings, it is challenging to make a precise prediction. Therefore, the probabilities are based on general market behavior and Apple's historical stability as a leading tech company."
+                },
+                {
+                    "model_name": "meta-llama/llama-4-scout",
+                    "round": 0,
+                    "rise_prediction": 0.5,
+                    "fall_prediction": 0.5,
+                    "reasoning": "The news headline 'Is Apple a Buy, Sell, or Hold in 2025?' is neutral and inquires about the stock's potential rather than providing specific positive or negative information. Such headlines typically do not significantly impact the stock price directly as they do not contain new financial data or decisive analyst recommendations. Therefore, the probabilities of the stock price rising or falling due to this news are relatively balanced, with a slight inclination towards stability. Given the neutral nature, I estimate the probability of the stock price rising as 0.5 and falling as 0.5."
+                },
+                {
+                    "model_name": "meta-llama/llama-3.3-70b-instruct",
+                    "round": 0,
+                    "rise_prediction": 0.45,
+                    "fall_prediction": 0.4,
+                    "reasoning": "The news headline 'Is Apple a Buy, Sell, or Hold in 2025?' is neutral and does not provide any specific positive or negative information about the company's performance or future prospects. It appears to be a generic investment analysis question rather than a news article with concrete data or announcements that could significantly impact the stock price. Given the lack of substantial information, the probabilities of the stock price rising or falling due to this news are estimated based on the general market behavior and the company's historical performance. Apple Inc. is a well-established company with a strong track record, but without specific news, the impact on its stock price is likely to be minimal."
+                },
+                {
+                    "model_name": "qwen/qwen-turbo",
+                    "round": 0,
+                    "rise_prediction": 0.3,
+                    "fall_prediction": 0.3,
+                    "reasoning": "The news headline asks whether Apple is a buy, sell, or hold in 2025, without providing concrete details or new information that would impact the stock price directly. The question itself does not provide enough actionable insight for investors to make immediate decisions. Without specific data points or recent financial performance indicators, it's challenging to predict a significant movement in the stock price based on this headline alone."
+                }
+            ],
+            [
+                {
+                    "model_name": "openai/gpt-4o-mini",
+                    "round": 1,
+                    "rise_prediction": 0.52,
+                    "fall_prediction": 0.48,
+                    "reasoning": "The news headline 'Is Apple a Buy, Sell, or Hold in 2025?' indicates uncertainty regarding Apple's future performance without providing specific positive or negative information. This vagueness leads to a balanced outlook on stock price movement. Given Apple's historical stability and strong brand, there is a slight inclination towards a price rise, but the overall sentiment remains neutral due to the lack of actionable insights. Therefore, I estimate a slightly higher probability of the stock price rising compared to falling."
+                },
+                {
+                    "model_name": "google/gemini-2.0-flash-001",
+                    "round": 1,
+                    "rise_prediction": 0.52,
+                    "fall_prediction": 0.48,
+                    "reasoning": "The news headline is neutral, posing a question about Apple's investment potential in 2025. It doesn't offer any concrete positive or negative information. Previous models have largely reflected this neutrality, assigning probabilities close to 0.5 for both rising and falling stock prices. Some models slightly favored a rise, possibly due to Apple's general stability and brand strength. However, one model (qwen/qwen-turbo) assigned a lower probability to both rise and fall, suggesting a belief that the news is essentially non-informative and unlikely to cause significant movement. Considering the consensus around neutrality and the lack of any new information, I will stick with a balanced probability, but slightly adjust it upwards to reflect the general positive sentiment towards Apple."
+                },
+                {
+                    "model_name": "google/gemini-flash-1.5",
+                    "round": 1,
+                    "rise_prediction": 0.5,
+                    "fall_prediction": 0.5,
+                    "reasoning": "The news headline is entirely neutral and provides no new information about Apple's financial health or future prospects.  The previous predictions show a range of opinions, mostly clustering around 0.5 for both rise and fall probabilities.  The lack of concrete information makes it highly unlikely that this headline alone will significantly impact Apple's stock price.  While some models lean slightly towards a higher probability of a price rise, likely due to Apple's generally strong performance, this is not supported by the headline itself.  Therefore, the probabilities should reflect the inherent uncertainty and lack of new information."
+                },
+                {
+                    "model_name": "deepseek/deepseek-chat-v3-0324",
+                    "round": 1,
+                    "rise_prediction": 0.52,
+                    "fall_prediction": 0.48,
+                    "reasoning": "The news headline 'Is Apple a Buy, Sell, or Hold in 2025?' is neutral and does not provide specific positive or negative information about Apple's future performance. Given the lack of concrete details, the stock price movement is likely to be influenced by broader market conditions and Apple's historical stability rather than this headline alone. Previous predictions from other models also reflect a neutral stance, with slight variations leaning towards a minimal probability of rise or fall. Considering Apple's strong brand and market position, there is a marginally higher probability of a price rise compared to a fall, but the overall impact of this news is minimal."
+                },
+                {
+                    "model_name": "meta-llama/llama-4-scout",
+                    "round": 1,
+                    "rise_prediction": 0.52,
+                    "fall_prediction": 0.48,
+                    "reasoning": "The news headline 'Is Apple a Buy, Sell, or Hold in 2025?' is neutral and does not provide specific positive or negative information about Apple's future prospects. It poses a question about the stock's potential rather than providing concrete data or announcements that could impact the stock price. Given the lack of substantial information, the probabilities of the stock price rising or falling due to this news are relatively balanced. However, considering Apple's historical performance and strong brand, there is a slight inclination towards a positive outlook."
+                },
+                {
+                    "model_name": "meta-llama/llama-3.3-70b-instruct",
+                    "round": 1,
+                    "rise_prediction": 0.52,
+                    "fall_prediction": 0.48,
+                    "reasoning": "The news headline 'Is Apple a Buy, Sell, or Hold in 2025?' is neutral and does not provide any specific positive or negative information about Apple's future prospects. The lack of concrete information suggests a relatively balanced probability of price movement. Considering the historical stability of Apple as a leading tech company and the neutral nature of the headline, the probabilities of the stock price rising or falling due to this news are estimated based on general market behavior. The previous predictions from various models also indicate a neutral outlook, with some models slightly favoring a rise due to Apple's strong brand and historical performance. However, without specific news or data, the impact on the stock price is likely to be minimal."
+                },
+                {
+                    "model_name": "qwen/qwen-turbo",
+                    "round": 1,
+                    "rise_prediction": 0.4,
+                    "fall_prediction": 0.4,
+                    "reasoning": "The financial news headline 'Is Apple a Buy, Sell, or Hold in 2025?' is highly speculative and does not provide any concrete information regarding the company's current or future performance. It lacks specific data points, financial metrics, or any new strategic initiatives from Apple that could directly influence investor sentiment. Most previous predictions suggest a neutral stance due to the lack of actionable information. However, considering Apple's historical stability and strong brand presence, there might be a slightly higher inclination towards a price rise. Nonetheless, the overall uncertainty remains high."
+                }
+            ],
+            [
+                {
+                    "model_name": "openai/gpt-4o-mini",
+                    "round": 2,
+                    "rise_prediction": 0.52,
+                    "fall_prediction": 0.48,
+                    "reasoning": "The news headline 'Is Apple a Buy, Sell, or Hold in 2025?' indicates uncertainty regarding Apple's future performance without providing specific positive or negative information. This vagueness leads to a balanced outlook on stock price movement. Given Apple's historical stability and strong brand, there is a slight inclination towards a price rise, but the overall sentiment remains neutral due to the lack of actionable insights. The previous predictions from various models reflect a consensus around neutrality, with slight variations leaning towards a minimal probability of rise or fall. Therefore, I estimate a slightly higher probability of the stock price rising compared to falling."
+                },
+                {
+                    "model_name": "google/gemini-2.0-flash-001",
+                    "round": 2,
+                    "rise_prediction": 0.53,
+                    "fall_prediction": 0.47,
+                    "reasoning": "The news headline is neutral, posing a question about Apple's investment potential in 2025. It doesn't offer any concrete positive or negative information. Previous models have largely reflected this neutrality, assigning probabilities close to 0.5 for both rising and falling stock prices. There is a slight inclination towards a price rise, possibly due to Apple's general stability and brand strength. However, the news is essentially non-informative and unlikely to cause significant movement. Considering the consensus around neutrality and the lack of any new information, I will stick with a balanced probability, but slightly adjust it upwards to reflect the general positive sentiment towards Apple."
+                },
+                {
+                    "model_name": "google/gemini-flash-1.5",
+                    "round": 2,
+                    "rise_prediction": 0.53,
+                    "fall_prediction": 0.47,
+                    "reasoning": "The news headline is entirely neutral and provides no new information to significantly impact Apple's stock price.  The previous predictions show a convergence towards a neutral stance, with most models assigning probabilities near 0.5 for both price rise and fall.  While some models slightly favor a rise due to Apple's historical strength and brand recognition, this is not directly supported by the headline itself. The lack of concrete information makes it highly unlikely that this headline alone will cause a substantial price movement.  Therefore, the probabilities reflect the inherent uncertainty and lack of new information, with a slight upward adjustment to reflect the consensus leaning towards a slightly higher probability of a price rise."
+                },
+                {
+                    "model_name": "deepseek/deepseek-chat-v3-0324",
+                    "round": 2,
+                    "rise_prediction": 0.52,
+                    "fall_prediction": 0.48,
+                    "reasoning": "The news headline 'Is Apple a Buy, Sell, or Hold in 2025?' is neutral and does not provide specific positive or negative information about Apple's future performance. Given the lack of concrete details, the stock price movement is likely to be influenced by broader market conditions and Apple's historical stability rather than this headline alone. Previous predictions from other models also reflect a neutral stance, with slight variations leaning towards a minimal probability of rise or fall. Considering Apple's strong brand and market position, there is a marginally higher probability of a price rise compared to a fall, but the overall impact of this news is minimal."
+                },
+                {
+                    "model_name": "meta-llama/llama-4-scout",
+                    "round": 2,
+                    "rise_prediction": 0.51,
+                    "fall_prediction": 0.49,
+                    "reasoning": "The news headline 'Is Apple a Buy, Sell, or Hold in 2025?' is neutral and does not provide any specific positive or negative information about Apple's future prospects. It poses a question about the stock's potential rather than providing concrete data or announcements that could significantly impact the stock price. Given Apple's historical stability and strong brand, there is a slight inclination towards a positive outlook. However, without specific news or data, the impact on the stock price is likely to be minimal. The previous predictions from various models reflect a balanced outlook with a slight favor towards a positive movement due to Apple's generally strong performance and brand presence."
+                },
+                {
+                    "model_name": "meta-llama/llama-3.3-70b-instruct",
+                    "round": 2,
+                    "rise_prediction": 0.52,
+                    "fall_prediction": 0.48,
+                    "reasoning": "The news headline 'Is Apple a Buy, Sell, or Hold in 2025?' is neutral and does not provide any specific positive or negative information about Apple's future prospects. The lack of concrete information suggests a relatively balanced probability of price movement. Considering the historical stability of Apple as a leading tech company and the neutral nature of the headline, the probabilities of the stock price rising or falling due to this news are estimated based on general market behavior. The previous predictions from various models also indicate a neutral outlook, with some models slightly favoring a rise due to Apple's strong brand and historical performance. However, without specific news or data, the impact on the stock price is likely to be minimal. Given the consensus around neutrality and the lack of any new information, I estimate a slightly higher probability of the stock price rising compared to falling, reflecting Apple's general stability and brand strength."
+                },
+                {
+                    "model_name": "qwen/qwen-turbo",
+                    "round": 2,
+                    "rise_prediction": 0.51,
+                    "fall_prediction": 0.49,
+                    "reasoning": "The financial news headline 'Is Apple a Buy, Sell, or Hold in 2025?' is neutral and does not provide any specific positive or negative information about Apple's future prospects. The majority of previous predictions suggest a balanced view, with probabilities of price movement clustered around 0.5 for both rising and falling, adjusted slightly based on Apple's historical stability and strong brand. Given the neutral nature of the headline and the consensus among previous predictions, there is a slight inclination towards a neutral outcome. However, considering Apple's strong historical performance and brand, there is a marginal belief that the stock price might rise slightly."
+                }
+            ],
+            [
+                {
+                    "model_name": "openai/gpt-4o-mini",
+                    "round": 3,
+                    "rise_prediction": 0.52,
+                    "fall_prediction": 0.48,
+                    "reasoning": "The news headline 'Is Apple a Buy, Sell, or Hold in 2025?' indicates uncertainty regarding Apple's future performance without providing specific positive or negative information. This vagueness leads to a balanced outlook on stock price movement. Given Apple's historical stability and strong brand, there is a slight inclination towards a price rise, but the overall sentiment remains neutral due to the lack of actionable insights. Previous predictions from various models reflect a consensus around neutrality, with slight variations leaning towards a minimal probability of rise or fall. Therefore, I estimate a slightly higher probability of the stock price rising compared to falling."
+                },
+                {
+                    "model_name": "google/gemini-2.0-flash-001",
+                    "round": 3,
+                    "rise_prediction": 0.54,
+                    "fall_prediction": 0.46,
+                    "reasoning": "The news headline 'Is Apple a Buy, Sell, or Hold in 2025?' is neutral and doesn't offer any specific positive or negative information about Apple's future prospects. The previous predictions consistently reflect this neutrality, with probabilities hovering around 0.5 for both rising and falling stock prices. There's a slight inclination towards a price rise, likely due to Apple's general stability, strong brand, and historical performance. However, the headline itself is essentially non-informative and unlikely to cause significant movement. Considering the consensus around neutrality and the lack of any new information, I will maintain a balanced probability, with a slight upward adjustment to reflect the general positive sentiment towards Apple and the trend of increasing rise probability in previous rounds."
+                },
+                {
+                    "model_name": "google/gemini-flash-1.5",
+                    "round": 3,
+                    "rise_prediction": 0.53,
+                    "fall_prediction": 0.47,
+                    "reasoning": "The news headline is entirely neutral and provides no new information that would significantly impact Apple's stock price.  The headline simply poses a question about Apple's future investment potential, offering no concrete data or analysis.  Across multiple rounds of predictions from various AI models, there's a clear convergence towards a neutral stance, with probabilities for price rise and fall clustering around 0.5.  While some models show a slight bias towards a price rise (likely due to Apple's generally strong performance and brand reputation), this bias is not supported by the headline itself.  The lack of concrete information makes it highly unlikely that this headline alone will cause a substantial price movement. Therefore, my prediction reflects the consensus of neutrality, with a minor adjustment to reflect the slight upward trend observed in the later prediction rounds, which may reflect a general positive sentiment towards Apple independent of this specific news."
+                },
+                {
+                    "model_name": "deepseek/deepseek-chat-v3-0324",
+                    "round": 3,
+                    "rise_prediction": 0.52,
+                    "fall_prediction": 0.48,
+                    "reasoning": "The news headline 'Is Apple a Buy, Sell, or Hold in 2025?' is neutral and does not provide specific positive or negative information about Apple's future performance. Given the lack of concrete details, the stock price movement is likely to be influenced by broader market conditions and Apple's historical stability rather than this headline alone. Previous predictions from other models reflect a neutral stance, with slight variations leaning towards a minimal probability of rise or fall. Considering Apple's strong brand and market position, there is a marginally higher probability of a price rise compared to a fall, but the overall impact of this news is minimal."
+                },
+                {
+                    "model_name": "meta-llama/llama-4-scout",
+                    "round": 3,
+                    "rise_prediction": 0.52,
+                    "fall_prediction": 0.48,
+                    "reasoning": "The news headline 'Is Apple a Buy, Sell, or Hold in 2025?' is neutral and does not provide specific positive or negative information about Apple's future performance. The lack of concrete details suggests a relatively balanced probability of price movement. Considering Apple's historical stability and strong brand, there is a slight inclination towards a price rise compared to a fall. The consensus from previous predictions also reflects a neutral stance with a slight favor towards a positive movement due to Apple's generally strong performance and brand presence."
+                },
+                {
+                    "model_name": "meta-llama/llama-3.3-70b-instruct",
+                    "round": 3,
+                    "rise_prediction": 0.52,
+                    "fall_prediction": 0.48,
+                    "reasoning": "The news headline 'Is Apple a Buy, Sell, or Hold in 2025?' is neutral and does not provide any specific positive or negative information about Apple's future prospects. The lack of concrete information suggests a relatively balanced probability of price movement. Considering the historical stability of Apple as a leading tech company and the neutral nature of the headline, the probabilities of the stock price rising or falling due to this news are estimated based on general market behavior. The previous predictions from various models also indicate a neutral outlook, with some models slightly favoring a rise due to Apple's strong brand and historical performance. However, without specific news or data, the impact on the stock price is likely to be minimal. Given the consensus around neutrality and the lack of any new information, I estimate a slightly higher probability of the stock price rising compared to falling, reflecting Apple's general stability and brand strength."
+                },
+                {
+                    "model_name": "qwen/qwen-turbo",
+                    "round": 3,
+                    "rise_prediction": 0.53,
+                    "fall_prediction": 0.47,
+                    "reasoning": "The financial news headline 'Is Apple a Buy, Sell, or Hold in 2025?' is neutral and does not provide any specific positive or negative information about Apple's future prospects. The consensus among previous predictions indicates a balanced outlook, with probabilities of price movement clustered around 0.5 for both rising and falling, adjusted slightly based on Apple's historical stability and strong brand. Given the neutral nature of the headline and the overall sentiment expressed by previous models, there is a slight inclination towards a neutral outcome, but a marginally higher belief in a price rise due to Apple's strong historical performance and brand."
+                }
+            ],
+            [
+                {
+                    "model_name": "openai/gpt-4o-mini",
+                    "round": 4,
+                    "rise_prediction": 0.52,
+                    "fall_prediction": 0.48,
+                    "reasoning": "The news headline 'Is Apple a Buy, Sell, or Hold in 2025?' is neutral and does not provide specific positive or negative information about Apple's future performance. The previous predictions from various models reflect a consensus around neutrality, with slight variations leaning towards a minimal probability of rise or fall. Given Apple's historical stability and strong brand, there is a slight inclination towards a price rise, but the overall sentiment remains neutral due to the lack of actionable insights. Therefore, I estimate a slightly higher probability of the stock price rising compared to falling."
+                },
+                {
+                    "model_name": "google/gemini-2.0-flash-001",
+                    "round": 4,
+                    "rise_prediction": 0.54,
+                    "fall_prediction": 0.46,
+                    "reasoning": "The news headline 'Is Apple a Buy, Sell, or Hold in 2025?' is neutral and provides no specific positive or negative information about Apple's future prospects. The lack of concrete details suggests a relatively balanced probability of price movement. Considering the historical stability of Apple as a leading tech company and the neutral nature of the headline, the probabilities of the stock price rising or falling due to this news are estimated based on general market behavior. The previous predictions from various models also indicate a neutral outlook, with some models slightly favoring a rise due to Apple's strong brand and historical performance. The trend in previous rounds shows a slight increase in the probability of a price rise. Therefore, I estimate a slightly higher probability of the stock price rising compared to falling, reflecting Apple's general stability and brand strength."
+                },
+                {
+                    "model_name": "google/gemini-flash-1.5",
+                    "round": 4,
+                    "rise_prediction": 0.54,
+                    "fall_prediction": 0.46,
+                    "reasoning": "The news headline is entirely neutral and provides no new information about Apple's financial prospects.  The lack of specific positive or negative news makes it highly unlikely to significantly impact the stock price in either direction.  The analysis across multiple rounds from various AI models shows a convergence towards a neutral stance, with probabilities for both price rise and fall clustering around 0.5.  A slight upward trend in the probability of a price rise is observed across rounds, likely reflecting Apple's generally strong performance and brand reputation. However, this upward trend is modest and doesn't suggest a strong conviction in a price rise solely based on this headline.  Therefore, the prediction reflects the consensus of neutrality with a minor upward adjustment to reflect the slight upward trend observed in the later prediction rounds."
+                },
+                {
+                    "model_name": "deepseek/deepseek-chat-v3-0324",
+                    "round": 4,
+                    "rise_prediction": 0.52,
+                    "fall_prediction": 0.48,
+                    "reasoning": "The news headline 'Is Apple a Buy, Sell, or Hold in 2025?' is neutral and does not provide specific positive or negative information about Apple's future performance. Given the lack of concrete details, the stock price movement is likely to be influenced by broader market conditions and Apple's historical stability rather than this headline alone. Previous predictions from various models reflect a consensus around neutrality, with slight variations leaning towards a minimal probability of rise or fall. Considering Apple's strong brand and market position, there is a marginally higher probability of a price rise compared to a fall, but the overall impact of this news is minimal."
+                },
+                {
+                    "model_name": "meta-llama/llama-4-scout",
+                    "round": 4,
+                    "rise_prediction": 0.53,
+                    "fall_prediction": 0.47,
+                    "reasoning": "The news headline 'Is Apple a Buy, Sell, or Hold in 2025?' is neutral and does not provide specific positive or negative information about Apple's future performance. The consensus from previous predictions by various models reflects a balanced outlook, with probabilities of stock price movement clustered around 0.5 for both rising and falling. Given Apple's historical stability and strong brand, there is a slight inclination towards a price rise compared to a fall. However, the overall impact of this news is minimal due to its non-informative nature. Therefore, I estimate a slightly higher probability of the stock price rising compared to falling."
+                },
+                {
+                    "model_name": "meta-llama/llama-3.3-70b-instruct",
+                    "round": 4,
+                    "rise_prediction": 0.52,
+                    "fall_prediction": 0.48,
+                    "reasoning": "The news headline 'Is Apple a Buy, Sell, or Hold in 2025?' is neutral and does not provide any specific positive or negative information about Apple's future prospects. The lack of concrete information suggests a relatively balanced probability of price movement. Considering Apple's historical stability and strong brand, there is a slight inclination towards a price rise compared to a fall. The consensus from previous predictions also reflects a neutral stance with a slight favor towards a positive movement due to Apple's generally strong performance and brand presence."
+                },
+                {
+                    "model_name": "qwen/qwen-turbo",
+                    "round": 4,
+                    "rise_prediction": 0.53,
+                    "fall_prediction": 0.47,
+                    "reasoning": "The financial news headline 'Is Apple a Buy, Sell, or Hold in 2025?' is neutral and does not provide any specific positive or negative information about Apple's future prospects. The consensus among previous predictions indicates a balanced outlook, with probabilities of price movement clustered around 0.5 for both rising and falling, adjusted slightly based on Apple's historical stability and strong brand. Given the neutral nature of the headline and the overall sentiment expressed by previous models, there is a slight inclination towards a neutral outcome, but a marginally higher belief in a price rise due to Apple's strong historical performance and brand."
+                }
+            ]
+        ]
+    },
+    {
+        "company_symbol": "AAPL",
+        "company_name": "Apple Inc.",
+        "news_id": 333,
+        "headline": "Should You Buy Apple Stock Right Now in 2025?",
+        "content": "Should You Buy Apple Stock Right Now in 2025?",
+        "predictions": [
+            [
+                {
+                    "model_name": "openai/gpt-4o-mini",
+                    "round": 0,
+                    "rise_prediction": 0.55,
+                    "fall_prediction": 0.45,
+                    "reasoning": "The news headline poses a question about whether to buy Apple stock in 2025, which suggests a speculative nature rather than providing concrete information or analysis. Without specific positive or negative news, the impact on stock price is uncertain. However, given Apple's strong brand and historical performance, there may be a slight inclination towards a positive outlook. Therefore, I estimate a higher probability of the stock price rising compared to falling."
+                },
+                {
+                    "model_name": "google/gemini-2.0-flash-001",
+                    "round": 0,
+                    "rise_prediction": 0.5,
+                    "fall_prediction": 0.5,
+                    "reasoning": "The news headline is a generic question about whether to buy Apple stock in 2025. It doesn't contain any specific positive or negative information about the company's current performance, future prospects, or any recent events that would significantly impact the stock price. Therefore, it's difficult to assign a strong probability to either a rise or fall. The headline simply invites further investigation and analysis, but on its own, it's neutral. Given the lack of concrete information, I'm assigning probabilities close to 50% for both rise and fall, reflecting the inherent uncertainty."
+                },
+                {
+                    "model_name": "google/gemini-flash-1.5",
+                    "round": 0,
+                    "rise_prediction": 0.5,
+                    "fall_prediction": 0.5,
+                    "reasoning": "The provided news headline \"Should You Buy Apple Stock Right Now in 2025?\" is extremely vague and offers no specific information about Apple's financial performance, future prospects, or any relevant market events.  Such headlines are common and generally used to attract clicks rather than provide actionable investment advice.  Therefore, the headline itself provides no basis for predicting a stock price movement.  The probability of a price rise or fall due to this headline alone is essentially neutral, reflecting the inherent uncertainty of the market and the lack of substantive information in the news piece."
+                },
+                {
+                    "model_name": "deepseek/deepseek-chat-v3-0324",
+                    "round": 0,
+                    "rise_prediction": 0.55,
+                    "fall_prediction": 0.45,
+                    "reasoning": "The provided news headline is a generic question about whether to buy Apple stock in 2025, without any specific positive or negative information about the company's performance, products, or market conditions. Since there is no concrete data or analysis in the news content to suggest a bullish or bearish outlook, the probabilities are based on neutral sentiment and historical market behavior. Apple Inc. is a stable, well-established company with a history of steady growth, so the probability of a rise is slightly higher than a fall, but both probabilities remain close to neutral due to the lack of actionable information in the news."
+                },
+                {
+                    "model_name": "meta-llama/llama-4-scout",
+                    "round": 0,
+                    "rise_prediction": 0.55,
+                    "fall_prediction": 0.45,
+                    "reasoning": "The news headline 'Should You Buy Apple Stock Right Now in 2025?' is neutral and does not provide specific information that would cause a significant impact on the stock price. The headline seems to be an inquiry rather than a statement of fact or a news event that could directly influence investor sentiment. As such, it's unlikely to cause a drastic change in stock price immediately. However, the nature of the question implies a consideration of Apple's stock performance, which might lean slightly towards a positive view if the context of the article suggests buying is advisable. Without specific details from the article, we assume a slight bias towards a positive impact due to the framing of the question."
+                },
+                {
+                    "model_name": "meta-llama/llama-3.3-70b-instruct",
+                    "round": 0,
+                    "rise_prediction": 0.55,
+                    "fall_prediction": 0.45,
+                    "reasoning": "The news headline 'Should You Buy Apple Stock Right Now in 2025?' is neutral and does not provide any specific positive or negative information about the company's performance or prospects. It appears to be a generic investment advice article rather than a news article about a specific event or development. As such, it is unlikely to have a significant impact on the stock price. However, the fact that the article is being written may indicate some level of interest in the stock, which could potentially lead to a slight increase in price due to increased attention and potential buying activity. Nevertheless, without more concrete information, the probabilities of the stock price rising or falling due to this news are relatively balanced, with a slight edge towards a rise due to potential increased interest."
+                },
+                {
+                    "model_name": "qwen/qwen-turbo",
+                    "round": 0,
+                    "rise_prediction": 0.1,
+                    "fall_prediction": 0.1,
+                    "reasoning": "The news headline 'Should You Buy Apple Stock Right Now in 2025?' is a general inquiry and does not provide specific details or events that would directly impact the stock price. Without additional context, such as earnings reports, product launches, or market trends, it's challenging to predict stock movements based on this headline alone. Therefore, the probability of a significant change in stock price due to this headline is low."
+                }
+            ],
+            [
+                {
+                    "model_name": "openai/gpt-4o-mini",
+                    "round": 1,
+                    "rise_prediction": 0.55,
+                    "fall_prediction": 0.45,
+                    "reasoning": "The news headline 'Should You Buy Apple Stock Right Now in 2025?' is a speculative question that does not provide concrete information about Apple's current performance or future prospects. Most previous predictions reflect a neutral stance due to the lack of specific data, with a slight inclination towards a positive outlook based on Apple's historical performance and brand strength. Given the overall sentiment and the nature of the inquiry, I estimate a slightly higher probability of the stock price rising compared to falling, but both probabilities remain close to neutral."
+                },
+                {
+                    "model_name": "google/gemini-2.0-flash-001",
+                    "round": 1,
+                    "rise_prediction": 0.53,
+                    "fall_prediction": 0.47,
+                    "reasoning": "The news headline is a generic question about buying Apple stock in 2025. It doesn't offer any concrete positive or negative information. Most previous models have assigned probabilities close to 0.5 for both rise and fall, reflecting the uncertainty. However, there's a slight tendency towards a positive outlook due to Apple's brand strength. One model (qwen/qwen-turbo) assigned very low probabilities to both rise and fall, suggesting it interprets the headline as having minimal impact. Considering the consensus and Apple's inherent stability, I'll slightly favor a rise, but not as high as some earlier models."
+                },
+                {
+                    "model_name": "google/gemini-flash-1.5",
+                    "round": 1,
+                    "rise_prediction": 0.52,
+                    "fall_prediction": 0.48,
+                    "reasoning": "The news headline is extremely vague and provides no actionable information regarding Apple's stock price.  The previous predictions show a range of opinions, mostly clustering around a neutral stance (0.5 probability for rise and fall).  One outlier prediction (qwen/qwen-turbo) assigns very low probabilities to both rise and fall, likely reflecting the lack of substantial news.  Considering the lack of concrete information in the headline and the consensus among most models, I'm assigning probabilities close to neutral.  However, given Apple's generally positive historical performance and the slight positive bias in several previous predictions, I'm giving a marginally higher probability to a price rise."
+                },
+                {
+                    "model_name": "deepseek/deepseek-chat-v3-0324",
+                    "round": 1,
+                    "rise_prediction": 0.55,
+                    "fall_prediction": 0.45,
+                    "reasoning": "The news headline 'Should You Buy Apple Stock Right Now in 2025?' is neutral and does not provide specific positive or negative information about Apple's performance or market conditions. Given the lack of concrete data or analysis in the news content, the probabilities are based on neutral sentiment and historical market behavior. Apple Inc. is a stable, well-established company with a history of steady growth, so the probability of a rise is slightly higher than a fall, but both probabilities remain close to neutral due to the lack of actionable information in the news. Considering the previous predictions, most models leaned towards a slight bias towards a positive impact, with probabilities around 0.55 for a rise and 0.45 for a fall. Therefore, I estimate a similar slight inclination towards a positive outlook."
+                },
+                {
+                    "model_name": "meta-llama/llama-4-scout",
+                    "round": 1,
+                    "rise_prediction": 0.53,
+                    "fall_prediction": 0.47,
+                    "reasoning": "The news headline 'Should You Buy Apple Stock Right Now in 2025?' is neutral and does not provide specific positive or negative information about Apple's performance or prospects. Given the lack of concrete details, the headline is unlikely to cause a significant impact on the stock price. However, considering Apple's historical performance and the nature of the question, which implies a consideration of buying the stock, there is a slight inclination towards a positive outlook. The probabilities reflect this slight bias towards a rise, while also accounting for the overall uncertainty and neutrality of the headline."
+                },
+                {
+                    "model_name": "meta-llama/llama-3.3-70b-instruct",
+                    "round": 1,
+                    "rise_prediction": 0.55,
+                    "fall_prediction": 0.45,
+                    "reasoning": "The news headline 'Should You Buy Apple Stock Right Now in 2025?' is neutral and does not provide specific information that would cause a significant impact on the stock price. The headline seems to be an inquiry rather than a statement of fact or a news event that could directly influence investor sentiment. Considering the previous predictions from various models, there is a general consensus that the probabilities of the stock price rising or falling are relatively balanced, with a slight edge towards a rise due to potential increased interest. However, the lack of concrete information in the news headline suggests that the impact on the stock price will be minimal. Therefore, I estimate the probability of the stock price rising to be slightly higher than the probability of the stock price falling, but both probabilities remain close to neutral."
+                },
+                {
+                    "model_name": "qwen/qwen-turbo",
+                    "round": 1,
+                    "rise_prediction": 0.5,
+                    "fall_prediction": 0.5,
+                    "reasoning": "The news headline 'Should You Buy Apple Stock Right Now in 2025?' is a non-specific inquiry and lacks concrete information about the company's performance, market conditions, or significant events. Previous predictions suggest a neutral stance, with probabilities ranging from 0.45 to 0.55 for a stock price rise. Given the neutral nature of the headline and the general speculation it implies, it is reasonable to keep the probabilities close to 0.5, reflecting the inherent uncertainty. However, considering Apple's strong historical performance and brand resilience, a slight lean towards a positive outlook is warranted."
+                }
+            ],
+            [
+                {
+                    "model_name": "openai/gpt-4o-mini",
+                    "round": 2,
+                    "rise_prediction": 0.54,
+                    "fall_prediction": 0.46,
+                    "reasoning": "The news headline 'Should You Buy Apple Stock Right Now in 2025?' is speculative and lacks concrete information about Apple's current performance or future prospects. Most previous predictions reflect a neutral stance due to the absence of specific data, with a slight inclination towards a positive outlook based on Apple's historical performance and brand strength. Given the overall sentiment and the nature of the inquiry, I estimate a slightly higher probability of the stock price rising compared to falling, but both probabilities remain close to neutral."
+                },
+                {
+                    "model_name": "google/gemini-2.0-flash-001",
+                    "round": 2,
+                    "rise_prediction": 0.53,
+                    "fall_prediction": 0.47,
+                    "reasoning": "The news headline is a generic question about whether to buy Apple stock in 2025, offering no specific positive or negative information. Previous predictions largely reflect this neutrality, clustering around 0.5 for both rise and fall. While some models lean slightly towards a positive outlook due to Apple's brand strength and historical performance, the lack of concrete information warrants a cautious approach. The outlier prediction from qwen/qwen-turbo in Round 0, assigning very low probabilities, highlights the minimal impact such a headline is likely to have. Considering the consensus and the inherent uncertainty, I'll maintain a near-neutral stance, with a very slight bias towards a rise, acknowledging Apple's general stability."
+                },
+                {
+                    "model_name": "google/gemini-flash-1.5",
+                    "round": 2,
+                    "rise_prediction": 0.53,
+                    "fall_prediction": 0.47,
+                    "reasoning": "The news headline is extremely vague and provides no actionable information to predict Apple's stock price movement.  The headline itself is essentially clickbait, offering no insights into Apple's financial health, future prospects, or market conditions.  The previous predictions show a range of opinions, mostly clustering around 0.5 for both rise and fall, reflecting the inherent uncertainty.  While some models lean slightly towards a rise (0.53-0.55) due to Apple's historical strength and brand recognition, this is not a strong basis for prediction given the lack of substantial news.  The initial outlier prediction of very low probabilities (0.1) by qwen/qwen-turbo is likely due to its interpretation of the headline's minimal impact.  Considering the consensus and the lack of concrete information, I'm assigning probabilities close to neutral, slightly favoring a rise due to Apple's generally positive historical performance, but acknowledging the significant uncertainty."
+                },
+                {
+                    "model_name": "deepseek/deepseek-chat-v3-0324",
+                    "round": 2,
+                    "rise_prediction": 0.52,
+                    "fall_prediction": 0.48,
+                    "reasoning": "The news headline 'Should You Buy Apple Stock Right Now in 2025?' is neutral and lacks specific information about Apple's financial performance, future prospects, or market conditions. Previous predictions from various models reflect a neutral stance, with most assigning probabilities close to 0.5 for both a rise and a fall. Some models gave a slight edge to a rise, citing Apple's strong brand and historical performance, while others maintained neutrality due to the lack of actionable information. Given the absence of concrete data and the speculative nature of the headline, the probabilities of the stock price rising or falling remain balanced, with a slight inclination towards a rise due to Apple's generally positive market perception."
+                },
+                {
+                    "model_name": "meta-llama/llama-4-scout",
+                    "round": 2,
+                    "rise_prediction": 0.54,
+                    "fall_prediction": 0.46,
+                    "reasoning": "The news headline 'Should You Buy Apple Stock Right Now in 2025?' is neutral and does not provide specific positive or negative information about Apple's performance or prospects. Most previous predictions reflect a neutral stance due to the lack of specific data, with a slight inclination towards a positive outlook based on Apple's historical performance and brand strength. Considering the consensus and Apple's inherent stability, I slightly favor a rise in stock price but keep the probabilities close to neutral."
+                },
+                {
+                    "model_name": "meta-llama/llama-3.3-70b-instruct",
+                    "round": 2,
+                    "rise_prediction": 0.53,
+                    "fall_prediction": 0.47,
+                    "reasoning": "The news headline 'Should You Buy Apple Stock Right Now in 2025?' is neutral and does not provide specific positive or negative information about Apple's performance or prospects. Considering the lack of concrete details and the speculative nature of the question, the impact on the stock price is uncertain. However, given Apple's strong brand and historical performance, there is a slight inclination towards a positive outlook. Analyzing the previous predictions from various models, there is a general consensus that the probabilities of the stock price rising or falling are relatively balanced, with a slight edge towards a rise due to potential increased interest. Therefore, I estimate the probability of the stock price rising to be slightly higher than the probability of the stock price falling, but both probabilities remain close to neutral."
+                },
+                {
+                    "model_name": "qwen/qwen-turbo",
+                    "round": 2,
+                    "rise_prediction": 0.52,
+                    "fall_prediction": 0.48,
+                    "reasoning": "The financial news headline 'Should You Buy Apple Stock Right Now in 2025?' is non-specific and speculative, lacking concrete information about the company's performance or current events. Previous predictions from various models have shown a slight inclination towards a positive outlook, likely due to Apple's historically strong brand and performance. However, the majority of these predictions have remained neutral, with probabilities clustering around 0.5. Given the neutral nature of the headline and the strong historical performance, it is prudent to assign probabilities close to neutral but slightly favoring a rise due to Apple's established stability."
+                }
+            ],
+            [
+                {
+                    "model_name": "openai/gpt-4o-mini",
+                    "round": 3,
+                    "rise_prediction": 0.54,
+                    "fall_prediction": 0.46,
+                    "reasoning": "The news headline 'Should You Buy Apple Stock Right Now in 2025?' is speculative and lacks concrete information about Apple's current performance or future prospects. Most previous predictions reflect a neutral stance due to the absence of specific data, with a slight inclination towards a positive outlook based on Apple's historical performance and brand strength. Given the overall sentiment and the nature of the inquiry, I estimate a slightly higher probability of the stock price rising compared to falling, but both probabilities remain close to neutral."
+                },
+                {
+                    "model_name": "google/gemini-2.0-flash-001",
+                    "round": 3,
+                    "rise_prediction": 0.53,
+                    "fall_prediction": 0.47,
+                    "reasoning": "The news headline is a generic question about buying Apple stock in 2025 and provides no specific positive or negative information. Previous predictions consistently reflect this neutrality, clustering around 0.5 for both rise and fall, with a slight bias towards a rise due to Apple's brand strength and historical performance. The outlier prediction from qwen/qwen-turbo in Round 0, assigning very low probabilities, highlights the minimal impact such a headline is likely to have. Considering the consensus and the inherent uncertainty, I'll maintain a near-neutral stance, with a slight bias towards a rise, acknowledging Apple's general stability. The trend in previous rounds shows a slight convergence towards a more neutral stance, but still with a slight positive bias."
+                },
+                {
+                    "model_name": "google/gemini-flash-1.5",
+                    "round": 3,
+                    "rise_prediction": 0.53,
+                    "fall_prediction": 0.47,
+                    "reasoning": "The news headline is entirely speculative and provides no new information about Apple's financial health or future prospects.  The headline itself is unlikely to directly impact the stock price.  The previous predictions show a convergence towards a slightly positive outlook, primarily due to Apple's generally strong historical performance and brand reputation. However, the lack of concrete news warrants a cautious approach.  The initial wide range of predictions (from 0.1 to 0.55) has narrowed over rounds, suggesting a consensus forming around a near-neutral position with a slight bias towards a price increase.  This reflects the inherent uncertainty associated with the headline's lack of substance, while acknowledging Apple's generally positive long-term trajectory."
+                },
+                {
+                    "model_name": "deepseek/deepseek-chat-v3-0324",
+                    "round": 3,
+                    "rise_prediction": 0.53,
+                    "fall_prediction": 0.47,
+                    "reasoning": "The news headline 'Should You Buy Apple Stock Right Now in 2025?' is neutral and speculative, lacking concrete information about Apple's current performance or future prospects. Previous predictions from various models reflect a neutral stance, with most assigning probabilities close to 0.5 for both a rise and a fall. Some models gave a slight edge to a rise, citing Apple's strong brand and historical performance, while others maintained neutrality due to the lack of actionable information. Given the absence of concrete data and the speculative nature of the headline, the probabilities of the stock price rising or falling remain balanced, with a slight inclination towards a rise due to Apple's generally positive market perception."
+                },
+                {
+                    "model_name": "meta-llama/llama-4-scout",
+                    "round": 3,
+                    "rise_prediction": 0.53,
+                    "fall_prediction": 0.47,
+                    "reasoning": "The news headline 'Should You Buy Apple Stock Right Now in 2025?' is neutral and lacks specific positive or negative information about Apple's performance or prospects. Most previous predictions reflect a neutral stance due to the lack of specific data, with a slight inclination towards a positive outlook based on Apple's historical performance and brand strength. Given the overall sentiment and the nature of the inquiry, I estimate a slightly higher probability of the stock price rising compared to falling, but both probabilities remain close to neutral."
+                },
+                {
+                    "model_name": "meta-llama/llama-3.3-70b-instruct",
+                    "round": 3,
+                    "rise_prediction": 0.53,
+                    "fall_prediction": 0.47,
+                    "reasoning": "The news headline 'Should You Buy Apple Stock Right Now in 2025?' is neutral and does not provide specific positive or negative information about Apple's performance or prospects. Analyzing the previous predictions from various models, there is a general consensus that the probabilities of the stock price rising or falling are relatively balanced, with a slight edge towards a rise due to Apple's strong brand, historical performance, and potential increased interest. Given the lack of concrete information and the speculative nature of the headline, I estimate the probability of the stock price rising to be slightly higher than the probability of the stock price falling, but both probabilities remain close to neutral."
+                },
+                {
+                    "model_name": "qwen/qwen-turbo",
+                    "round": 3,
+                    "rise_prediction": 0.53,
+                    "fall_prediction": 0.47,
+                    "reasoning": "The financial news headline 'Should You Buy Apple Stock Right Now in 2025?' is non-specific and speculative, lacking concrete information about the company's performance or current events. Previous predictions from various models have shown a slight inclination towards a positive outlook, likely due to Apple's historically strong brand and performance. However, the majority of these predictions have remained neutral, with probabilities clustering around 0.5. Given the neutral nature of the headline and the strong historical performance, it is prudent to assign probabilities close to neutral but slightly favoring a rise due to Apple's established stability."
+                }
+            ],
+            [
+                {
+                    "model_name": "openai/gpt-4o-mini",
+                    "round": 4,
+                    "rise_prediction": 0.53,
+                    "fall_prediction": 0.47,
+                    "reasoning": "The news headline 'Should You Buy Apple Stock Right Now in 2025?' is speculative and lacks concrete information about Apple's current performance or future prospects. Most previous predictions reflect a neutral stance due to the absence of specific data, with a slight inclination towards a positive outlook based on Apple's historical performance and brand strength. Given the overall sentiment and the nature of the inquiry, I estimate a slightly higher probability of the stock price rising compared to falling, but both probabilities remain close to neutral."
+                },
+                {
+                    "model_name": "google/gemini-2.0-flash-001",
+                    "round": 4,
+                    "rise_prediction": 0.53,
+                    "fall_prediction": 0.47,
+                    "reasoning": "The news headline is a generic question and provides no specific information about Apple's performance. Previous predictions have consistently hovered around a neutral stance, with a slight bias towards a rise due to Apple's brand strength and historical performance. The trend shows a convergence towards this slightly positive outlook. Therefore, I will maintain a similar stance, slightly favoring a rise."
+                },
+                {
+                    "model_name": "google/gemini-flash-1.5",
+                    "round": 4,
+                    "rise_prediction": 0.53,
+                    "fall_prediction": 0.47,
+                    "reasoning": "The news headline is entirely speculative and provides no new information about Apple's financial health or future prospects.  The headline itself is unlikely to directly impact the stock price. The previous predictions from multiple models show a convergence towards a slightly positive outlook (around 0.53 probability of a rise), primarily due to Apple's generally strong historical performance and brand reputation. However, the lack of concrete news warrants a cautious approach. The initial wide range of predictions has narrowed over rounds, suggesting a consensus forming around a near-neutral position with a slight bias towards a price increase. This reflects the inherent uncertainty associated with the headline's lack of substance, while acknowledging Apple's generally positive long-term trajectory.  My prediction reflects this consensus, slightly favoring a rise but acknowledging the significant uncertainty inherent in the lack of concrete information."
+                },
+                {
+                    "model_name": "deepseek/deepseek-chat-v3-0324",
+                    "round": 4,
+                    "rise_prediction": 0.53,
+                    "fall_prediction": 0.47,
+                    "reasoning": "The news headline 'Should You Buy Apple Stock Right Now in 2025?' is speculative and lacks concrete information about Apple's current performance or future prospects. Previous predictions from various models reflect a neutral stance, with most assigning probabilities close to 0.5 for both a rise and a fall. Some models gave a slight edge to a rise, citing Apple's strong brand and historical performance, while others maintained neutrality due to the lack of actionable information. Given the absence of concrete data and the speculative nature of the headline, the probabilities of the stock price rising or falling remain balanced, with a slight inclination towards a rise due to Apple's generally positive market perception."
+                },
+                {
+                    "model_name": "meta-llama/llama-4-scout",
+                    "round": 4,
+                    "rise_prediction": 0.53,
+                    "fall_prediction": 0.47,
+                    "reasoning": "The news headline 'Should You Buy Apple Stock Right Now in 2025?' is speculative and lacks concrete information about Apple's current performance or future prospects. Most previous predictions reflect a neutral stance due to the absence of specific data, with a slight inclination towards a positive outlook based on Apple's historical performance and brand strength. Given the overall sentiment and the nature of the inquiry, I estimate a slightly higher probability of the stock price rising compared to falling, but both probabilities remain close to neutral."
+                },
+                {
+                    "model_name": "meta-llama/llama-3.3-70b-instruct",
+                    "round": 4,
+                    "rise_prediction": 0.53,
+                    "fall_prediction": 0.47,
+                    "reasoning": "The news headline 'Should You Buy Apple Stock Right Now in 2025?' is speculative and lacks concrete information about Apple's current performance or future prospects. Given the overall neutral stance of previous predictions, with a slight inclination towards a positive outlook based on Apple's historical performance and brand strength, I estimate a slightly higher probability of the stock price rising compared to falling. However, both probabilities remain close to neutral due to the lack of actionable information in the news."
+                },
+                {
+                    "model_name": "qwen/qwen-turbo",
+                    "round": 4,
+                    "rise_prediction": -1,
+                    "fall_prediction": -1,
+                    "reasoning": "Fail to give a prediction. Error Reason: Parse error"
+                }
+            ]
+        ]
+    },
+    {
+        "company_symbol": "AAPL",
+        "company_name": "Apple Inc.",
+        "news_id": 334,
+        "headline": "2 Artificial Intelligence (AI) Stocks to Buy Before They Soar to $4 Trillion in 2025, According to a Wall Street Analyst",
+        "content": "2 Artificial Intelligence (AI) Stocks to Buy Before They Soar to $4 Trillion in 2025, According to a Wall Street Analyst",
+        "predictions": [
+            [
+                {
+                    "model_name": "openai/gpt-4o-mini",
+                    "round": 0,
+                    "rise_prediction": 0.45,
+                    "fall_prediction": 0.3,
+                    "reasoning": "The news headline discusses two AI stocks that are expected to soar, but it does not specifically mention Apple Inc. (AAPL) as one of those stocks. While Apple is heavily involved in AI technology, the focus on other stocks may divert investor attention. Therefore, the impact on AAPL's stock price is likely to be neutral to slightly negative, as investors may shift their focus to the highlighted stocks. However, given Apple's strong market position and ongoing investments in AI, there is still a reasonable chance for the stock to rise. Thus, the probabilities reflect a higher likelihood of stability or a slight rise rather than a significant fall."
+                },
+                {
+                    "model_name": "google/gemini-2.0-flash-001",
+                    "round": 0,
+                    "rise_prediction": 0.55,
+                    "fall_prediction": 0.45,
+                    "reasoning": "The news headline suggests a positive outlook for AI stocks, with a Wall Street analyst predicting significant growth. While Apple is involved in AI, the headline doesn't explicitly mention Apple as one of the two stocks poised for this specific growth. Therefore, the impact on Apple's stock price is likely to be moderate. The positive sentiment surrounding AI could create a slight upward pressure, but it's not a direct endorsement of Apple's AI capabilities or stock. The lack of direct mention and the general nature of the AI sector boost temper the potential impact. Also, the $4 Trillion target is for the sector, not necessarily for Apple itself."
+                },
+                {
+                    "model_name": "google/gemini-flash-1.5",
+                    "round": 0,
+                    "rise_prediction": 0.5,
+                    "fall_prediction": 0.5,
+                    "reasoning": "The news headline mentions two AI stocks predicted to reach a combined $4 trillion valuation by 2025.  Apple (AAPL) is not one of the mentioned companies. Therefore, this news is irrelevant to Apple's stock price.  Any price movement in AAPL would be unrelated to this specific news and would be driven by other market factors. We assume a neutral market reaction."
+                },
+                {
+                    "model_name": "deepseek/deepseek-chat-v3-0324",
+                    "round": 0,
+                    "rise_prediction": 0.7,
+                    "fall_prediction": 0.3,
+                    "reasoning": "The news headline suggests a bullish outlook for Apple Inc. (AAPL) as an AI stock with potential to reach a $4 trillion valuation by 2025, according to a Wall Street analyst. Such optimistic projections, especially from credible sources, often lead to increased investor confidence and buying activity, which can drive the stock price higher in the short to medium term. However, the actual impact depends on market sentiment, broader economic conditions, and the company's ability to meet these high expectations. Given the positive tone of the news, the probability of a stock price rise is higher than a fall, but it is not guaranteed due to potential over-optimism or external factors."
+                },
+                {
+                    "model_name": "meta-llama/llama-4-scout",
+                    "round": 0,
+                    "rise_prediction": 0.6,
+                    "fall_prediction": 0.4,
+                    "reasoning": "The news headline suggests that Apple Inc. (AAPL) is expected to soar to a $4 trillion valuation by 2025, according to a Wall Street analyst, due to its involvement in Artificial Intelligence (AI). This positive forecast could lead to increased investor confidence and, subsequently, a rise in the stock price. However, it's essential to note that the news does not provide specific, new information about Apple's current financial performance or recent developments that directly impact its stock price. The prediction of a significant increase in valuation is based on future expectations and the company's potential in AI, which can be subject to various market and economic factors. Therefore, while the news is optimistic, the actual impact on the stock price will depend on how investors perceive and react to this information, considering both the potential for growth and the current market conditions."
+                },
+                {
+                    "model_name": "meta-llama/llama-3.3-70b-instruct",
+                    "round": 0,
+                    "rise_prediction": 0.8,
+                    "fall_prediction": 0.2,
+                    "reasoning": "The news headline suggests that a Wall Street analyst is predicting significant growth in the Artificial Intelligence (AI) sector, specifically mentioning that AI stocks could soar to $4 trillion in 2025. As Apple Inc. (AAPL) is a major player in the technology industry and has been investing in AI research and development, this prediction could positively impact the company's stock price. The mention of AI stocks soaring implies a bullish outlook, which could lead to increased investor interest and confidence in Apple's future prospects. Therefore, the probability of the stock price rising is higher than the probability of it falling."
+                },
+                {
+                    "model_name": "qwen/qwen-turbo",
+                    "round": 0,
+                    "rise_prediction": 0.1,
+                    "fall_prediction": 0.1,
+                    "reasoning": "The news headline mentions two specific AI stocks that are expected to perform well, but it does not specify Apple Inc. (AAPL). Since there is no direct mention of Apple Inc., it's likely that the news may have an indirect impact or no impact at all on the stock price of Apple Inc. Therefore, the probability of the stock price of Apple Inc. rising or falling due to this news is minimal."
+                }
+            ],
+            [
+                {
+                    "model_name": "openai/gpt-4o-mini",
+                    "round": 1,
+                    "rise_prediction": 0.55,
+                    "fall_prediction": 0.45,
+                    "reasoning": "The news headline discusses a bullish outlook for AI stocks, predicting significant growth in the sector. While Apple Inc. (AAPL) is not explicitly mentioned as one of the two stocks to buy, it is a major player in the AI space. The positive sentiment surrounding AI could lead to increased investor confidence in Apple, even if it is not directly highlighted. The previous predictions show a range of probabilities, with some indicating a strong belief in Apple's potential due to its involvement in AI. However, the lack of direct mention in the news tempers the overall impact. Therefore, I estimate a moderate probability of the stock price rising, reflecting both the positive sentiment in the AI sector and the uncertainty due to the lack of direct mention of Apple."
+                },
+                {
+                    "model_name": "google/gemini-2.0-flash-001",
+                    "round": 1,
+                    "rise_prediction": 0.6,
+                    "fall_prediction": 0.4,
+                    "reasoning": "The news headline focuses on two AI stocks expected to soar, without explicitly mentioning Apple. While Apple is involved in AI, the lack of direct mention suggests a limited direct impact. However, the overall positive sentiment surrounding AI could create a slight upward pressure on Apple's stock. The previous rounds show a wide range of predictions, with some models interpreting the news as highly positive for Apple and others as irrelevant. The trend seems to be towards a more moderate positive impact, considering Apple's general involvement in AI. Given the mixed signals and the lack of direct endorsement, I'll adjust the probabilities to reflect a slightly positive outlook, but not as strong as some earlier predictions suggested."
+                },
+                {
+                    "model_name": "google/gemini-flash-1.5",
+                    "round": 1,
+                    "rise_prediction": 0.48,
+                    "fall_prediction": 0.48,
+                    "reasoning": "The news headline focuses on two unnamed AI stocks projected to reach a combined $4 trillion valuation by 2025.  Apple is not explicitly mentioned. While Apple is involved in AI, this news is indirect and unlikely to significantly impact its stock price.  The previous predictions show a range of opinions, with some models assigning a higher probability of a price rise due to general positive sentiment towards AI, while others see the news as irrelevant.  Considering the lack of direct relevance and the diverse opinions, a neutral stance is most appropriate.  The slight upward bias in some previous predictions might reflect general market optimism about AI, rather than a specific impact from this news piece. Therefore, the probabilities are weighted towards a neutral outcome."
+                },
+                {
+                    "model_name": "deepseek/deepseek-chat-v3-0324",
+                    "round": 1,
+                    "rise_prediction": 0.5,
+                    "fall_prediction": 0.3,
+                    "reasoning": "The news headline discusses two AI stocks expected to soar to a $4 trillion valuation by 2025, but it does not explicitly mention Apple Inc. (AAPL). While Apple is a significant player in AI, the lack of direct mention suggests the news may have a neutral or minimal impact on its stock price. Previous predictions vary, with some models suggesting a positive impact due to Apple's AI involvement, while others see no direct relevance. Considering the mixed signals and the absence of specific positive or negative information about Apple in the news, the probabilities are balanced with a slight tilt towards stability or a minor rise due to general AI sector optimism."
+                },
+                {
+                    "model_name": "meta-llama/llama-4-scout",
+                    "round": 1,
+                    "rise_prediction": 0.58,
+                    "fall_prediction": 0.42,
+                    "reasoning": "The news headline discusses two AI stocks expected to soar to $4 trillion in 2025, but it does not specifically mention Apple Inc. (AAPL). Despite Apple's significant involvement in AI, the lack of direct mention may lead to a neutral to slightly negative impact on AAPL's stock price as investors might focus on the highlighted stocks. However, considering Apple's strong market position and ongoing AI investments, there's still a reasonable chance for the stock to rise. The overall sentiment from various models suggests a moderate to high probability of the stock price rising, with an average leaning towards a positive impact."
+                },
+                {
+                    "model_name": "meta-llama/llama-3.3-70b-instruct",
+                    "round": 1,
+                    "rise_prediction": 0.58,
+                    "fall_prediction": 0.42,
+                    "reasoning": "The news headline discusses the potential growth of AI stocks, with a Wall Street analyst predicting a significant increase in valuation to $4 trillion by 2025. However, Apple Inc. (AAPL) is not explicitly mentioned as one of the two stocks expected to soar. Considering the previous predictions, there is a range of opinions on the potential impact of this news on Apple's stock price. Some models predict a higher probability of the stock price rising due to the positive outlook for the AI sector, while others suggest a more neutral or minimal impact due to the lack of direct mention of Apple. Taking into account the indirect relationship between the news and Apple's stock, as well as the varied predictions from other models, I estimate that the probability of the stock price rising is slightly higher than the probability of it falling. This is because the positive sentiment surrounding AI could create a slight upward pressure on Apple's stock, despite the lack of direct endorsement."
+                },
+                {
+                    "model_name": "qwen/qwen-turbo",
+                    "round": 1,
+                    "rise_prediction": 0.5,
+                    "fall_prediction": 0.3,
+                    "reasoning": "The financial news highlights the potential for significant growth in the AI sector, with an expected valuation of $4 trillion by 2025. Although Apple Inc. (AAPL) is not explicitly mentioned as one of the two AI stocks, its strong involvement in AI technologies makes it a key player in this sector. The overall positive sentiment towards AI stocks could positively influence investor perceptions of Apple, leading to increased confidence and potentially driving the stock price upward. However, the lack of explicit mention of Apple means that the impact might not be as substantial as if the company was directly referenced. Considering the mixed signals from previous predictions, the probability of a stock price rise is moderate, but there is still a chance that market dynamics and other factors could result in a slight decline."
+                }
+            ],
+            [
+                {
+                    "model_name": "openai/gpt-4o-mini",
+                    "round": 2,
+                    "rise_prediction": 0.55,
+                    "fall_prediction": 0.45,
+                    "reasoning": "The news headline discusses a bullish outlook for AI stocks, predicting significant growth in the sector, but does not explicitly mention Apple Inc. (AAPL). While Apple is a major player in AI, the lack of direct mention may temper the immediate impact on its stock price. However, the overall positive sentiment surrounding AI could create upward pressure on Apple's stock, as investors may still associate the company's future potential with the growth of the AI sector. Previous predictions show a range of probabilities, with some indicating a strong belief in Apple's potential due to its involvement in AI, while others see the news as less relevant. Considering these factors, I estimate a moderate probability of the stock price rising, reflecting both the positive sentiment in the AI sector and the uncertainty due to the lack of direct mention of Apple."
+                },
+                {
+                    "model_name": "google/gemini-2.0-flash-001",
+                    "round": 2,
+                    "rise_prediction": 0.62,
+                    "fall_prediction": 0.38,
+                    "reasoning": "The news headline focuses on the potential of AI stocks, predicting a significant rise for two unnamed companies. Apple, while a major player in AI, isn't directly mentioned. Previous predictions vary widely, reflecting the ambiguity of the news's impact on Apple. Some models initially leaned towards a positive impact due to general AI optimism, while others considered the news irrelevant. The trend in Round 1 shows a convergence towards a more neutral stance, acknowledging Apple's AI involvement but tempering expectations due to the lack of direct mention. Considering this, I'll assign a slightly positive probability, reflecting the general AI tailwind but acknowledging the indirect nature of the news. I am also considering the fact that some models may have other information about the stock price, and a high prediction may indicate that they have some positive information about the stock, while a low prediction may indicate that they have some megative information about the stock. The average prediction of stock price rising is around 0.55, so I will adjust my prediction to be slightly higher than that."
+                },
+                {
+                    "model_name": "google/gemini-flash-1.5",
+                    "round": 2,
+                    "rise_prediction": 0.55,
+                    "fall_prediction": 0.45,
+                    "reasoning": "The news headline focuses on two unnamed AI stocks predicted for massive growth, omitting Apple.  While Apple is a significant player in AI, the lack of direct mention suggests limited direct impact.  The previous predictions show a wide range, reflecting uncertainty.  Early predictions leaned more positive, possibly due to general AI optimism, but later rounds show a convergence towards a more neutral stance.  The positive sentiment surrounding AI might create some upward pressure, but the absence of specific news about Apple weakens this effect.  Considering the indirect relationship and the consensus shift towards neutrality, a slightly positive but moderate probability of a price rise is most appropriate, acknowledging the potential for other market factors to influence the stock price."
+                },
+                {
+                    "model_name": "deepseek/deepseek-chat-v3-0324",
+                    "round": 2,
+                    "rise_prediction": 0.55,
+                    "fall_prediction": 0.45,
+                    "reasoning": "The news headline discusses the potential growth of AI stocks, with a Wall Street analyst predicting a significant increase in valuation to $4 trillion by 2025. However, Apple Inc. (AAPL) is not explicitly mentioned as one of the two stocks expected to soar. Given Apple's strong involvement in AI and its market position, the positive sentiment around AI could indirectly benefit AAPL, though the lack of direct mention limits the impact. Previous predictions show a range of opinions, with some models suggesting a moderate to high probability of a rise due to sector optimism, while others see minimal impact. Balancing these factors, the probability of a stock price rise is slightly higher than a fall, reflecting the indirect positive influence of the news."
+                },
+                {
+                    "model_name": "meta-llama/llama-4-scout",
+                    "round": 2,
+                    "rise_prediction": 0.52,
+                    "fall_prediction": 0.48,
+                    "reasoning": "The news headline discusses two AI stocks expected to soar to $4 trillion in 2025, but it does not specifically mention Apple Inc. (AAPL). Despite this, Apple is a major player in the AI space. The positive sentiment surrounding AI could lead to increased investor confidence in Apple, even if it is not directly highlighted. Previous predictions show a range of probabilities, with some indicating a strong belief in Apple's potential due to its involvement in AI, while others see the news as irrelevant or slightly negative due to the lack of direct mention. Considering the mixed signals and the indirect relationship between the news and Apple's stock, I estimate a moderate probability of the stock price rising, reflecting both the positive sentiment in the AI sector and the uncertainty due to the lack of direct mention of Apple."
+                },
+                {
+                    "model_name": "meta-llama/llama-3.3-70b-instruct",
+                    "round": 2,
+                    "rise_prediction": 0.57,
+                    "fall_prediction": 0.43,
+                    "reasoning": "The news headline discusses the potential growth of AI stocks, with a Wall Street analyst predicting a significant increase in valuation to $4 trillion by 2025. Although Apple Inc. (AAPL) is not explicitly mentioned as one of the two stocks expected to soar, its strong involvement in AI technologies makes it a key player in this sector. Considering the previous predictions from various models, there is a range of opinions on the potential impact of this news on Apple's stock price. Some models predict a higher probability of the stock price rising due to the positive outlook for the AI sector, while others suggest a more neutral or minimal impact due to the lack of direct mention of Apple. Taking into account the indirect relationship between the news and Apple's stock, as well as the varied predictions from other models, I estimate that the probability of the stock price rising is slightly higher than the probability of it falling. This is because the positive sentiment surrounding AI could create a slight upward pressure on Apple's stock, despite the lack of direct endorsement."
+                },
+                {
+                    "model_name": "qwen/qwen-turbo",
+                    "round": 2,
+                    "rise_prediction": 0.55,
+                    "fall_prediction": 0.45,
+                    "reasoning": "The financial news highlights the potential for significant growth in the AI sector, with an expected valuation of $4 trillion by 2025. Although Apple Inc. (AAPL) is not explicitly mentioned as one of the two AI stocks, its strong involvement in AI technologies makes it a key player in this sector. The overall positive sentiment towards AI stocks could positively influence investor perceptions of Apple, leading to increased confidence and potentially driving the stock price upward. However, the lack of explicit mention of Apple means that the impact might not be as substantial as if the company was directly referenced. Considering the mixed signals from previous predictions, the probability of a stock price rise is moderate, but there is still a chance that market dynamics and other factors could result in a slight decline."
+                }
+            ],
+            [
+                {
+                    "model_name": "openai/gpt-4o-mini",
+                    "round": 3,
+                    "rise_prediction": 0.55,
+                    "fall_prediction": 0.45,
+                    "reasoning": "The news headline discusses a bullish outlook for AI stocks, predicting significant growth in the sector, but does not explicitly mention Apple Inc. (AAPL). While Apple is a major player in AI, the lack of direct mention may temper the immediate impact on its stock price. However, the overall positive sentiment surrounding AI could create upward pressure on Apple's stock, as investors may still associate the company's future potential with the growth of the AI sector. Previous predictions show a range of probabilities, with some indicating a strong belief in Apple's potential due to its involvement in AI, while others see the news as less relevant. Considering these factors, I estimate a moderate probability of the stock price rising, reflecting both the positive sentiment in the AI sector and the uncertainty due to the lack of direct mention of Apple."
+                },
+                {
+                    "model_name": "google/gemini-2.0-flash-001",
+                    "round": 3,
+                    "rise_prediction": 0.6,
+                    "fall_prediction": 0.4,
+                    "reasoning": "The news headline discusses the potential growth of AI stocks, predicting a significant increase in valuation to $4 trillion by 2025. However, Apple Inc. (AAPL) is not explicitly mentioned as one of the two stocks expected to soar. While Apple is a major player in AI, the lack of direct mention may temper the immediate impact on its stock price. However, the overall positive sentiment surrounding AI could create upward pressure on Apple's stock, as investors may still associate the company's future potential with the growth of the AI sector. Previous predictions show a range of probabilities, with some indicating a strong belief in Apple's potential due to its involvement in AI, while others see the news as less relevant. The trend in previous rounds shows a convergence towards a slightly positive stance. Considering these factors, I estimate a moderate probability of the stock price rising, reflecting both the positive sentiment in the AI sector and the uncertainty due to the lack of direct mention of Apple. I am also considering the fact that some models may have other information about the stock price, and a high prediction may indicate that they have some positive information about the stock, while a low prediction may indicate that they have some negative information about the stock. The average prediction of stock price rising is around 0.55, so I will adjust my prediction to be slightly higher than that."
+                },
+                {
+                    "model_name": "google/gemini-flash-1.5",
+                    "round": 3,
+                    "rise_prediction": 0.56,
+                    "fall_prediction": 0.44,
+                    "reasoning": "The news headline focuses on the projected growth of two unnamed AI stocks, not mentioning Apple directly.  While Apple is a significant player in AI, the lack of direct mention suggests a limited direct impact on its stock price.  The initial predictions varied widely, reflecting the ambiguity of the news's relevance to Apple.  However, a trend emerged across rounds, converging towards a more neutral stance.  The positive sentiment surrounding AI might create some upward pressure on Apple, but this effect is tempered by the absence of specific news about Apple itself.  Considering the indirect relationship, the consensus shift towards neutrality, and the possibility that some models possess additional information influencing their predictions, a probability slightly above neutral for a price rise is most appropriate.  The probabilities reflect the balance between general AI optimism and the lack of direct Apple-specific news."
+                },
+                {
+                    "model_name": "deepseek/deepseek-chat-v3-0324",
+                    "round": 3,
+                    "rise_prediction": 0.55,
+                    "fall_prediction": 0.45,
+                    "reasoning": "The news headline discusses the potential growth of AI stocks, with a Wall Street analyst predicting a significant increase in valuation to $4 trillion by 2025. However, Apple Inc. (AAPL) is not explicitly mentioned as one of the two stocks expected to soar. Given Apple's strong involvement in AI and its market position, the positive sentiment around AI could indirectly benefit AAPL, though the lack of direct mention limits the impact. Previous predictions show a range of opinions, with some models suggesting a moderate to high probability of a rise due to sector optimism, while others see minimal impact. Balancing these factors, the probability of a stock price rise is slightly higher than a fall, reflecting the indirect positive influence of the news."
+                },
+                {
+                    "model_name": "meta-llama/llama-4-scout",
+                    "round": 3,
+                    "rise_prediction": 0.52,
+                    "fall_prediction": 0.48,
+                    "reasoning": "The news headline discusses two AI stocks expected to soar to $4 trillion in 2025, but it does not specifically mention Apple Inc. (AAPL) as one of those stocks. Despite the lack of direct mention, Apple is a major player in the AI sector and has been investing heavily in AI technologies. The positive sentiment surrounding AI could lead to increased investor confidence in Apple, even if it is not directly highlighted. Previous predictions show a range of probabilities, with some indicating a strong belief in Apple's potential due to its involvement in AI, while others see the news as less relevant or slightly negative due to the lack of direct mention. Considering the indirect relationship between the news and Apple's stock, as well as the varied predictions from other models, I estimate that the probability of the stock price rising is slightly higher than the probability of it falling, reflecting both the positive sentiment in the AI sector and the uncertainty due to the lack of direct mention of Apple."
+                },
+                {
+                    "model_name": "meta-llama/llama-3.3-70b-instruct",
+                    "round": 3,
+                    "rise_prediction": 0.57,
+                    "fall_prediction": 0.43,
+                    "reasoning": "The news headline discusses a bullish outlook for AI stocks, predicting significant growth in the sector, but does not explicitly mention Apple Inc. (AAPL). While Apple is a major player in AI, the lack of direct mention may temper the immediate impact on its stock price. However, the overall positive sentiment surrounding AI could create upward pressure on Apple's stock, as investors may still associate the company's future potential with the growth of the AI sector. Considering the mixed signals from previous predictions and the indirect relationship between the news and Apple's stock, I estimate a moderate probability of the stock price rising, reflecting both the positive sentiment in the AI sector and the uncertainty due to the lack of direct mention of Apple. The average prediction of stock price rising from other models is around 0.55, and considering the trend of others' beliefs and the potential for other market factors to influence the stock price, I will adjust my prediction to be slightly higher than that."
+                },
+                {
+                    "model_name": "qwen/qwen-turbo",
+                    "round": 3,
+                    "rise_prediction": 0.55,
+                    "fall_prediction": 0.45,
+                    "reasoning": "The financial news highlights the potential for significant growth in the AI sector, with an expected valuation of $4 trillion by 2025. Although Apple Inc. (AAPL) is not explicitly mentioned as one of the two AI stocks, its strong involvement in AI technologies makes it a key player in this sector. The overall positive sentiment towards AI stocks could positively influence investor perceptions of Apple, leading to increased confidence and potentially driving the stock price upward. However, the lack of explicit mention of Apple means that the impact might not be as substantial as if the company was directly referenced. Considering the mixed signals from previous predictions, the probability of a stock price rise is moderate, but there is still a chance that market dynamics and other factors could result in a slight decline."
+                }
+            ],
+            [
+                {
+                    "model_name": "openai/gpt-4o-mini",
+                    "round": 4,
+                    "rise_prediction": 0.55,
+                    "fall_prediction": 0.45,
+                    "reasoning": "The news headline discusses a bullish outlook for AI stocks, predicting significant growth in the sector, but does not explicitly mention Apple Inc. (AAPL). While Apple is a major player in AI, the lack of direct mention may temper the immediate impact on its stock price. However, the overall positive sentiment surrounding AI could create upward pressure on Apple's stock, as investors may still associate the company's future potential with the growth of the AI sector. Previous predictions show a range of probabilities, with some indicating a strong belief in Apple's potential due to its involvement in AI, while others see the news as less relevant. Considering these factors, I estimate a moderate probability of the stock price rising, reflecting both the positive sentiment in the AI sector and the uncertainty due to the lack of direct mention of Apple."
+                },
+                {
+                    "model_name": "google/gemini-2.0-flash-001",
+                    "round": 4,
+                    "rise_prediction": 0.58,
+                    "fall_prediction": 0.42,
+                    "reasoning": "The news headline discusses the potential growth of AI stocks, predicting a significant increase in valuation to $4 trillion by 2025. However, Apple Inc. (AAPL) is not explicitly mentioned as one of the two stocks expected to soar. While Apple is a major player in AI, the lack of direct mention may temper the immediate impact on its stock price. However, the overall positive sentiment surrounding AI could create upward pressure on Apple's stock, as investors may still associate the company's future potential with the growth of the AI sector. Previous predictions show a range of opinions, with some models suggesting a moderate to high probability of a rise due to sector optimism, while others see minimal impact. The trend in previous rounds shows a convergence towards a slightly positive stance. Considering these factors, I estimate a moderate probability of the stock price rising, reflecting both the positive sentiment in the AI sector and the uncertainty due to the lack of direct mention of Apple. I am also considering the fact that some models may have other information about the stock price, and a high prediction may indicate that they have some positive information about the stock, while a low prediction may indicate that they have some negative information about the stock. The average prediction of stock price rising is around 0.55, so I will adjust my prediction to be slightly higher than that, but not too high, as the news is not directly about Apple."
+                },
+                {
+                    "model_name": "google/gemini-flash-1.5",
+                    "round": 4,
+                    "rise_prediction": 0.55,
+                    "fall_prediction": 0.45,
+                    "reasoning": "The news headline focuses on the projected growth of two unnamed AI stocks, not directly mentioning Apple.  While Apple is a major player in AI, the lack of direct mention suggests a limited direct impact on its stock price. The initial predictions varied widely, reflecting the ambiguity of the news's relevance to Apple. However, a clear trend emerged across rounds, converging towards a more neutral stance.  The positive sentiment surrounding AI might create some upward pressure on Apple, but this effect is tempered by the absence of specific news about Apple itself.  Considering the indirect relationship, the consensus shift towards neutrality, and the possibility that some models possess additional information influencing their predictions (indicated by the varying initial predictions), a probability slightly above neutral for a price rise is most appropriate. The probabilities reflect the balance between general AI optimism and the lack of direct Apple-specific news.  The consistent convergence of predictions around 0.55 for a price rise suggests this is a reasonable estimate, reflecting the overall uncertainty."
+                },
+                {
+                    "model_name": "deepseek/deepseek-chat-v3-0324",
+                    "round": 4,
+                    "rise_prediction": 0.55,
+                    "fall_prediction": 0.45,
+                    "reasoning": "The news headline discusses a bullish outlook for AI stocks, predicting significant growth in the sector, but does not explicitly mention Apple Inc. (AAPL). While Apple is a major player in AI, the lack of direct mention may temper the immediate impact on its stock price. However, the overall positive sentiment surrounding AI could create upward pressure on Apple's stock, as investors may still associate the company's future potential with the growth of the AI sector. Previous predictions show a range of probabilities, with some indicating a strong belief in Apple's potential due to its involvement in AI, while others see the news as less relevant. Considering these factors, I estimate a moderate probability of the stock price rising, reflecting both the positive sentiment in the AI sector and the uncertainty due to the lack of direct mention of Apple."
+                },
+                {
+                    "model_name": "meta-llama/llama-4-scout",
+                    "round": 4,
+                    "rise_prediction": 0.56,
+                    "fall_prediction": 0.44,
+                    "reasoning": "The news headline discusses a bullish outlook for AI stocks, predicting significant growth in the sector, but does not explicitly mention Apple Inc. (AAPL) as one of the two stocks expected to soar. While Apple is a major player in AI, the lack of direct mention may temper the immediate impact on its stock price. However, the overall positive sentiment surrounding AI could create upward pressure on Apple's stock, as investors may still associate the company's future potential with the growth of the AI sector. Considering the mixed signals from previous predictions and the indirect relationship between the news and Apple's stock, I estimate a moderate probability of the stock price rising, reflecting both the positive sentiment in the AI sector and the uncertainty due to the lack of direct mention of Apple."
+                },
+                {
+                    "model_name": "meta-llama/llama-3.3-70b-instruct",
+                    "round": 4,
+                    "rise_prediction": 0.58,
+                    "fall_prediction": 0.42,
+                    "reasoning": "The news headline discusses a bullish outlook for AI stocks, predicting significant growth in the sector, but does not explicitly mention Apple Inc. (AAPL). While Apple is a major player in AI, the lack of direct mention may temper the immediate impact on its stock price. However, the overall positive sentiment surrounding AI could create upward pressure on Apple's stock, as investors may still associate the company's future potential with the growth of the AI sector. Considering the mixed signals from previous predictions and the indirect relationship between the news and Apple's stock, I estimate a moderate probability of the stock price rising, reflecting both the positive sentiment in the AI sector and the uncertainty due to the lack of direct mention of Apple. The average prediction of stock price rising from other models is around 0.55, and considering the trend of others' beliefs and the potential for other market factors to influence the stock price, I will adjust my prediction to be slightly higher than that."
+                },
+                {
+                    "model_name": "qwen/qwen-turbo",
+                    "round": 4,
+                    "rise_prediction": 0.55,
+                    "fall_prediction": 0.45,
+                    "reasoning": "The financial news highlights the potential for significant growth in the AI sector, with an expected valuation of $4 trillion by 2025. Although Apple Inc. (AAPL) is not explicitly mentioned as one of the two AI stocks, its strong involvement in AI technologies makes it a key player in this sector. The overall positive sentiment towards AI stocks could positively influence investor perceptions of Apple, leading to increased confidence and potentially driving the stock price upward. However, the lack of explicit mention of Apple means that the impact might not be as substantial as if the company was directly referenced. Considering the mixed signals from previous predictions, the probability of a stock price rise is moderate, but there is still a chance that market dynamics and other factors could result in a slight decline."
+                }
+            ]
+        ]
+    }
+]

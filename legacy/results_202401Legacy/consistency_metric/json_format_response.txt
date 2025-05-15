@@ -1,0 +1,52 @@
+Agent 0: gpt-4o-2024-05-13	Agent 1: gpt-4o-mini-2024-07-18	Agent 2: gpt-4-turbo-2024-04-09	Agent 3: gpt-4-0613	Agent 4: gpt-3.5-turbo-0125	
+Consistency Metric: -0.19372656231046073
+Agent 0: gpt-4o-2024-05-13	Agent 1: gpt-4o-2024-05-13	
+Consistency Metric: 0.0
+Agent 0: gpt-4o-2024-05-13	Agent 1: gpt-4o-mini-2024-07-18	
+Consistency Metric: -0.055555554905107996
+Agent 0: gpt-4o-2024-05-13	Agent 1: gpt-4-turbo-2024-04-09	
+Consistency Metric: -0.009137418657260754
+Agent 0: gpt-4o-2024-05-13	Agent 1: gpt-4-0613	
+Consistency Metric: -0.013157889418500148
+Agent 0: gpt-4o-2024-05-13	Agent 1: gpt-3.5-turbo-0125	
+Consistency Metric: -0.09398495243856263
+Agent 0: gpt-4o-mini-2024-07-18	Agent 1: gpt-4o-2024-05-13	
+Consistency Metric: -0.05555555490510798
+Agent 0: gpt-4o-mini-2024-07-18	Agent 1: gpt-4o-mini-2024-07-18	
+Consistency Metric: 0.0
+Agent 0: gpt-4o-mini-2024-07-18	Agent 1: gpt-4-turbo-2024-04-09	
+Consistency Metric: -0.03884712500928129
+Agent 0: gpt-4o-mini-2024-07-18	Agent 1: gpt-4-0613	
+Consistency Metric: -0.019736846124655247
+Agent 0: gpt-4o-mini-2024-07-18	Agent 1: gpt-3.5-turbo-0125	
+Consistency Metric: -0.0794172826289099
+Agent 0: gpt-4-turbo-2024-04-09	Agent 1: gpt-4o-2024-05-13	
+Consistency Metric: -0.009137418657260706
+Agent 0: gpt-4-turbo-2024-04-09	Agent 1: gpt-4o-mini-2024-07-18	
+Consistency Metric: -0.03884712500928123
+Agent 0: gpt-4-turbo-2024-04-09	Agent 1: gpt-4-turbo-2024-04-09	
+Consistency Metric: 0.0
+Agent 0: gpt-4-turbo-2024-04-09	Agent 1: gpt-4-0613	
+Consistency Metric: -0.07971229906124458
+Agent 0: gpt-4-turbo-2024-04-09	Agent 1: gpt-3.5-turbo-0125	
+Consistency Metric: -0.10312499939464026
+Agent 0: gpt-4-0613	Agent 1: gpt-4o-2024-05-13	
+Consistency Metric: -0.013157889418500122
+Agent 0: gpt-4-0613	Agent 1: gpt-4o-mini-2024-07-18	
+Consistency Metric: -0.019736846124655257
+Agent 0: gpt-4-0613	Agent 1: gpt-4-turbo-2024-04-09	
+Consistency Metric: -0.0797122990612446
+Agent 0: gpt-4-0613	Agent 1: gpt-4-0613	
+Consistency Metric: 0.0
+Agent 0: gpt-4-0613	Agent 1: gpt-3.5-turbo-0125	
+Consistency Metric: -0.0910714266365583
+Agent 0: gpt-3.5-turbo-0125	Agent 1: gpt-4o-2024-05-13	
+Consistency Metric: -0.09398495243856261
+Agent 0: gpt-3.5-turbo-0125	Agent 1: gpt-4o-mini-2024-07-18	
+Consistency Metric: -0.07941728262890989
+Agent 0: gpt-3.5-turbo-0125	Agent 1: gpt-4-turbo-2024-04-09	
+Consistency Metric: -0.10312499939464025
+Agent 0: gpt-3.5-turbo-0125	Agent 1: gpt-4-0613	
+Consistency Metric: -0.09107142663655833
+Agent 0: gpt-3.5-turbo-0125	Agent 1: gpt-3.5-turbo-0125	
+Consistency Metric: 0.0

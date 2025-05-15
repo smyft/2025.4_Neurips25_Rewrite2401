@@ -1,0 +1,7 @@
+Agent 0: gpt-4o-2024-05-13	Agent 1: gpt-4o-mini-2024-07-18	Agent 2: gpt-4-turbo-2024-04-09	Agent 3: gpt-4-0613	Agent 4: gpt-3.5-turbo-0125	
+Consistency Metric
+Round 0: -0.16748065930004186
+Round 1: -0.08372379077525859
+Round 2: -0.02481970831298263
+Round 3: -0.009987592182966938
+Round 4: -0.0065882764994576294
